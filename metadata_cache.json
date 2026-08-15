@@ -1,0 +1,1766 @@
+{
+  "GOOGL": {
+    "cnName": "谷歌A",
+    "sector": "传媒"
+  },
+  "GOOG": {
+    "cnName": "谷歌C",
+    "sector": "传媒"
+  },
+  "PDD": {
+    "cnName": "拼多多",
+    "sector": "电商"
+  },
+  "BRK.B": {
+    "cnName": "伯克希尔·哈撒韦B",
+    "sector": "金融"
+  },
+  "EWBC": {
+    "cnName": "华美银行",
+    "sector": "金融"
+  },
+  "BAC": {
+    "cnName": "美国银行",
+    "sector": "金融"
+  },
+  "OXY": {
+    "cnName": "西方石油",
+    "sector": "能源"
+  },
+  "CROX": {
+    "cnName": "卡骆驰",
+    "sector": "消费"
+  },
+  "TME": {
+    "cnName": "腾讯音乐",
+    "sector": "娱乐"
+  },
+  "SPGI": {
+    "cnName": "标普全球",
+    "sector": "金融"
+  },
+  "HRB": {
+    "cnName": "H&R 税务",
+    "sector": "消费"
+  },
+  "MCO": {
+    "cnName": "穆迪",
+    "sector": "金融"
+  },
+  "AAPL": {
+    "cnName": "苹果",
+    "sector": "科技"
+  },
+  "MSCI": {
+    "cnName": "MSCI Inc.",
+    "sector": "金融"
+  },
+  "HCC": {
+    "cnName": "冶金煤业",
+    "sector": "能源"
+  },
+  "RIG": {
+    "cnName": "越洋钻探",
+    "sector": "能源"
+  },
+  "AMR": {
+    "cnName": "阿尔法金属",
+    "sector": "能源"
+  },
+  "C": {
+    "cnName": "花旗集团",
+    "sector": "金融"
+  },
+  "CHK": {
+    "cnName": "",
+    "sector": ""
+  },
+  "GS": {
+    "cnName": "高盛集团",
+    "sector": "金融"
+  },
+  "NVDA": {
+    "cnName": "英伟达",
+    "sector": "科技"
+  },
+  "TSLA": {
+    "cnName": "特斯拉",
+    "sector": "消费"
+  },
+  "MSFT": {
+    "cnName": "微软",
+    "sector": "科技"
+  },
+  "UNH": {
+    "cnName": "联合健康",
+    "sector": "医药"
+  },
+  "DIS": {
+    "cnName": "迪士尼",
+    "sector": "传媒"
+  },
+  "CRDO": {
+    "cnName": "思瑞光电",
+    "sector": "科技"
+  },
+  "TSM": {
+    "cnName": "台积电",
+    "sector": "科技"
+  },
+  "CRCL": {
+    "cnName": "圈网集团",
+    "sector": "金融"
+  },
+  "PLTR": {
+    "cnName": "Palantir Technologies Inc.",
+    "sector": "科技"
+  },
+  "SNPS": {
+    "cnName": "新思科技",
+    "sector": "科技"
+  },
+  "CRWD": {
+    "cnName": "CrowdStrike Holdings, Inc.",
+    "sector": "科技"
+  },
+  "SNOW": {
+    "cnName": "Snowflake Inc.",
+    "sector": "科技"
+  },
+  "TEM": {
+    "cnName": "泰普斯 AI",
+    "sector": "医药"
+  },
+  "INOD": {
+    "cnName": "Innodata Inc.",
+    "sector": "科技"
+  },
+  "YY": {
+    "cnName": "",
+    "sector": ""
+  },
+  "NTES": {
+    "cnName": "网易",
+    "sector": "传媒"
+  },
+  "AMZN": {
+    "cnName": "亚马逊",
+    "sector": "消费"
+  },
+  "MU": {
+    "cnName": "美光科技",
+    "sector": "科技"
+  },
+  "UBER": {
+    "cnName": "优步",
+    "sector": "科技"
+  },
+  "BABA": {
+    "cnName": "阿里巴巴",
+    "sector": "电商"
+  },
+  "VST": {
+    "cnName": "维斯塔",
+    "sector": "公用事业"
+  },
+  "IEMG": {
+    "cnName": "iShares 核心 MSCI 新兴市场 ETF",
+    "sector": ""
+  },
+  "NRG": {
+    "cnName": "NRG能源",
+    "sector": "公用事业"
+  },
+  "META": {
+    "cnName": "Meta",
+    "sector": "传媒"
+  },
+  "SNDK": {
+    "cnName": "闪迪",
+    "sector": "科技"
+  },
+  "GLW": {
+    "cnName": "康宁",
+    "sector": "科技"
+  },
+  "WHR": {
+    "cnName": "惠而浦",
+    "sector": "消费"
+  },
+  "LRCX": {
+    "cnName": "拉姆研究",
+    "sector": "科技"
+  },
+  "BIDU": {
+    "cnName": "百度",
+    "sector": "科技"
+  },
+  "LHX": {
+    "cnName": "L3哈里斯",
+    "sector": "工业"
+  },
+  "RTX": {
+    "cnName": "雷神技术",
+    "sector": "工业"
+  },
+  "ASML": {
+    "cnName": "阿斯麦",
+    "sector": "科技"
+  },
+  "QCOM": {
+    "cnName": "高通",
+    "sector": "科技"
+  },
+  "BALL": {
+    "cnName": "鲍尔公司",
+    "sector": "消费"
+  },
+  "AMD": {
+    "cnName": "超微半导体",
+    "sector": "科技"
+  },
+  "JD": {
+    "cnName": "京东",
+    "sector": "电商"
+  },
+  "LYFT": {
+    "cnName": "Lyft",
+    "sector": "科技"
+  },
+  "KWEB": {
+    "cnName": "中概互联ETF",
+    "sector": "电商"
+  },
+  "ET": {
+    "cnName": "能源传输",
+    "sector": "能源"
+  },
+  "MPLX": {
+    "cnName": "MPLX管道",
+    "sector": "能源"
+  },
+  "DB": {
+    "cnName": "德意志银行",
+    "sector": "金融"
+  },
+  "LUV": {
+    "cnName": "西南航空",
+    "sector": "工业"
+  },
+  "KMI": {
+    "cnName": "金德摩根",
+    "sector": "能源"
+  },
+  "GM": {
+    "cnName": "通用汽车",
+    "sector": "消费"
+  },
+  "DELL": {
+    "cnName": "戴尔科技",
+    "sector": "科技"
+  },
+  "AAL": {
+    "cnName": "美国航空",
+    "sector": "工业"
+  },
+  "SNAP": {
+    "cnName": "Snap Inc.",
+    "sector": "传媒"
+  },
+  "ATVI": {
+    "cnName": "",
+    "sector": ""
+  },
+  "ADBE": {
+    "cnName": "Adobe Inc.",
+    "sector": "科技"
+  },
+  "QQQ": {
+    "cnName": "Invesco QQQ 信托",
+    "sector": ""
+  },
+  "AVGO": {
+    "cnName": "博通",
+    "sector": "科技"
+  },
+  "BA": {
+    "cnName": "波音",
+    "sector": "工业"
+  },
+  "NFLX": {
+    "cnName": "奈飞",
+    "sector": "传媒"
+  },
+  "PYPL": {
+    "cnName": "PayPal Holdings, Inc.",
+    "sector": "金融"
+  },
+  "SQ": {
+    "cnName": "",
+    "sector": ""
+  },
+  "FCX": {
+    "cnName": "自由港麦克莫兰",
+    "sector": "材料"
+  },
+  "WMT": {
+    "cnName": "沃尔玛",
+    "sector": "消费"
+  },
+  "FDX": {
+    "cnName": "联邦快递",
+    "sector": "工业"
+  },
+  "INTC": {
+    "cnName": "英特尔",
+    "sector": "科技"
+  },
+  "ORCL": {
+    "cnName": "甲骨文",
+    "sector": "科技"
+  },
+  "UPS": {
+    "cnName": "联合包裹服务",
+    "sector": "工业"
+  },
+  "UAL": {
+    "cnName": "联合航空",
+    "sector": "工业"
+  },
+  "TFC": {
+    "cnName": "Truist 金融",
+    "sector": "金融"
+  },
+  "AXP": {
+    "cnName": "美国运通",
+    "sector": "金融"
+  },
+  "MA": {
+    "cnName": "万事达卡",
+    "sector": "金融"
+  },
+  "RACE": {
+    "cnName": "法拉利",
+    "sector": "消费"
+  },
+  "BRK.A": {
+    "cnName": "伯克希尔·哈撒韦A",
+    "sector": "金融"
+  },
+  "DJCO": {
+    "cnName": "每日记录公司",
+    "sector": "科技"
+  },
+  "SRG": {
+    "cnName": "Seritage成长地产",
+    "sector": "地产"
+  },
+  "WFC": {
+    "cnName": "富国银行",
+    "sector": "金融"
+  },
+  "BN": {
+    "cnName": "布鲁克菲尔德",
+    "sector": "金融"
+  },
+  "KKR": {
+    "cnName": "KKR集团",
+    "sector": "金融"
+  },
+  "V": {
+    "cnName": "维萨",
+    "sector": "金融"
+  },
+  "ROP": {
+    "cnName": "罗珀科技",
+    "sector": "科技"
+  },
+  "CSGP": {
+    "cnName": "CoStar集团",
+    "sector": "地产"
+  },
+  "FICO": {
+    "cnName": "公平信息公司",
+    "sector": "科技"
+  },
+  "ORLY": {
+    "cnName": "奥莱利汽车",
+    "sector": "消费"
+  },
+  "CPRT": {
+    "cnName": "Copart, Inc.",
+    "sector": "工业"
+  },
+  "ABNB": {
+    "cnName": "爱彼迎",
+    "sector": "消费"
+  },
+  "CCCS": {
+    "cnName": "",
+    "sector": ""
+  },
+  "CRM": {
+    "cnName": "Salesforce, Inc.",
+    "sector": "科技"
+  },
+  "NOW": {
+    "cnName": "ServiceNow, Inc.",
+    "sector": "科技"
+  },
+  "GSHD": {
+    "cnName": "Goosehead保险",
+    "sector": "金融"
+  },
+  "SOPH": {
+    "cnName": "SOPHiA GENETICS SA",
+    "sector": "医药"
+  },
+  "AMT": {
+    "cnName": "美国塔",
+    "sector": "地产"
+  },
+  "PRM": {
+    "cnName": "Perimeter 解决方案",
+    "sector": "材料"
+  },
+  "DLTR": {
+    "cnName": "美元树",
+    "sector": "消费"
+  },
+  "KMX": {
+    "cnName": "卡玛克斯",
+    "sector": "消费"
+  },
+  "VRSK": {
+    "cnName": "Verisk 分析",
+    "sector": "工业"
+  },
+  "DG": {
+    "cnName": "美元通用",
+    "sector": "消费"
+  },
+  "SBAC": {
+    "cnName": "SBA 通信",
+    "sector": "地产"
+  },
+  "DHR": {
+    "cnName": "丹纳赫",
+    "sector": "医药"
+  },
+  "ROST": {
+    "cnName": "Ross Stores, Inc.",
+    "sector": "消费"
+  },
+  "FDS": {
+    "cnName": "FactSet 研究系统",
+    "sector": "金融"
+  },
+  "TDG": {
+    "cnName": "TransDigm 集团",
+    "sector": "工业"
+  },
+  "XOM": {
+    "cnName": "埃克森美孚",
+    "sector": "能源"
+  },
+  "SCHW": {
+    "cnName": "嘉信理财",
+    "sector": "金融"
+  },
+  "MRP": {
+    "cnName": "密罗斯地产",
+    "sector": "地产"
+  },
+  "KO": {
+    "cnName": "可口可乐",
+    "sector": "消费"
+  },
+  "CVX": {
+    "cnName": "雪佛龙",
+    "sector": "能源"
+  },
+  "CB": {
+    "cnName": "丘博保险",
+    "sector": "金融"
+  },
+  "KHC": {
+    "cnName": "卡夫亨氏",
+    "sector": "消费"
+  },
+  "DVA": {
+    "cnName": "达维塔",
+    "sector": "医药"
+  },
+  "KR": {
+    "cnName": "克罗格",
+    "sector": "消费"
+  },
+  "SIRI": {
+    "cnName": "Sirius XM Holdings Inc.",
+    "sector": "传媒"
+  },
+  "DAL": {
+    "cnName": "达美航空",
+    "sector": "工业"
+  },
+  "VRSN": {
+    "cnName": "维瑞信",
+    "sector": "科技"
+  },
+  "LLYVK": {
+    "cnName": "自由直播控股",
+    "sector": "传媒"
+  },
+  "COF": {
+    "cnName": "美国资本集团",
+    "sector": "金融"
+  },
+  "NYT": {
+    "cnName": "纽约时报",
+    "sector": "传媒"
+  },
+  "ALLY": {
+    "cnName": "Ally金融",
+    "sector": "金融"
+  },
+  "LEN": {
+    "cnName": "莱纳建筑",
+    "sector": "消费"
+  },
+  "NUE": {
+    "cnName": "纽科尔",
+    "sector": "材料"
+  },
+  "LPX": {
+    "cnName": "路易斯安那太平洋",
+    "sector": "工业"
+  },
+  "STZ": {
+    "cnName": "星座品牌",
+    "sector": "消费"
+  },
+  "NVR": {
+    "cnName": "NVR, Inc.",
+    "sector": "消费"
+  },
+  "M": {
+    "cnName": "梅西百货",
+    "sector": "消费"
+  },
+  "JEF": {
+    "cnName": "杰富瑞",
+    "sector": "金融"
+  },
+  "USB": {
+    "cnName": "美国银行",
+    "sector": "金融"
+  },
+  "STNE": {
+    "cnName": "石头科技",
+    "sector": "科技"
+  },
+  "RH": {
+    "cnName": "RH",
+    "sector": "消费"
+  },
+  "HPQ": {
+    "cnName": "惠普",
+    "sector": "科技"
+  },
+  "PARA": {
+    "cnName": "",
+    "sector": ""
+  },
+  "SNX": {
+    "cnName": "TD 辛纳克斯",
+    "sector": "科技"
+  },
+  "OMF": {
+    "cnName": "OneMain 控股",
+    "sector": "金融"
+  },
+  "ICLR": {
+    "cnName": "ICON临床",
+    "sector": "医药"
+  },
+  "ELV": {
+    "cnName": "信诺健康",
+    "sector": "医药"
+  },
+  "AN": {
+    "cnName": "奥托纳森",
+    "sector": "消费"
+  },
+  "SLM": {
+    "cnName": "萨利美",
+    "sector": "金融"
+  },
+  "PRI": {
+    "cnName": "Primerica",
+    "sector": "金融"
+  },
+  "BLDR": {
+    "cnName": "建筑商FirstSource",
+    "sector": "工业"
+  },
+  "RYAAY": {
+    "cnName": "瑞安航空",
+    "sector": "工业"
+  },
+  "FNF": {
+    "cnName": "fidelity 国家金融",
+    "sector": "金融"
+  },
+  "FG": {
+    "cnName": "F&G 年金与寿险",
+    "sector": "金融"
+  },
+  "DHI": {
+    "cnName": "D.R. 霍顿",
+    "sector": "消费"
+  },
+  "AM": {
+    "cnName": "安特罗中游",
+    "sector": "能源"
+  },
+  "JPM": {
+    "cnName": "摩根大通",
+    "sector": "金融"
+  },
+  "R": {
+    "cnName": "莱德系统",
+    "sector": "工业"
+  },
+  "CMCSA": {
+    "cnName": "康卡斯特",
+    "sector": "传媒"
+  },
+  "HCA": {
+    "cnName": "HCA 医疗",
+    "sector": "医药"
+  },
+  "ARES": {
+    "cnName": "阿雷斯管理",
+    "sector": "金融"
+  },
+  "APO": {
+    "cnName": "阿波罗全球管理",
+    "sector": "金融"
+  },
+  "MAR": {
+    "cnName": "万豪国际",
+    "sector": "消费"
+  },
+  "PGR": {
+    "cnName": "进步集团",
+    "sector": "金融"
+  },
+  "AMAT": {
+    "cnName": "应用材料",
+    "sector": "科技"
+  },
+  "FAF": {
+    "cnName": "第一美国金融",
+    "sector": "金融"
+  },
+  "LLYVA": {
+    "cnName": "自由直播控股",
+    "sector": "传媒"
+  },
+  "QSR": {
+    "cnName": "餐饮品牌国际",
+    "sector": "消费"
+  },
+  "WCC": {
+    "cnName": "WESCO 国际",
+    "sector": "工业"
+  },
+  "UNP": {
+    "cnName": "联合太平洋",
+    "sector": "工业"
+  },
+  "FERG": {
+    "cnName": "弗格森企业",
+    "sector": "工业"
+  },
+  "WTW": {
+    "cnName": "威利斯塔塔 Watson",
+    "sector": "金融"
+  },
+  "AON": {
+    "cnName": "怡安",
+    "sector": "金融"
+  },
+  "TFX": {
+    "cnName": "泰利福",
+    "sector": "医药"
+  },
+  "EXP": {
+    "cnName": "鹰材料",
+    "sector": "材料"
+  },
+  "GPC": {
+    "cnName": "真品零部件",
+    "sector": "消费"
+  },
+  "LBTYA": {
+    "cnName": "自由环球",
+    "sector": "传媒"
+  },
+  "HLF": {
+    "cnName": "安利",
+    "sector": "消费"
+  },
+  "GDS": {
+    "cnName": "万国数据",
+    "sector": "科技"
+  },
+  "COLD": {
+    "cnName": "Americold 房地产信托",
+    "sector": "地产"
+  },
+  "MOH": {
+    "cnName": "莫利纳医疗保健",
+    "sector": "医药"
+  },
+  "AERO": {
+    "cnName": "墨西哥航空",
+    "sector": "工业"
+  },
+  "NCLH": {
+    "cnName": "挪威邮轮集团",
+    "sector": "消费"
+  },
+  "PCVX": {
+    "cnName": "Vaxcyte, Inc.",
+    "sector": "医药"
+  },
+  "DNOW": {
+    "cnName": "DNOW Inc.",
+    "sector": "工业"
+  },
+  "MCK": {
+    "cnName": "麦克森",
+    "sector": "医药"
+  },
+  "CAH": {
+    "cnName": "卡地纳健康",
+    "sector": "医药"
+  },
+  "XPO": {
+    "cnName": "XPO 物流",
+    "sector": "工业"
+  },
+  "NUVB": {
+    "cnName": "努瓦生科",
+    "sector": "医药"
+  },
+  "FISV": {
+    "cnName": "费城",
+    "sector": ""
+  },
+  "EDU": {
+    "cnName": "新东方",
+    "sector": "消费"
+  },
+  "LAD": {
+    "cnName": "利西亚汽车",
+    "sector": "消费"
+  },
+  "FIS": {
+    "cnName": "Fidelity 国家信息服务",
+    "sector": "科技"
+  },
+  "COIN": {
+    "cnName": "Coinbase 全球",
+    "sector": "金融"
+  },
+  "CLVT": {
+    "cnName": "科睿唯安",
+    "sector": "科技"
+  },
+  "SGI": {
+    "cnName": "Somnigroup 国际",
+    "sector": "消费"
+  },
+  "HHH": {
+    "cnName": "霍华德·休斯控股",
+    "sector": "地产"
+  },
+  "SEG": {
+    "cnName": "Seaport 娱乐集团",
+    "sector": "地产"
+  },
+  "HTZ": {
+    "cnName": "赫兹全球控股",
+    "sector": "工业"
+  },
+  "PG": {
+    "cnName": "宝洁",
+    "sector": "消费"
+  },
+  "ZTS": {
+    "cnName": "硕腾",
+    "sector": "医药"
+  },
+  "LOAR": {
+    "cnName": "洛尔控股",
+    "sector": "工业"
+  },
+  "ABG": {
+    "cnName": "阿萨比汽车集团",
+    "sector": "消费"
+  },
+  "CPNG": {
+    "cnName": "Coupang, Inc.",
+    "sector": "消费"
+  },
+  "UHAL.B": {
+    "cnName": "",
+    "sector": ""
+  },
+  "UHAL": {
+    "cnName": "U-Haul 控股",
+    "sector": "工业"
+  },
+  "RYN": {
+    "cnName": "雷奥尼尔",
+    "sector": "地产"
+  },
+  "JOE": {
+    "cnName": "圣乔公司",
+    "sector": "地产"
+  },
+  "EPD": {
+    "cnName": "企业产品合作伙伴",
+    "sector": "能源"
+  },
+  "OZK": {
+    "cnName": "奥兹克银行",
+    "sector": "金融"
+  },
+  "WRB": {
+    "cnName": "伯克利风险",
+    "sector": "金融"
+  },
+  "HOMB": {
+    "cnName": "Home BancShares, Inc.",
+    "sector": "金融"
+  },
+  "MAT": {
+    "cnName": "美泰",
+    "sector": "消费"
+  },
+  "CNX": {
+    "cnName": "CNX 资源",
+    "sector": "能源"
+  },
+  "IAC": {
+    "cnName": "People Inc",
+    "sector": "传媒"
+  },
+  "ACI": {
+    "cnName": "阿尔伯特森斯",
+    "sector": "消费"
+  },
+  "REGN": {
+    "cnName": "再生元",
+    "sector": "医药"
+  },
+  "FBIN": {
+    "cnName": "Fortune Brands 创新",
+    "sector": "工业"
+  },
+  "MGM": {
+    "cnName": "米高梅国际度假",
+    "sector": "消费"
+  },
+  "GLIBK": {
+    "cnName": "自由资本",
+    "sector": "传媒"
+  },
+  "TRIP": {
+    "cnName": "Tripadvisor, Inc.",
+    "sector": "消费"
+  },
+  "PVH": {
+    "cnName": "PVH 集团",
+    "sector": "消费"
+  },
+  "SHEN": {
+    "cnName": "谢南多厄电信",
+    "sector": "传媒"
+  },
+  "BIO": {
+    "cnName": "伯乐雷德实验室",
+    "sector": "医药"
+  },
+  "CNH": {
+    "cnName": "纽荷兰工业",
+    "sector": "工业"
+  },
+  "ESRT": {
+    "cnName": "帝国州房地产信托",
+    "sector": "地产"
+  },
+  "WTM": {
+    "cnName": "白山保险集团",
+    "sector": "金融"
+  },
+  "GHC": {
+    "cnName": "格拉汉姆控股",
+    "sector": "工业"
+  },
+  "ACMR": {
+    "cnName": "雅客股份",
+    "sector": "科技"
+  },
+  "BATRK": {
+    "cnName": "亚特兰大勇士",
+    "sector": "传媒"
+  },
+  "DOLE": {
+    "cnName": "多乐氏",
+    "sector": "消费"
+  },
+  "SAM": {
+    "cnName": "波士顿啤酒",
+    "sector": "消费"
+  },
+  "SN": {
+    "cnName": "鲨鱼尼纳",
+    "sector": "消费"
+  },
+  "AVTR": {
+    "cnName": "安万特",
+    "sector": "医药"
+  },
+  "ALX": {
+    "cnName": "亚历山大酒店",
+    "sector": "地产"
+  },
+  "CLW": {
+    "cnName": "清水纸业",
+    "sector": "材料"
+  },
+  "KSPI": {
+    "cnName": "Joint Stock Company Kaspi.kz",
+    "sector": "科技"
+  },
+  "MICC": {
+    "cnName": "Magnum 冰淇淋",
+    "sector": "消费"
+  },
+  "HTHT": {
+    "cnName": "H 世界集团",
+    "sector": "消费"
+  },
+  "MLCO": {
+    "cnName": "美高梅",
+    "sector": "消费"
+  },
+  "GLIBA": {
+    "cnName": "自由资本",
+    "sector": "传媒"
+  },
+  "AMG": {
+    "cnName": "附属资产管理集团",
+    "sector": "金融"
+  },
+  "LYV": {
+    "cnName": "现场娱乐",
+    "sector": "传媒"
+  },
+  "HSIC": {
+    "cnName": "亨利·谢因",
+    "sector": "医药"
+  },
+  "H": {
+    "cnName": "凯悦酒店",
+    "sector": "消费"
+  },
+  "MSGS": {
+    "cnName": "MSG 体育",
+    "sector": "传媒"
+  },
+  "ENOV": {
+    "cnName": "恩诺维斯",
+    "sector": "医药"
+  },
+  "LAZ": {
+    "cnName": "拉扎德",
+    "sector": "金融"
+  },
+  "RXO": {
+    "cnName": "RXO, Inc.",
+    "sector": "工业"
+  },
+  "HDB": {
+    "cnName": "印度住房金融",
+    "sector": "金融"
+  },
+  "BRK/B": {
+    "cnName": "伯克希尔哈撒韦 B 类",
+    "sector": ""
+  },
+  "VSAT": {
+    "cnName": "维亚 سات",
+    "sector": "科技"
+  },
+  "BP": {
+    "cnName": "英国石油",
+    "sector": "能源"
+  },
+  "AIG": {
+    "cnName": "美国国际集团",
+    "sector": "金融"
+  },
+  "NG": {
+    "cnName": "诺瓦黄金资源",
+    "sector": "材料"
+  },
+  "CPF": {
+    "cnName": "中央太平洋金融",
+    "sector": "金融"
+  },
+  "KGC": {
+    "cnName": "金罗斯黄金",
+    "sector": "材料"
+  },
+  "PBF": {
+    "cnName": "PBF 能源",
+    "sector": "能源"
+  },
+  "LNG": {
+    "cnName": "雪佛龙液化",
+    "sector": "能源"
+  },
+  "EBAY": {
+    "cnName": "易贝",
+    "sector": "消费"
+  },
+  "BYD": {
+    "cnName": "博伊德博彩",
+    "sector": "消费"
+  },
+  "AR": {
+    "cnName": "安特罗资源",
+    "sector": "能源"
+  },
+  "OLN": {
+    "cnName": "奥利金",
+    "sector": "材料"
+  },
+  "RUN": {
+    "cnName": "太阳运行",
+    "sector": "科技"
+  },
+  "INVA": {
+    "cnName": "Innoviva, Inc.",
+    "sector": "医药"
+  },
+  "GNW": {
+    "cnName": "冠州金融",
+    "sector": "金融"
+  },
+  "CAR": {
+    "cnName": "艾维斯预算集团",
+    "sector": "工业"
+  },
+  "CACC": {
+    "cnName": "信贷接受公司",
+    "sector": "金融"
+  },
+  "SYF": {
+    "cnName": "同步金融",
+    "sector": "金融"
+  },
+  "TMQ": {
+    "cnName": "Trilogy 金属",
+    "sector": "材料"
+  },
+  "COR": {
+    "cnName": "森科拉",
+    "sector": "医药"
+  },
+  "QRVO": {
+    "cnName": "Qorvo, Inc.",
+    "sector": "科技"
+  },
+  "PCG": {
+    "cnName": "太平洋气体电力",
+    "sector": "公用事业"
+  },
+  "T": {
+    "cnName": "美国电话电报公司",
+    "sector": "传媒"
+  },
+  "YPF": {
+    "cnName": "YPF 能源",
+    "sector": "能源"
+  },
+  "AKBA": {
+    "cnName": "阿基巴治疗",
+    "sector": "医药"
+  },
+  "NXST": {
+    "cnName": "Nexstar 媒体集团",
+    "sector": "传媒"
+  },
+  "FOXA": {
+    "cnName": "福斯公司",
+    "sector": "传媒"
+  },
+  "TAK": {
+    "cnName": "武田制药",
+    "sector": "医药"
+  },
+  "FOX": {
+    "cnName": "福斯公司",
+    "sector": "传媒"
+  },
+  "BMY": {
+    "cnName": "百时美施贵宝",
+    "sector": "医药"
+  },
+  "GOSS": {
+    "cnName": "Gossamer Bio, Inc.",
+    "sector": "医药"
+  },
+  "VIST": {
+    "cnName": "Vista 能源",
+    "sector": "能源"
+  },
+  "CARS": {
+    "cnName": "Cars.com Inc.",
+    "sector": "传媒"
+  },
+  "VTR": {
+    "cnName": "维纳斯医疗",
+    "sector": "地产"
+  },
+  "SSNC": {
+    "cnName": "SS&C 科技控股",
+    "sector": "科技"
+  },
+  "DOC": {
+    "cnName": "健康峰地产",
+    "sector": "地产"
+  },
+  "HWM": {
+    "cnName": "霍维特航空航天",
+    "sector": "工业"
+  },
+  "MPC": {
+    "cnName": "马拉松石油",
+    "sector": "能源"
+  },
+  "IFF": {
+    "cnName": "国际香料香精公司",
+    "sector": "材料"
+  },
+  "CGEM": {
+    "cnName": "Cullinan 治疗",
+    "sector": "医药"
+  },
+  "GTX": {
+    "cnName": "盖瑞特运动",
+    "sector": "消费"
+  },
+  "DBX": {
+    "cnName": "Dropbox, Inc.",
+    "sector": "科技"
+  },
+  "TEAD": {
+    "cnName": "Teads 控股",
+    "sector": "传媒"
+  },
+  "HIPOW": {
+    "cnName": "",
+    "sector": ""
+  },
+  "GEN": {
+    "cnName": "Gen Digital Inc.",
+    "sector": "科技"
+  },
+  "EHC": {
+    "cnName": "恩康医疗",
+    "sector": "医药"
+  },
+  "AUROW": {
+    "cnName": "奥罗拉创新",
+    "sector": ""
+  },
+  "GTN": {
+    "cnName": "Gray Media, Inc.",
+    "sector": "传媒"
+  },
+  "POST": {
+    "cnName": "Post 控股",
+    "sector": "消费"
+  },
+  "BRBR": {
+    "cnName": "贝尔铃品牌",
+    "sector": "消费"
+  },
+  "WBD": {
+    "cnName": "华纳兄弟探索",
+    "sector": "传媒"
+  },
+  "DBRG": {
+    "cnName": "数字桥梁集团",
+    "sector": "金融"
+  },
+  "OPTU": {
+    "cnName": "Optimum 通信",
+    "sector": "传媒"
+  },
+  "SWKS": {
+    "cnName": "Skyworks Solutions, Inc.",
+    "sector": "科技"
+  },
+  "FNCHQ": {
+    "cnName": "芬奇治疗学集团",
+    "sector": "医药"
+  },
+  "J": {
+    "cnName": "雅各布斯解决方案",
+    "sector": "工业"
+  },
+  "FTRE": {
+    "cnName": "Fortrea 控股",
+    "sector": "医药"
+  },
+  "SOUN": {
+    "cnName": "声纹 AI",
+    "sector": "科技"
+  },
+  "HUM": {
+    "cnName": "胡玛纳",
+    "sector": "医药"
+  },
+  "SOLV": {
+    "cnName": "索伦图姆",
+    "sector": "医药"
+  },
+  "WSC": {
+    "cnName": "威尔斯科特控股",
+    "sector": "工业"
+  },
+  "LBRDK": {
+    "cnName": "自由宽带",
+    "sector": "传媒"
+  },
+  "TBN": {
+    "cnName": "坦博兰资源",
+    "sector": "能源"
+  },
+  "LBRDA": {
+    "cnName": "自由宽带",
+    "sector": "传媒"
+  },
+  "APD": {
+    "cnName": "空气化工",
+    "sector": "材料"
+  },
+  "MATX": {
+    "cnName": "马特森",
+    "sector": "工业"
+  },
+  "MDLZ": {
+    "cnName": "Mondelez 国际",
+    "sector": "消费"
+  },
+  "CMG": {
+    "cnName": "Chipotle 墨西哥烧烤",
+    "sector": "消费"
+  },
+  "ADP": {
+    "cnName": "自动数据处理",
+    "sector": "科技"
+  },
+  "NKE": {
+    "cnName": "耐克",
+    "sector": "消费"
+  },
+  "LOW": {
+    "cnName": "家得宝",
+    "sector": "消费"
+  },
+  "HLT": {
+    "cnName": "希尔顿全球控股",
+    "sector": "消费"
+  },
+  "SBUX": {
+    "cnName": "星巴克",
+    "sector": "消费"
+  },
+  "A": {
+    "cnName": "安捷伦科技",
+    "sector": "医药"
+  },
+  "BX": {
+    "cnName": "黑石集团",
+    "sector": "金融"
+  },
+  "PK": {
+    "cnName": "公园酒店与度假村",
+    "sector": "地产"
+  },
+  "DPZ": {
+    "cnName": "达美乐披萨",
+    "sector": "消费"
+  },
+  "CP": {
+    "cnName": "加拿大太平洋堪萨斯城铁路",
+    "sector": "工业"
+  },
+  "WU": {
+    "cnName": "西联",
+    "sector": "金融"
+  },
+  "TEVA": {
+    "cnName": "梯瓦制药",
+    "sector": "医药"
+  },
+  "AIZ": {
+    "cnName": "安盛",
+    "sector": "金融"
+  },
+  "NAVI": {
+    "cnName": "纳维恩特",
+    "sector": "金融"
+  },
+  "RYAM": {
+    "cnName": "雷奥尼尔高级材料",
+    "sector": "材料"
+  },
+  "WEN": {
+    "cnName": "温迪",
+    "sector": "消费"
+  },
+  "BEN": {
+    "cnName": "富兰克林资源",
+    "sector": "金融"
+  },
+  "SPH": {
+    "cnName": "Suburban 丙烷合作伙伴",
+    "sector": "公用事业"
+  },
+  "GPI": {
+    "cnName": "第一汽车集团",
+    "sector": "消费"
+  },
+  "CWH": {
+    "cnName": "露营世界控股",
+    "sector": "消费"
+  },
+  "TMDX": {
+    "cnName": "TransMedics 集团",
+    "sector": "医药"
+  },
+  "CCO": {
+    "cnName": "Clear Channel 户外控股",
+    "sector": "传媒"
+  },
+  "OI": {
+    "cnName": "O-I 玻璃",
+    "sector": "消费"
+  },
+  "USCB": {
+    "cnName": "USCB 金融控股",
+    "sector": "金融"
+  },
+  "BRK/A": {
+    "cnName": "伯克希尔哈撒韦 A 类",
+    "sector": ""
+  },
+  "LNC": {
+    "cnName": "林肯国家",
+    "sector": "金融"
+  },
+  "HIG": {
+    "cnName": "大都会保险",
+    "sector": "金融"
+  },
+  "FNMA": {
+    "cnName": "联邦国民抵押贷款协会",
+    "sector": "金融"
+  },
+  "FMCC": {
+    "cnName": "联邦住房贷款抵押公司",
+    "sector": "金融"
+  },
+  "VOD": {
+    "cnName": "沃达丰",
+    "sector": "传媒"
+  },
+  "LE": {
+    "cnName": "兰斯恩德",
+    "sector": "消费"
+  },
+  "MO": {
+    "cnName": "奥驰亚集团",
+    "sector": "消费"
+  },
+  "MCY": {
+    "cnName": "水星通用",
+    "sector": "金融"
+  },
+  "SRSCQ": {
+    "cnName": "西尔斯加拿大",
+    "sector": "消费"
+  },
+  "CNQ": {
+    "cnName": "加拿大自然资源",
+    "sector": "能源"
+  },
+  "IBM": {
+    "cnName": "International Business Machines Corporation",
+    "sector": "科技"
+  },
+  "CLPR": {
+    "cnName": "Clipper 房地产",
+    "sector": "地产"
+  },
+  "SPB": {
+    "cnName": "光谱品牌控股",
+    "sector": "消费"
+  },
+  "SPG": {
+    "cnName": "西蒙地产集团",
+    "sector": "地产"
+  },
+  "WES": {
+    "cnName": "西方中游合作伙伴",
+    "sector": "能源"
+  },
+  "CINF": {
+    "cnName": "辛辛那提金融",
+    "sector": "金融"
+  },
+  "ENB": {
+    "cnName": "恩布里奇",
+    "sector": "能源"
+  },
+  "CVS": {
+    "cnName": "凯维健康",
+    "sector": "医药"
+  },
+  "ORI": {
+    "cnName": "老共和国际",
+    "sector": "金融"
+  },
+  "PAA": {
+    "cnName": "Plains 美国管道",
+    "sector": "能源"
+  },
+  "PM": {
+    "cnName": "菲利普莫里斯国际",
+    "sector": "消费"
+  },
+  "WMB": {
+    "cnName": "威廉姆斯",
+    "sector": "能源"
+  },
+  "VZ": {
+    "cnName": "威瑞森通信",
+    "sector": "传媒"
+  },
+  "TRP": {
+    "cnName": "TC 能源",
+    "sector": "能源"
+  },
+  "CMC": {
+    "cnName": "商业金属公司",
+    "sector": "工业"
+  },
+  "NTR": {
+    "cnName": "纽崔恩",
+    "sector": "材料"
+  },
+  "DOW": {
+    "cnName": "陶氏",
+    "sector": "材料"
+  },
+  "WFG": {
+    "cnName": "西 Fraser 木材",
+    "sector": "材料"
+  },
+  "CMA": {
+    "cnName": "",
+    "sector": ""
+  },
+  "KEY": {
+    "cnName": "第一资本",
+    "sector": "金融"
+  },
+  "EOG": {
+    "cnName": "EOG 资源",
+    "sector": "能源"
+  },
+  "FANG": {
+    "cnName": "钻石背能源",
+    "sector": "能源"
+  },
+  "CNR": {
+    "cnName": "Core 自然资源",
+    "sector": "能源"
+  },
+  "CF": {
+    "cnName": "CF 工业控股",
+    "sector": "材料"
+  },
+  "TGT": {
+    "cnName": "塔吉特",
+    "sector": "消费"
+  },
+  "NRP": {
+    "cnName": "自然资源合作伙伴",
+    "sector": "能源"
+  },
+  "L": {
+    "cnName": "洛伊斯",
+    "sector": "金融"
+  },
+  "BNY": {
+    "cnName": "纽约梅隆银行",
+    "sector": "金融"
+  },
+  "TRV": {
+    "cnName": "旅行者",
+    "sector": "金融"
+  },
+  "MUR": {
+    "cnName": "墨菲石油",
+    "sector": "能源"
+  },
+  "PHG": {
+    "cnName": "飞利浦",
+    "sector": "医药"
+  },
+  "CX": {
+    "cnName": "西麦斯",
+    "sector": "材料"
+  },
+  "ABT": {
+    "cnName": "雅培",
+    "sector": "医药"
+  },
+  "VMC": {
+    "cnName": "Vulcan 材料",
+    "sector": "材料"
+  },
+  "MTN": {
+    "cnName": "vail 度假村",
+    "sector": "消费"
+  },
+  "DIN": {
+    "cnName": "迪恩品牌全球",
+    "sector": "消费"
+  },
+  "MLM": {
+    "cnName": "马丁玛丽埃塔材料",
+    "sector": "材料"
+  },
+  "SCI": {
+    "cnName": "国际服务集团",
+    "sector": "消费"
+  },
+  "MOS": {
+    "cnName": "摩斯凯",
+    "sector": "材料"
+  },
+  "VNO": {
+    "cnName": "Vornado 地产信托",
+    "sector": "地产"
+  },
+  "NWS": {
+    "cnName": "新闻集团",
+    "sector": "传媒"
+  },
+  "NWSA": {
+    "cnName": "新闻集团",
+    "sector": "传媒"
+  },
+  "MCD": {
+    "cnName": "麦当劳",
+    "sector": "消费"
+  },
+  "WYNN": {
+    "cnName": "永利度假村",
+    "sector": "消费"
+  },
+  "VIPS": {
+    "cnName": "唯品会",
+    "sector": "消费"
+  },
+  "RL": {
+    "cnName": "拉夫劳伦",
+    "sector": "消费"
+  },
+  "KODK": {
+    "cnName": "柯达",
+    "sector": "工业"
+  },
+  "YUMC": {
+    "cnName": "中国百胜控股",
+    "sector": "消费"
+  },
+  "TROW": {
+    "cnName": "普信集团",
+    "sector": "金融"
+  },
+  "SMHI": {
+    "cnName": "SEACOR 海洋控股",
+    "sector": "工业"
+  },
+  "INFY": {
+    "cnName": "印孚瑟斯",
+    "sector": "科技"
+  },
+  "SEI": {
+    "cnName": "Solaris 能源基础设施",
+    "sector": "能源"
+  },
+  "TV": {
+    "cnName": "Grupo Televisa, S.A.B.",
+    "sector": "传媒"
+  },
+  "PCH": {
+    "cnName": "",
+    "sector": ""
+  },
+  "DDS": {
+    "cnName": "迪拉德",
+    "sector": "消费"
+  },
+  "TCOM": {
+    "cnName": "携程集团",
+    "sector": "消费"
+  },
+  "NOK": {
+    "cnName": "诺基亚",
+    "sector": "科技"
+  },
+  "EPAC": {
+    "cnName": "Enerpac 工具集团",
+    "sector": "工业"
+  },
+  "CARR": {
+    "cnName": "开利全球",
+    "sector": "工业"
+  },
+  "WOR": {
+    "cnName": "沃辛顿企业",
+    "sector": "工业"
+  },
+  "DEI": {
+    "cnName": "道格拉斯·埃米特",
+    "sector": "地产"
+  },
+  "LUMN": {
+    "cnName": "卢门科技",
+    "sector": "传媒"
+  },
+  "BIIB": {
+    "cnName": "百健",
+    "sector": "医药"
+  },
+  "JOYY": {
+    "cnName": "欢聚集团",
+    "sector": "传媒"
+  },
+  "GE": {
+    "cnName": "GE 航空",
+    "sector": "工业"
+  },
+  "IMKTA": {
+    "cnName": "Ingles Markets, Incorporated",
+    "sector": "消费"
+  },
+  "OSCR": {
+    "cnName": "奥斯卡健康",
+    "sector": "医药"
+  },
+  "SWK": {
+    "cnName": "史丹利百得",
+    "sector": "工业"
+  },
+  "WEST": {
+    "cnName": "西罗克咖啡",
+    "sector": "消费"
+  },
+  "WMG": {
+    "cnName": "华纳音乐",
+    "sector": "传媒"
+  },
+  "HAS": {
+    "cnName": "孩之宝",
+    "sector": "消费"
+  },
+  "GEHC": {
+    "cnName": "GE 医疗",
+    "sector": "医药"
+  },
+  "KNF": {
+    "cnName": "刀锋河公司",
+    "sector": "材料"
+  },
+  "IBTA": {
+    "cnName": "Ibotta, Inc.",
+    "sector": "科技"
+  },
+  "DINO": {
+    "cnName": "HF 辛克莱",
+    "sector": "能源"
+  },
+  "ANGI": {
+    "cnName": "安智",
+    "sector": "传媒"
+  },
+  "ACH": {
+    "cnName": "安森德健康",
+    "sector": "医药"
+  },
+  "CME": {
+    "cnName": "芝商所",
+    "sector": "金融"
+  },
+  "PS": {
+    "cnName": "Pershing Square Inc.",
+    "sector": "金融"
+  },
+  "CRWV": {
+    "cnName": "CoreWeave, Inc.",
+    "sector": "科技"
+  },
+  "SPCX": {
+    "cnName": "Space Exploration Technologies Corp.",
+    "sector": "工业"
+  },
+  "GT": {
+    "cnName": "固特异",
+    "sector": "消费"
+  },
+  "AJG": {
+    "cnName": "阿瑟 J. 加拉格尔",
+    "sector": "金融"
+  },
+  "TXN": {
+    "cnName": "德州仪器",
+    "sector": "科技"
+  },
+  "ADI": {
+    "cnName": "模拟器件",
+    "sector": "科技"
+  },
+  "PFE": {
+    "cnName": "辉瑞",
+    "sector": "医药"
+  },
+  "CPB": {
+    "cnName": "汤普森食品",
+    "sector": "消费"
+  }
+}
