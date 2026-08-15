@@ -1,0 +1,201 @@
+{
+  "updated": "2026-08-15T00:28:17.386224Z",
+  "quotes": {
+    "GOOGL": {
+      "c": 345.9,
+      "h": 350.45,
+      "l": 344.5,
+      "o": 346.8,
+      "pc": 346.36,
+      "t": 1786737600
+    },
+    "GOOG": {
+      "c": 343.54,
+      "h": 348.06,
+      "l": 342.07,
+      "o": 344.26,
+      "pc": 343.94,
+      "t": 1786737600
+    },
+    "PDD": {
+      "c": 84.79,
+      "h": 84.9,
+      "l": 83.65,
+      "o": 84.27,
+      "pc": 84.17,
+      "t": 1786737600
+    },
+    "BRK/B": {
+      "c": 504.03,
+      "h": 509.17,
+      "l": 503.77,
+      "o": 507.24,
+      "pc": 506.93,
+      "t": 1786737600
+    },
+    "EWBC": {
+      "c": 136.6,
+      "h": 137.31,
+      "l": 135.67,
+      "o": 135.67,
+      "pc": 135.96,
+      "t": 1786737600
+    },
+    "CROX": {
+      "c": 131.72,
+      "h": 133.62,
+      "l": 130.24,
+      "o": 131.63,
+      "pc": 132.56,
+      "t": 1786737600
+    },
+    "?TENCENT MUSIC ENTERTAINM": {
+      "error": true
+    },
+    "AAPL": {
+      "c": 305.93,
+      "h": 307.49,
+      "l": 304.3,
+      "o": 306,
+      "pc": 305.26,
+      "t": 1786737600
+    }
+  },
+  "costBasis": {
+    "GOOGL": {
+      "recent": {
+        "buy": 284.65,
+        "low": 271.95,
+        "high": 348.55,
+        "quarter": "2026 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 98.24,
+        "buy_quarters": 4,
+        "first": "2022 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "GOOG": {
+      "recent": {
+        "buy": 251.01,
+        "low": 236.22,
+        "high": 328.03,
+        "quarter": "2025 Q4",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 104.67,
+        "buy_quarters": 4,
+        "first": "2020 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "PDD": {
+      "recent": {
+        "buy": 78.15,
+        "low": 71.94,
+        "high": 108.23,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 84.28,
+        "buy_quarters": 3,
+        "first": "2025 Q2",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "BRK/B": {
+      "recent": {
+        "buy": 468.94,
+        "low": 464.01,
+        "high": 500.02,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 468.94,
+        "buy_quarters": 1,
+        "first": "2026 Q2",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "EWBC": {
+      "recent": {
+        "buy": 40.49,
+        "low": 37.88,
+        "high": 52.72,
+        "quarter": "2023 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 40.54,
+        "buy_quarters": 2,
+        "first": "2023 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "CROX": {
+      "recent": {
+        "buy": 78.3,
+        "low": 75.13,
+        "high": 101.59,
+        "quarter": "2026 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 76.9,
+        "buy_quarters": 2,
+        "first": "2025 Q4",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "AAPL": {
+      "recent": {
+        "buy": 107.85,
+        "low": 104.1,
+        "high": 134.85,
+        "quarter": "2020 Q4",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 107.85,
+        "buy_quarters": 1,
+        "first": "2020 Q4",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    }
+  },
+  "exitPerf": {
+    "BAC": {
+      "entryQuarter": "2020 Q1",
+      "entryPrice": 22.44,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 55.2,
+      "changePct": 146.0
+    },
+    "OXY": {
+      "entryQuarter": "2024 Q2",
+      "entryPrice": 57.97,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 61.61,
+      "changePct": 6.3
+    },
+    "BRK.B": {
+      "entryQuarter": "2022 Q1",
+      "entryPrice": 303.26,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 505.82,
+      "changePct": 66.8
+    }
+  }
+}
