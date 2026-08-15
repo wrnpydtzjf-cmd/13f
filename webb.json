@@ -1,0 +1,2738 @@
+{
+  "current": {
+    "quarter": "2026 Q1",
+    "periodEnd": "2025-12-31",
+    "filingDate": "2025-10-10",
+    "totalValue": 14262909000,
+    "prevQuarter": "2025 Q4",
+    "holdings": [
+      {
+        "ticker": "0709.HK",
+        "name": "GIORDANO INTERNATIONAL LTD",
+        "shares": 86310000,
+        "value": 119107799,
+        "sector": "消费",
+        "prevShares": 86310000,
+        "prevValue": 120833999,
+        "cnName": "佐丹奴国际",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1382.HK",
+        "name": "Pacific Textiles Holdings Ltd",
+        "shares": 80342000,
+        "value": 79538580,
+        "sector": "消费",
+        "prevShares": 80342000,
+        "prevValue": 78735160,
+        "cnName": "太平洋纺织",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "3828.HK",
+        "name": "Ming Fai International Holdings Ltd",
+        "shares": 119920000,
+        "value": 93537600,
+        "sector": "消费",
+        "prevShares": 119920000,
+        "prevValue": 93537600,
+        "cnName": "明辉国际",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1977.HK",
+        "name": "ANALOGUE HOLDINGS LTD",
+        "shares": 112592000,
+        "value": 104710560,
+        "sector": "工业",
+        "prevShares": 112592000,
+        "prevValue": 105836480,
+        "cnName": "安乐工程",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0057.HK",
+        "name": "CHEN HSONG HOLDINGS LTD",
+        "shares": 48004000,
+        "value": 76326360,
+        "sector": "工业",
+        "prevShares": 48004000,
+        "prevValue": 74886240,
+        "cnName": "震雄集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1127.HK",
+        "name": "Lion Rock Group Ltd",
+        "shares": 77648976,
+        "value": 93178771,
+        "sector": "工业",
+        "prevShares": 77648976,
+        "prevValue": 93955260,
+        "cnName": "狮子山集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0255.HK",
+        "name": "Lung Kee Group Holdings Ltd",
+        "shares": 39654498,
+        "value": 56705932,
+        "sector": "工业",
+        "prevShares": 39654498,
+        "prevValue": 56705932,
+        "cnName": "龙记集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1373.HK",
+        "name": "International Housewares Retail Co",
+        "shares": 62813000,
+        "value": 43969100,
+        "sector": "消费",
+        "prevShares": 62813000,
+        "prevValue": 40828450,
+        "cnName": "国际家居零售",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0229.HK",
+        "name": "RAYMOND INDUSTRIAL LTD",
+        "shares": 39784000,
+        "value": 33020720,
+        "sector": "工业",
+        "prevShares": 39784000,
+        "prevValue": 33020720,
+        "cnName": "利民实业",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "2033.HK",
+        "name": "Time Watch Investments Ltd",
+        "shares": 111532000,
+        "value": 25875424,
+        "sector": "消费",
+        "prevShares": 111532000,
+        "prevValue": 25875424,
+        "cnName": "时计宝投资",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0927.HK",
+        "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+        "shares": 44270000,
+        "value": 20585550,
+        "sector": "工业",
+        "prevShares": 44270000,
+        "prevValue": 20585550,
+        "cnName": "富士高实业",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0423.HK",
+        "name": "HK Economic Times Holdings Ltd",
+        "shares": 44196000,
+        "value": 30937199,
+        "sector": "媒体",
+        "prevShares": 44196000,
+        "prevValue": 30937199,
+        "cnName": "香港经济日报集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1120.HK",
+        "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+        "shares": 39720000,
+        "value": 30584400,
+        "sector": "消费",
+        "prevShares": 39720000,
+        "prevValue": 30584400,
+        "cnName": "雅视光学集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1397.HK",
+        "name": "Baguio Green Group Ltd",
+        "shares": 24868000,
+        "value": 22629880,
+        "sector": "工业",
+        "prevShares": 24868000,
+        "prevValue": 22381200,
+        "cnName": "碧瑶绿色集团",
+        "eventDate": "2025-09-19"
+      },
+      {
+        "ticker": "1170.HK",
+        "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+        "shares": 52696000,
+        "value": 23186240,
+        "sector": "消费",
+        "prevShares": 52696000,
+        "prevValue": 23186240,
+        "cnName": "信星鞋业集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0684.HK",
+        "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+        "shares": 44086000,
+        "value": 18075260,
+        "sector": "消费",
+        "prevShares": 44086000,
+        "prevValue": 18516120,
+        "cnName": "亚伦国际集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "1897.HK",
+        "name": "Million Hope Industries Hldgs Ltd",
+        "shares": 30008399,
+        "value": 13953905,
+        "sector": "工业",
+        "prevShares": 30008399,
+        "prevValue": 13803863,
+        "cnName": "美亨实业控股",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "6838.HK",
+        "name": "WINOX HOLDINGS LTD",
+        "shares": 48164000,
+        "value": 11414868,
+        "sector": "消费",
+        "prevShares": 48164000,
+        "prevValue": 11463032,
+        "cnName": "盈利时控股",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0518.HK",
+        "name": "TUNGTEX (HOLDINGS) CO LTD",
+        "shares": 63710000,
+        "value": 11786350,
+        "sector": "消费",
+        "prevShares": 63710000,
+        "prevValue": 11786350,
+        "cnName": "同得仕（集团）",
+        "eventDate": "2025-07-03"
+      },
+      {
+        "ticker": "0125.HK",
+        "name": "SUN HING VISION GROUP HLDGS LTD",
+        "shares": 29788000,
+        "value": 8936400,
+        "sector": "消费",
+        "prevShares": 29788000,
+        "prevValue": 8936400,
+        "cnName": "新兴光学集团",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0333.HK",
+        "name": "Top Form International Ltd",
+        "shares": 27664000,
+        "value": 5256160,
+        "sector": "消费",
+        "prevShares": 27664000,
+        "prevValue": 5256160,
+        "cnName": "黛丽斯国际",
+        "eventDate": "2025-05-31"
+      },
+      {
+        "ticker": "0483.HK",
+        "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+        "shares": 29434000,
+        "value": 5533592,
+        "sector": "消费",
+        "prevShares": 29434000,
+        "prevValue": 5533592,
+        "cnName": "包浩斯国际",
+        "eventDate": "2025-05-31"
+      }
+    ]
+  },
+  "history": {
+    "quarters": [
+      "2023 Q1",
+      "2023 Q2",
+      "2023 Q3",
+      "2023 Q4",
+      "2024 Q1",
+      "2024 Q2",
+      "2024 Q3",
+      "2024 Q4",
+      "2025 Q1",
+      "2025 Q2",
+      "2025 Q3",
+      "2025 Q4",
+      "2026 Q1"
+    ],
+    "values": [
+      12487,
+      12789,
+      13330,
+      12308,
+      14004,
+      13240,
+      14060,
+      13858,
+      14179,
+      13382,
+      13889,
+      14791,
+      14263
+    ],
+    "holdings": {
+      "2023 Q1": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 89920178,
+          "value": 1713287500,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 111826454,
+          "value": 1386838500,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 83157500,
+          "value": 1350317400,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 68893524,
+          "value": 1286254800,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 103242723,
+          "value": 1201901900,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 50548684,
+          "value": 1170160500,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 44320003,
+          "value": 1054767900,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 55029316,
+          "value": 555673200,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 108919535,
+          "value": 480795300,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 39783813,
+          "value": 438042800,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 40465477,
+          "value": 419158100,
+          "sector": "媒体",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 34172035,
+          "value": 410797000,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 55065493,
+          "value": 351439700,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 37981924,
+          "value": 334626600,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 22621208,
+          "value": 332685700,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "碧瑶绿色集团"
+        }
+      ],
+      "2023 Q2": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 87473669,
+          "value": 1666673100,
+          "sector": "消费",
+          "prevShares": 89920178,
+          "prevValue": 17132875,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 123131422,
+          "value": 1527039400,
+          "sector": "消费",
+          "prevShares": 111826454,
+          "prevValue": 13868385,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 123043818,
+          "value": 1432416700,
+          "sector": "工业",
+          "prevShares": 103242723,
+          "prevValue": 12019019,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 73603892,
+          "value": 1374198200,
+          "sector": "消费",
+          "prevShares": 68893524,
+          "prevValue": 12862548,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 52408164,
+          "value": 1213205900,
+          "sector": "工业",
+          "prevShares": 50548684,
+          "prevValue": 11701605,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 66153016,
+          "value": 1074197300,
+          "sector": "工业",
+          "prevShares": 83157500,
+          "prevValue": 13503174,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 42011633,
+          "value": 999831200,
+          "sector": "工业",
+          "prevShares": 44320003,
+          "prevValue": 10547679,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 59802696,
+          "value": 603873700,
+          "sector": "消费",
+          "prevShares": 55029316,
+          "prevValue": 5556732,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 45240929,
+          "value": 543861000,
+          "sector": "工业",
+          "prevShares": 34172035,
+          "prevValue": 4107970,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 100004481,
+          "value": 441442300,
+          "sector": "消费",
+          "prevShares": 108919535,
+          "prevValue": 4807953,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 42029439,
+          "value": 435358300,
+          "sector": "媒体",
+          "prevShares": 40465477,
+          "prevValue": 4191581,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 27460446,
+          "value": 403855500,
+          "sector": "工业",
+          "prevShares": 22621208,
+          "prevValue": 3326857,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 34867159,
+          "value": 383907600,
+          "sector": "消费",
+          "prevShares": 39783813,
+          "prevValue": 4380428,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 54335784,
+          "value": 346782500,
+          "sector": "消费",
+          "prevShares": 55065493,
+          "prevValue": 3514397,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 38913990,
+          "value": 342838300,
+          "sector": "工业",
+          "prevShares": 37981924,
+          "prevValue": 3346266,
+          "cnName": "富士高实业"
+        }
+      ],
+      "2023 Q3": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 94262472,
+          "value": 1796023100,
+          "sector": "消费",
+          "prevShares": 87473669,
+          "prevValue": 16666731,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 85879133,
+          "value": 1603379300,
+          "sector": "消费",
+          "prevShares": 73603892,
+          "prevValue": 13741982,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 121223341,
+          "value": 1503375900,
+          "sector": "消费",
+          "prevShares": 123131422,
+          "prevValue": 15270394,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 128572715,
+          "value": 1496781400,
+          "sector": "工业",
+          "prevShares": 123043818,
+          "prevValue": 14324167,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 74819471,
+          "value": 1214923900,
+          "sector": "工业",
+          "prevShares": 66153016,
+          "prevValue": 10741973,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 48753447,
+          "value": 1128602200,
+          "sector": "工业",
+          "prevShares": 52408164,
+          "prevValue": 12132059,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 43573210,
+          "value": 1036995100,
+          "sector": "工业",
+          "prevShares": 42011633,
+          "prevValue": 9998312,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 65046374,
+          "value": 656823100,
+          "sector": "消费",
+          "prevShares": 59802696,
+          "prevValue": 6038737,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 123634568,
+          "value": 545750800,
+          "sector": "消费",
+          "prevShares": 100004481,
+          "prevValue": 4414423,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 40707213,
+          "value": 489359200,
+          "sector": "工业",
+          "prevShares": 45240929,
+          "prevValue": 5438610,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 46908377,
+          "value": 485896400,
+          "sector": "媒体",
+          "prevShares": 42029439,
+          "prevValue": 4353583,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 34308043,
+          "value": 377751400,
+          "sector": "消费",
+          "prevShares": 34867159,
+          "prevValue": 3839076,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 40656216,
+          "value": 358187600,
+          "sector": "工业",
+          "prevShares": 38913990,
+          "prevValue": 3428383,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 23296749,
+          "value": 342620800,
+          "sector": "工业",
+          "prevShares": 27460446,
+          "prevValue": 4038555,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 46053015,
+          "value": 293920100,
+          "sector": "消费",
+          "prevShares": 54335784,
+          "prevValue": 3467825,
+          "cnName": "信星鞋业集团"
+        }
+      ],
+      "2023 Q4": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 79391154,
+          "value": 1512673500,
+          "sector": "消费",
+          "prevShares": 94262472,
+          "prevValue": 17960231,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 111932378,
+          "value": 1388152100,
+          "sector": "消费",
+          "prevShares": 121223341,
+          "prevValue": 15033759,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 117175094,
+          "value": 1364095800,
+          "sector": "工业",
+          "prevShares": 128572715,
+          "prevValue": 14967814,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 70725097,
+          "value": 1320450600,
+          "sector": "消费",
+          "prevShares": 85879133,
+          "prevValue": 16033793,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 74500283,
+          "value": 1209740900,
+          "sector": "工业",
+          "prevShares": 74819471,
+          "prevValue": 12149239,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 46134450,
+          "value": 1067974600,
+          "sector": "工业",
+          "prevShares": 48753447,
+          "prevValue": 11286022,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 36198692,
+          "value": 861489500,
+          "sector": "工业",
+          "prevShares": 43573210,
+          "prevValue": 10369951,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 58421953,
+          "value": 589931300,
+          "sector": "消费",
+          "prevShares": 65046374,
+          "prevValue": 6568231,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 126142287,
+          "value": 556820500,
+          "sector": "消费",
+          "prevShares": 123634568,
+          "prevValue": 5457508,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 41550831,
+          "value": 499500700,
+          "sector": "工业",
+          "prevShares": 40707213,
+          "prevValue": 4893592,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 45642946,
+          "value": 472788500,
+          "sector": "媒体",
+          "prevShares": 46908377,
+          "prevValue": 4858964,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 47313033,
+          "value": 416835100,
+          "sector": "工业",
+          "prevShares": 40656216,
+          "prevValue": 3581876,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 35801288,
+          "value": 394192900,
+          "sector": "消费",
+          "prevShares": 34308043,
+          "prevValue": 3777514,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 22356847,
+          "value": 328797800,
+          "sector": "工业",
+          "prevShares": 23296749,
+          "prevValue": 3426208,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 50790335,
+          "value": 324154700,
+          "sector": "消费",
+          "prevShares": 46053015,
+          "prevValue": 2939201,
+          "cnName": "信星鞋业集团"
+        }
+      ],
+      "2024 Q1": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 98985228,
+          "value": 1886007800,
+          "sector": "消费",
+          "prevShares": 79391154,
+          "prevValue": 15126735,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 83716358,
+          "value": 1562999800,
+          "sector": "消费",
+          "prevShares": 70725097,
+          "prevValue": 13204506,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 121968823,
+          "value": 1512621200,
+          "sector": "消费",
+          "prevShares": 111932378,
+          "prevValue": 13881521,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 85635606,
+          "value": 1390557000,
+          "sector": "工业",
+          "prevShares": 74500283,
+          "prevValue": 12097409,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 118827826,
+          "value": 1383336100,
+          "sector": "工业",
+          "prevShares": 117175094,
+          "prevValue": 13640958,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 51978729,
+          "value": 1203264900,
+          "sector": "工业",
+          "prevShares": 46134450,
+          "prevValue": 10679746,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 36431159,
+          "value": 867022000,
+          "sector": "工业",
+          "prevShares": 36198692,
+          "prevValue": 8614895,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 53995943,
+          "value": 545238500,
+          "sector": "消费",
+          "prevShares": 58421953,
+          "prevValue": 5899313,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 44997712,
+          "value": 495450800,
+          "sector": "消费",
+          "prevShares": 35801288,
+          "prevValue": 3941929,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 105357132,
+          "value": 465070100,
+          "sector": "消费",
+          "prevShares": 126142287,
+          "prevValue": 5568205,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 37011940,
+          "value": 444936700,
+          "sector": "工业",
+          "prevShares": 41550831,
+          "prevValue": 4995007,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 49268538,
+          "value": 434063500,
+          "sector": "工业",
+          "prevShares": 47313033,
+          "prevValue": 4168351,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 40363979,
+          "value": 418106800,
+          "sector": "媒体",
+          "prevShares": 45642946,
+          "prevValue": 4727885,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 55153298,
+          "value": 352000100,
+          "sector": "消费",
+          "prevShares": 50790335,
+          "prevValue": 3241547,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 23485422,
+          "value": 345395600,
+          "sector": "工业",
+          "prevShares": 22356847,
+          "prevValue": 3287978,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 42705648,
+          "value": 305967100,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 33740371,
+          "value": 224297700,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 62923535,
+          "value": 167977100,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "同得仕（集团）"
+        }
+      ],
+      "2024 Q2": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 80222042,
+          "value": 1528504800,
+          "sector": "消费",
+          "prevShares": 98985228,
+          "prevValue": 18860078,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 122127779,
+          "value": 1514592500,
+          "sector": "消费",
+          "prevShares": 121968823,
+          "prevValue": 15126212,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 74235064,
+          "value": 1385982300,
+          "sector": "消费",
+          "prevShares": 83716358,
+          "prevValue": 15629998,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 79619380,
+          "value": 1292865100,
+          "sector": "工业",
+          "prevShares": 85635606,
+          "prevValue": 13905570,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 53733126,
+          "value": 1243877700,
+          "sector": "工业",
+          "prevShares": 51978729,
+          "prevValue": 12032649,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 104577980,
+          "value": 1217446300,
+          "sector": "工业",
+          "prevShares": 118827826,
+          "prevValue": 13833361,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 38457731,
+          "value": 915252200,
+          "sector": "工业",
+          "prevShares": 36431159,
+          "prevValue": 8670220,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 57523908,
+          "value": 580863000,
+          "sector": "消费",
+          "prevShares": 53995943,
+          "prevValue": 5452385,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 128179409,
+          "value": 565812800,
+          "sector": "消费",
+          "prevShares": 105357132,
+          "prevValue": 4650701,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 39897698,
+          "value": 479627700,
+          "sector": "工业",
+          "prevShares": 37011940,
+          "prevValue": 4449367,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 38771949,
+          "value": 401615900,
+          "sector": "媒体",
+          "prevShares": 40363979,
+          "prevValue": 4181068,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 25818798,
+          "value": 379712100,
+          "sector": "工业",
+          "prevShares": 23485422,
+          "prevValue": 3453956,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 34323438,
+          "value": 377920900,
+          "sector": "消费",
+          "prevShares": 44997712,
+          "prevValue": 4954508,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 57313424,
+          "value": 365786400,
+          "sector": "消费",
+          "prevShares": 55153298,
+          "prevValue": 3520001,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 39085750,
+          "value": 344351500,
+          "sector": "工业",
+          "prevShares": 49268538,
+          "prevValue": 4340635,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 43056503,
+          "value": 308480900,
+          "sector": "消费",
+          "prevShares": 42705648,
+          "prevValue": 3059671,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 26079048,
+          "value": 173367100,
+          "sector": "工业",
+          "prevShares": 33740371,
+          "prevValue": 2242977,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 61447389,
+          "value": 164036500,
+          "sector": "消费",
+          "prevShares": 62923535,
+          "prevValue": 1679771,
+          "cnName": "同得仕（集团）"
+        }
+      ],
+      "2024 Q3": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 99156070,
+          "value": 1889262900,
+          "sector": "消费",
+          "prevShares": 80222042,
+          "prevValue": 15285048,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 136867515,
+          "value": 1697390300,
+          "sector": "消费",
+          "prevShares": 122127779,
+          "prevValue": 15145925,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 81043731,
+          "value": 1513101400,
+          "sector": "消费",
+          "prevShares": 74235064,
+          "prevValue": 13859823,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 124778272,
+          "value": 1452608400,
+          "sector": "工业",
+          "prevShares": 104577980,
+          "prevValue": 12174463,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 51182659,
+          "value": 1184836500,
+          "sector": "工业",
+          "prevShares": 53733126,
+          "prevValue": 12438777,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 66269076,
+          "value": 1076081900,
+          "sector": "工业",
+          "prevShares": 79619380,
+          "prevValue": 12928651,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 41816188,
+          "value": 995179800,
+          "sector": "工业",
+          "prevShares": 38457731,
+          "prevValue": 9152522,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 63509665,
+          "value": 641305800,
+          "sector": "消费",
+          "prevShares": 57523908,
+          "prevValue": 5808630,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 41466407,
+          "value": 498485800,
+          "sector": "工业",
+          "prevShares": 39897698,
+          "prevValue": 4796277,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 103730064,
+          "value": 457887800,
+          "sector": "消费",
+          "prevShares": 128179409,
+          "prevValue": 5658128,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 38942662,
+          "value": 428781200,
+          "sector": "消费",
+          "prevShares": 34323438,
+          "prevValue": 3779209,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 28253648,
+          "value": 415520900,
+          "sector": "工业",
+          "prevShares": 25818798,
+          "prevValue": 3797121,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 39045647,
+          "value": 404451000,
+          "sector": "媒体",
+          "prevShares": 38771949,
+          "prevValue": 4016159,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 43655404,
+          "value": 384610900,
+          "sector": "工业",
+          "prevShares": 39085750,
+          "prevValue": 3443515,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 58637783,
+          "value": 374238800,
+          "sector": "消费",
+          "prevShares": 57313424,
+          "prevValue": 3657864,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 40956630,
+          "value": 293436200,
+          "sector": "消费",
+          "prevShares": 43056503,
+          "prevValue": 3084809,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 30013675,
+          "value": 199523500,
+          "sector": "工业",
+          "prevShares": 26079048,
+          "prevValue": 1733671,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 57568073,
+          "value": 153680500,
+          "sector": "消费",
+          "prevShares": 61447389,
+          "prevValue": 1640365,
+          "cnName": "同得仕（集团）"
+        }
+      ],
+      "2024 Q4": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 96994172,
+          "value": 1848071400,
+          "sector": "消费",
+          "prevShares": 99156070,
+          "prevValue": 18892629,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 89272460,
+          "value": 1666733300,
+          "sector": "消费",
+          "prevShares": 81043731,
+          "prevValue": 15131014,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 112668849,
+          "value": 1397285600,
+          "sector": "消费",
+          "prevShares": 136867515,
+          "prevValue": 16973903,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 117285380,
+          "value": 1365379700,
+          "sector": "工业",
+          "prevShares": 124778272,
+          "prevValue": 14526084,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 80187403,
+          "value": 1302088700,
+          "sector": "工业",
+          "prevShares": 66269076,
+          "prevValue": 10760819,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 42777418,
+          "value": 1018056100,
+          "sector": "工业",
+          "prevShares": 41816188,
+          "prevValue": 9951798,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 43004468,
+          "value": 995518100,
+          "sector": "工业",
+          "prevShares": 51182659,
+          "prevValue": 11848365,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 63555054,
+          "value": 641764100,
+          "sector": "消费",
+          "prevShares": 63509665,
+          "prevValue": 6413058,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 120854730,
+          "value": 533480000,
+          "sector": "消费",
+          "prevShares": 103730064,
+          "prevValue": 4578878,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 40146277,
+          "value": 482615900,
+          "sector": "工业",
+          "prevShares": 41466407,
+          "prevValue": 4984858,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 37624643,
+          "value": 414269100,
+          "sector": "消费",
+          "prevShares": 38942662,
+          "prevValue": 4287812,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 28069247,
+          "value": 412809000,
+          "sector": "工业",
+          "prevShares": 28253648,
+          "prevValue": 4155209,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 37574182,
+          "value": 389208900,
+          "sector": "媒体",
+          "prevShares": 39045647,
+          "prevValue": 4044510,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 58683138,
+          "value": 374528200,
+          "sector": "消费",
+          "prevShares": 58637783,
+          "prevValue": 3742388,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 48472541,
+          "value": 347284400,
+          "sector": "消费",
+          "prevShares": 40956630,
+          "prevValue": 2934362,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 37888170,
+          "value": 333800600,
+          "sector": "工业",
+          "prevShares": 43655404,
+          "prevValue": 3846109,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 28275541,
+          "value": 187968800,
+          "sector": "工业",
+          "prevShares": 30013675,
+          "prevValue": 1995235,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 55260623,
+          "value": 147520700,
+          "sector": "消费",
+          "prevShares": 57568073,
+          "prevValue": 1536805,
+          "cnName": "同得仕（集团）"
+        }
+      ],
+      "2025 Q1": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 96097802,
+          "value": 1830992400,
+          "sector": "消费",
+          "prevShares": 96994172,
+          "prevValue": 18480714,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 91114643,
+          "value": 1701127200,
+          "sector": "消费",
+          "prevShares": 89272460,
+          "prevValue": 16667333,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 112118791,
+          "value": 1305232800,
+          "sector": "工业",
+          "prevShares": 117285380,
+          "prevValue": 13653797,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 105013468,
+          "value": 1302345900,
+          "sector": "消费",
+          "prevShares": 112668849,
+          "prevValue": 13972856,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 51756983,
+          "value": 1198131600,
+          "sector": "工业",
+          "prevShares": 43004468,
+          "prevValue": 9955181,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 67613913,
+          "value": 1097919500,
+          "sector": "工业",
+          "prevShares": 80187403,
+          "prevValue": 13020887,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 42816957,
+          "value": 1018997000,
+          "sector": "工业",
+          "prevShares": 42777418,
+          "prevValue": 10180561,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 55810445,
+          "value": 563560900,
+          "sector": "消费",
+          "prevShares": 63555054,
+          "prevValue": 6417641,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 110704958,
+          "value": 488676600,
+          "sector": "消费",
+          "prevShares": 120854730,
+          "prevValue": 5334800,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 44157912,
+          "value": 486204100,
+          "sector": "消费",
+          "prevShares": 37624643,
+          "prevValue": 4142691,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 40378415,
+          "value": 485406600,
+          "sector": "工业",
+          "prevShares": 40146277,
+          "prevValue": 4826159,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 41080932,
+          "value": 425533300,
+          "sector": "媒体",
+          "prevShares": 37574182,
+          "prevValue": 3892089,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 43249194,
+          "value": 381032100,
+          "sector": "工业",
+          "prevShares": 37888170,
+          "prevValue": 3338006,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 53317224,
+          "value": 340281800,
+          "sector": "消费",
+          "prevShares": 58683138,
+          "prevValue": 3745282,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 47127022,
+          "value": 337644300,
+          "sector": "消费",
+          "prevShares": 48472541,
+          "prevValue": 3472844,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 22717899,
+          "value": 334107700,
+          "sector": "工业",
+          "prevShares": 28069247,
+          "prevValue": 4128090,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "6838.HK",
+          "name": "WINOX HOLDINGS LTD",
+          "shares": 55318512,
+          "value": 187997100,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "盈利时控股"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 27318005,
+          "value": 181603400,
+          "sector": "工业",
+          "prevShares": 28275541,
+          "prevValue": 1879688,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 60111333,
+          "value": 160469800,
+          "sector": "消费",
+          "prevShares": 55260623,
+          "prevValue": 1475207,
+          "cnName": "同得仕（集团）"
+        },
+        {
+          "ticker": "0125.HK",
+          "name": "SUN HING VISION GROUP HLDGS LTD",
+          "shares": 31127370,
+          "value": 134963200,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "新兴光学集团"
+        },
+        {
+          "ticker": "0483.HK",
+          "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+          "shares": 28887411,
+          "value": 109187200,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "包浩斯国际"
+        },
+        {
+          "ticker": "0333.HK",
+          "name": "Top Form International Ltd",
+          "shares": 27809865,
+          "value": 107983200,
+          "sector": "消费",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "黛丽斯国际"
+        }
+      ],
+      "2025 Q2": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 76496661,
+          "value": 1457523500,
+          "sector": "消费",
+          "prevShares": 96097802,
+          "prevValue": 18309924,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 114094966,
+          "value": 1414971900,
+          "sector": "消费",
+          "prevShares": 105013468,
+          "prevValue": 13023459,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 73706490,
+          "value": 1376113800,
+          "sector": "消费",
+          "prevShares": 91114643,
+          "prevValue": 17011272,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 115574856,
+          "value": 1345466600,
+          "sector": "工业",
+          "prevShares": 112118791,
+          "prevValue": 13052328,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 71362081,
+          "value": 1158782500,
+          "sector": "工业",
+          "prevShares": 67613913,
+          "prevValue": 10979195,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 43974794,
+          "value": 1017980400,
+          "sector": "工业",
+          "prevShares": 51756983,
+          "prevValue": 11981316,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 34550881,
+          "value": 822273400,
+          "sector": "工业",
+          "prevShares": 42816957,
+          "prevValue": 10189970,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 65283491,
+          "value": 659217500,
+          "sector": "消费",
+          "prevShares": 55810445,
+          "prevValue": 5635609,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 44622768,
+          "value": 536429800,
+          "sector": "工业",
+          "prevShares": 40378415,
+          "prevValue": 4854066,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 48964333,
+          "value": 507192800,
+          "sector": "媒体",
+          "prevShares": 41080932,
+          "prevValue": 4255333,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 102462500,
+          "value": 452292500,
+          "sector": "消费",
+          "prevShares": 110704958,
+          "prevValue": 4886766,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 26128641,
+          "value": 384268900,
+          "sector": "工业",
+          "prevShares": 22717899,
+          "prevValue": 3341077,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 34606336,
+          "value": 381035800,
+          "sector": "消费",
+          "prevShares": 44157912,
+          "prevValue": 4862041,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 40790439,
+          "value": 359370100,
+          "sector": "工业",
+          "prevShares": 43249194,
+          "prevValue": 3810321,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 48178426,
+          "value": 307484900,
+          "sector": "消费",
+          "prevShares": 53317224,
+          "prevValue": 3402818,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 39223030,
+          "value": 281015700,
+          "sector": "消费",
+          "prevShares": 47127022,
+          "prevValue": 3376443,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 33929124,
+          "value": 225552500,
+          "sector": "工业",
+          "prevShares": 27318005,
+          "prevValue": 1816034,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 65067846,
+          "value": 173701500,
+          "sector": "消费",
+          "prevShares": 60111333,
+          "prevValue": 1604698,
+          "cnName": "同得仕（集团）"
+        },
+        {
+          "ticker": "6838.HK",
+          "name": "WINOX HOLDINGS LTD",
+          "shares": 47769118,
+          "value": 162340900,
+          "sector": "消费",
+          "prevShares": 55318512,
+          "prevValue": 1879971,
+          "cnName": "盈利时控股"
+        },
+        {
+          "ticker": "0125.HK",
+          "name": "SUN HING VISION GROUP HLDGS LTD",
+          "shares": 32331473,
+          "value": 140184000,
+          "sector": "消费",
+          "prevShares": 31127370,
+          "prevValue": 1349632,
+          "cnName": "新兴光学集团"
+        },
+        {
+          "ticker": "0483.HK",
+          "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+          "shares": 32149259,
+          "value": 121516200,
+          "sector": "消费",
+          "prevShares": 28887411,
+          "prevValue": 1091872,
+          "cnName": "包浩斯国际"
+        },
+        {
+          "ticker": "0333.HK",
+          "name": "Top Form International Ltd",
+          "shares": 25094649,
+          "value": 97440300,
+          "sector": "消费",
+          "prevShares": 27809865,
+          "prevValue": 1079832,
+          "cnName": "黛丽斯国际"
+        }
+      ],
+      "2025 Q3": [
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 78680154,
+          "value": 1468973000,
+          "sector": "消费",
+          "prevShares": 73706490,
+          "prevValue": 13761138,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 117170664,
+          "value": 1453115800,
+          "sector": "消费",
+          "prevShares": 114094966,
+          "prevValue": 14149719,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 75873329,
+          "value": 1445646900,
+          "sector": "消费",
+          "prevShares": 76496661,
+          "prevValue": 14575235,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 82985227,
+          "value": 1347520000,
+          "sector": "工业",
+          "prevShares": 71362081,
+          "prevValue": 11587825,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 111478172,
+          "value": 1297775000,
+          "sector": "工业",
+          "prevShares": 115574856,
+          "prevValue": 13454666,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 50500657,
+          "value": 1169048700,
+          "sector": "工业",
+          "prevShares": 43974794,
+          "prevValue": 10179804,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 45414296,
+          "value": 1080810900,
+          "sector": "工业",
+          "prevShares": 34550881,
+          "prevValue": 8222734,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 55245626,
+          "value": 557857500,
+          "sector": "消费",
+          "prevShares": 65283491,
+          "prevValue": 6592175,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 48991343,
+          "value": 507472600,
+          "sector": "媒体",
+          "prevShares": 48964333,
+          "prevValue": 5071928,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 108273747,
+          "value": 477944700,
+          "sector": "消费",
+          "prevShares": 102462500,
+          "prevValue": 4522925,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 37866044,
+          "value": 455204300,
+          "sector": "工业",
+          "prevShares": 44622768,
+          "prevValue": 5364298,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 36724988,
+          "value": 404363300,
+          "sector": "消费",
+          "prevShares": 34606336,
+          "prevValue": 3810358,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 24484636,
+          "value": 360090800,
+          "sector": "工业",
+          "prevShares": 26128641,
+          "prevValue": 3842689,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 40155664,
+          "value": 353777600,
+          "sector": "工业",
+          "prevShares": 40790439,
+          "prevValue": 3593701,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 51461042,
+          "value": 328435300,
+          "sector": "消费",
+          "prevShares": 48178426,
+          "prevValue": 3074849,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 41157082,
+          "value": 294872300,
+          "sector": "消费",
+          "prevShares": 39223030,
+          "prevValue": 2810157,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 71799875,
+          "value": 191672900,
+          "sector": "消费",
+          "prevShares": 65067846,
+          "prevValue": 1737015,
+          "cnName": "同得仕（集团）"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 27756026,
+          "value": 184515200,
+          "sector": "工业",
+          "prevShares": 33929124,
+          "prevValue": 2255525,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "6838.HK",
+          "name": "WINOX HOLDINGS LTD",
+          "shares": 47342284,
+          "value": 160890300,
+          "sector": "消费",
+          "prevShares": 47769118,
+          "prevValue": 1623409,
+          "cnName": "盈利时控股"
+        },
+        {
+          "ticker": "0125.HK",
+          "name": "SUN HING VISION GROUP HLDGS LTD",
+          "shares": 33017160,
+          "value": 143157100,
+          "sector": "消费",
+          "prevShares": 32331473,
+          "prevValue": 1401840,
+          "cnName": "新兴光学集团"
+        },
+        {
+          "ticker": "0483.HK",
+          "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+          "shares": 29878382,
+          "value": 112932800,
+          "sector": "消费",
+          "prevShares": 32149259,
+          "prevValue": 1215162,
+          "cnName": "包浩斯国际"
+        },
+        {
+          "ticker": "0333.HK",
+          "name": "Top Form International Ltd",
+          "shares": 23934242,
+          "value": 92934500,
+          "sector": "消费",
+          "prevShares": 25094649,
+          "prevValue": 974403,
+          "cnName": "黛丽斯国际"
+        }
+      ],
+      "2025 Q4": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 99237920,
+          "value": 1890822500,
+          "sector": "消费",
+          "prevShares": 75873329,
+          "prevValue": 14456469,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 136792609,
+          "value": 1696461400,
+          "sector": "消费",
+          "prevShares": 117170664,
+          "prevValue": 14531158,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 88441138,
+          "value": 1651212400,
+          "sector": "消费",
+          "prevShares": 78680154,
+          "prevValue": 14689730,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 126993653,
+          "value": 1478398700,
+          "sector": "工业",
+          "prevShares": 111478172,
+          "prevValue": 12977750,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 85771736,
+          "value": 1392767500,
+          "sector": "工业",
+          "prevShares": 82985227,
+          "prevValue": 13475200,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 43198479,
+          "value": 1000009300,
+          "sector": "工业",
+          "prevShares": 50500657,
+          "prevValue": 11690487,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 39483679,
+          "value": 939668700,
+          "sector": "工业",
+          "prevShares": 45414296,
+          "prevValue": 10808109,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 57418882,
+          "value": 579802500,
+          "sector": "消费",
+          "prevShares": 55245626,
+          "prevValue": 5578575,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 45502940,
+          "value": 501013700,
+          "sector": "消费",
+          "prevShares": 36724988,
+          "prevValue": 4043633,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 108220847,
+          "value": 477711200,
+          "sector": "消费",
+          "prevShares": 108273747,
+          "prevValue": 4779447,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 42591328,
+          "value": 441178600,
+          "sector": "媒体",
+          "prevShares": 48991343,
+          "prevValue": 5074726,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 34516225,
+          "value": 414934600,
+          "sector": "工业",
+          "prevShares": 37866044,
+          "prevValue": 4552043,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 26987280,
+          "value": 396896700,
+          "sector": "工业",
+          "prevShares": 24484636,
+          "prevValue": 3600908,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 41151661,
+          "value": 362552500,
+          "sector": "工业",
+          "prevShares": 40155664,
+          "prevValue": 3537776,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 51984736,
+          "value": 331777600,
+          "sector": "消费",
+          "prevShares": 51461042,
+          "prevValue": 3284353,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 43067712,
+          "value": 308561200,
+          "sector": "消费",
+          "prevShares": 41157082,
+          "prevValue": 2948723,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 34125410,
+          "value": 226857300,
+          "sector": "工业",
+          "prevShares": 27756026,
+          "prevValue": 1845152,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 73179013,
+          "value": 195354600,
+          "sector": "消费",
+          "prevShares": 71799875,
+          "prevValue": 1916729,
+          "cnName": "同得仕（集团）"
+        },
+        {
+          "ticker": "6838.HK",
+          "name": "WINOX HOLDINGS LTD",
+          "shares": 48969807,
+          "value": 166421300,
+          "sector": "消费",
+          "prevShares": 47342284,
+          "prevValue": 1608903,
+          "cnName": "盈利时控股"
+        },
+        {
+          "ticker": "0125.HK",
+          "name": "SUN HING VISION GROUP HLDGS LTD",
+          "shares": 31739783,
+          "value": 137618600,
+          "sector": "消费",
+          "prevShares": 33017160,
+          "prevValue": 1431571,
+          "cnName": "新兴光学集团"
+        },
+        {
+          "ticker": "0333.HK",
+          "name": "Top Form International Ltd",
+          "shares": 25976837,
+          "value": 100865700,
+          "sector": "消费",
+          "prevShares": 23934242,
+          "prevValue": 929345,
+          "cnName": "黛丽斯国际"
+        },
+        {
+          "ticker": "0483.HK",
+          "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+          "shares": 26385786,
+          "value": 99731700,
+          "sector": "消费",
+          "prevShares": 29878382,
+          "prevValue": 1129328,
+          "cnName": "包浩斯国际"
+        }
+      ],
+      "2026 Q1": [
+        {
+          "ticker": "0709.HK",
+          "name": "GIORDANO INTERNATIONAL LTD",
+          "shares": 98446291,
+          "value": 1875739200,
+          "sector": "消费",
+          "prevShares": 99237920,
+          "prevValue": 1890822500,
+          "cnName": "佐丹奴国际"
+        },
+        {
+          "ticker": "1382.HK",
+          "name": "Pacific Textiles Holdings Ltd",
+          "shares": 82250450,
+          "value": 1535631100,
+          "sector": "消费",
+          "prevShares": 88441138,
+          "prevValue": 1651212400,
+          "cnName": "太平洋纺织"
+        },
+        {
+          "ticker": "3828.HK",
+          "name": "Ming Fai International Holdings Ltd",
+          "shares": 121438014,
+          "value": 1506038200,
+          "sector": "消费",
+          "prevShares": 136792609,
+          "prevValue": 1696461400,
+          "cnName": "明辉国际"
+        },
+        {
+          "ticker": "1977.HK",
+          "name": "ANALOGUE HOLDINGS LTD",
+          "shares": 120968019,
+          "value": 1408251200,
+          "sector": "工业",
+          "prevShares": 126993653,
+          "prevValue": 1478398700,
+          "cnName": "安乐工程"
+        },
+        {
+          "ticker": "0057.HK",
+          "name": "CHEN HSONG HOLDINGS LTD",
+          "shares": 49216258,
+          "value": 1139315900,
+          "sector": "工业",
+          "prevShares": 43198479,
+          "prevValue": 1000009300,
+          "cnName": "震雄集团"
+        },
+        {
+          "ticker": "1127.HK",
+          "name": "Lion Rock Group Ltd",
+          "shares": 67333277,
+          "value": 1093362500,
+          "sector": "工业",
+          "prevShares": 85771736,
+          "prevValue": 1392767500,
+          "cnName": "狮子山集团"
+        },
+        {
+          "ticker": "0255.HK",
+          "name": "Lung Kee Group Holdings Ltd",
+          "shares": 39688407,
+          "value": 944541000,
+          "sector": "工业",
+          "prevShares": 39483679,
+          "prevValue": 939668700,
+          "cnName": "龙记集团"
+        },
+        {
+          "ticker": "1373.HK",
+          "name": "International Housewares Retail Co",
+          "shares": 69459618,
+          "value": 701387100,
+          "sector": "消费",
+          "prevShares": 57418882,
+          "prevValue": 579802500,
+          "cnName": "国际家居零售"
+        },
+        {
+          "ticker": "0229.HK",
+          "name": "RAYMOND INDUSTRIAL LTD",
+          "shares": 45283488,
+          "value": 544372600,
+          "sector": "工业",
+          "prevShares": 34516225,
+          "prevValue": 414934600,
+          "cnName": "利民实业"
+        },
+        {
+          "ticker": "2033.HK",
+          "name": "Time Watch Investments Ltd",
+          "shares": 100069836,
+          "value": 441730800,
+          "sector": "消费",
+          "prevShares": 108220847,
+          "prevValue": 477711200,
+          "cnName": "时计宝投资"
+        },
+        {
+          "ticker": "0927.HK",
+          "name": "FUJIKON INDUSTRIAL HOLDINGS LTD",
+          "shares": 45532161,
+          "value": 401145400,
+          "sector": "工业",
+          "prevShares": 41151661,
+          "prevValue": 362552500,
+          "cnName": "富士高实业"
+        },
+        {
+          "ticker": "0423.HK",
+          "name": "HK Economic Times Holdings Ltd",
+          "shares": 38628781,
+          "value": 400132900,
+          "sector": "媒体",
+          "prevShares": 42591328,
+          "prevValue": 441178600,
+          "cnName": "香港经济日报集团"
+        },
+        {
+          "ticker": "1120.HK",
+          "name": "ARTS OPTICAL INTERNATIONAL HLDGS",
+          "shares": 35976290,
+          "value": 396119700,
+          "sector": "消费",
+          "prevShares": 45502940,
+          "prevValue": 501013700,
+          "cnName": "雅视光学集团"
+        },
+        {
+          "ticker": "1397.HK",
+          "name": "Baguio Green Group Ltd",
+          "shares": 26175155,
+          "value": 384952900,
+          "sector": "工业",
+          "prevShares": 26987280,
+          "prevValue": 396896700,
+          "cnName": "碧瑶绿色集团"
+        },
+        {
+          "ticker": "1170.HK",
+          "name": "KINGMAKER FOOTWEAR HOLDINGS LTD",
+          "shares": 48509891,
+          "value": 309600400,
+          "sector": "消费",
+          "prevShares": 51984736,
+          "prevValue": 331777600,
+          "cnName": "信星鞋业集团"
+        },
+        {
+          "ticker": "0684.HK",
+          "name": "ALLAN INTERNATIONAL HOLDINGS LTD",
+          "shares": 39058696,
+          "value": 279838300,
+          "sector": "消费",
+          "prevShares": 43067712,
+          "prevValue": 308561200,
+          "cnName": "亚伦国际集团"
+        },
+        {
+          "ticker": "1897.HK",
+          "name": "Million Hope Industries Hldgs Ltd",
+          "shares": 33521968,
+          "value": 222845800,
+          "sector": "工业",
+          "prevShares": 34125410,
+          "prevValue": 226857300,
+          "cnName": "美亨实业控股"
+        },
+        {
+          "ticker": "6838.HK",
+          "name": "WINOX HOLDINGS LTD",
+          "shares": 49529726,
+          "value": 168324200,
+          "sector": "消费",
+          "prevShares": 48969807,
+          "prevValue": 166421300,
+          "cnName": "盈利时控股"
+        },
+        {
+          "ticker": "0518.HK",
+          "name": "TUNGTEX (HOLDINGS) CO LTD",
+          "shares": 58859413,
+          "value": 157127800,
+          "sector": "消费",
+          "prevShares": 73179013,
+          "prevValue": 195354600,
+          "cnName": "同得仕（集团）"
+        },
+        {
+          "ticker": "0125.HK",
+          "name": "SUN HING VISION GROUP HLDGS LTD",
+          "shares": 30854840,
+          "value": 133781600,
+          "sector": "消费",
+          "prevShares": 31739783,
+          "prevValue": 137618600,
+          "cnName": "新兴光学集团"
+        },
+        {
+          "ticker": "0333.HK",
+          "name": "Top Form International Ltd",
+          "shares": 28358413,
+          "value": 110113200,
+          "sector": "消费",
+          "prevShares": 25976837,
+          "prevValue": 100865700,
+          "cnName": "黛丽斯国际"
+        },
+        {
+          "ticker": "0483.HK",
+          "name": "BAUHAUS INTERNATIONAL HLDGS LTD",
+          "shares": 28720739,
+          "value": 108557200,
+          "sector": "消费",
+          "prevShares": 26385786,
+          "prevValue": 99731700,
+          "cnName": "包浩斯国际"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "lastUpdated": "2026-07-27T15:40:30Z",
+    "source": "webbsite.0xmd.com"
+  },
+  "_live": false
+}
