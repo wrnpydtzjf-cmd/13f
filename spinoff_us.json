@@ -1,0 +1,3234 @@
+{
+  "updatedAt": "2026-08-15T00:58:46Z",
+  "dateFrom": "20250815",
+  "dateTo": "20260815",
+  "count": 64,
+  "companies": [
+    {
+      "ticker": "VOYG",
+      "name": "Voyager Technologies, Inc./DE  (VOYG)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-14",
+          "title": "分拆进展公告（2026-08-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "重大协议签订（2026-07-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-18",
+          "title": "股东权益变动（2026-06-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-25",
+          "title": "重大协议签订、分拆进展公告（2025-11-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-13",
+          "title": "SEC 8-K: Voyager Technologies, Inc./DE  (VOYG) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1788060",
+      "aiSummary": "航海者技术公司启动纯分拆，将专注于提供先进网络安全解决方案服务。",
+      "parentMarketCap": 19.7,
+      "nameCN": "航海者技术公司",
+      "lastUpdated": "2026-08-15T00:59:25Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "VREOF",
+      "name": "Vireo Growth Inc.  (VREOF)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-13",
+          "title": "重大协议签订、交割完成（2026-08-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-05",
+          "title": "重大协议签订、投资者关系公告（2026-08-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-30",
+          "title": "重大协议签订（2026-07-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-27",
+          "title": "分拆进展公告（2026-07-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "重大协议签订、投资者关系公告（2026-07-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-18",
+          "title": "重大协议签订、投资者关系公告（2026-06-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "重大协议签订、投资者关系公告（2026-06-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-29",
+          "title": "重大协议签订、投资者关系公告（2026-05-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-05",
+          "title": "重大协议签订、投资者关系公告（2026-05-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-14",
+          "title": "SEC 8-K: Vireo Growth Inc.  (VREOF) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-06",
+          "title": "重大协议签订、交割完成（2026-04-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-30",
+          "title": "投资者关系公告、分拆进展公告（2026-03-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-25",
+          "title": "重大协议签订、交割完成（2026-03-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-30",
+          "title": "重大协议签订、投资者关系公告（2025-12-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-29",
+          "title": "投资者关系公告、分拆进展公告（2025-12-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-22",
+          "title": "重大协议签订、投资者关系公告（2025-12-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-10",
+          "title": "分拆进展公告（2025-12-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "投资者关系公告、分拆进展公告（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-14",
+          "title": "重大协议签订、交割完成（2025-10-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-08",
+          "title": "重大协议签订、投资者关系公告（2025-10-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1771706&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1771706",
+      "aiSummary": "维雷奥增长推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 7.0,
+      "nameCN": "维雷奥增长公司",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "ALTS",
+      "name": "ALT5 Sigma Corp  (ALTS)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-07",
+          "title": "重大协议签订、交割完成（2026-08-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-24",
+          "title": "重大协议签订（2026-04-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-05",
+          "title": "分拆进展公告（2026-03-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-23",
+          "title": "分拆进展公告（2026-02-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "重大协议签订（2026-02-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-12",
+          "title": "分拆进展公告（2025-12-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-26",
+          "title": "管理层变动、分拆进展公告（2025-11-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-18",
+          "title": "分拆进展公告（2025-11-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-05",
+          "title": "分拆进展公告（2025-11-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-14",
+          "title": "分拆进展公告（2025-10-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-01",
+          "title": "SEC 8-K: ALT5 Sigma Corp  (ALTS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-08-29",
+          "title": "管理层变动、分拆进展公告（2025-08-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-08-18",
+          "title": "重大协议签订、管理层变动（2025-08-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "862861",
+      "aiSummary": "ALT5 西格玛公司推进纯分拆，旨在独立运营其半导体测试与封装业务。",
+      "parentMarketCap": 1.1,
+      "nameCN": "ALT5西格玛公司",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "HONA",
+      "name": "Honeywell Aerospace Inc.  (HONA)",
+      "spinoffName": "Honeywell Aerospace Inc.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-05",
+          "title": "业绩公布、管理层变动（2026-08-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2089271&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "重大协议签订、业绩公布（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2089271&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "SEC 8-K: Honeywell Aerospace Inc.  (HONA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2089271&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2089271",
+      "aiSummary": "霍尼韦尔签署分拆协议，将航空航天业务独立上市，预计 2026 年 6 月完成。",
+      "parentMarketCap": 645.3,
+      "nameCN": "霍尼韦尔航空航天",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "REZI",
+      "name": "RESIDEO TECHNOLOGIES, INC.  (REZI)",
+      "spinoffName": "RESIDEO TECHNOLOGIES, INC.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-04",
+          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "重大协议签订、分拆进展公告（2026-06-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "重大协议签订、管理层变动（2026-06-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-08-14",
+          "title": "重大协议签订、投资者关系公告（2025-08-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1740332",
+      "aiSummary": "瑞思迪奥推进纯分拆，签署协议并公告进展，预计 2026 年完成分拆。",
+      "parentMarketCap": 46.4,
+      "nameCN": "瑞思迪奥",
+      "lastUpdated": "2026-08-12T14:28:16Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "SOLS",
+      "name": "Solstice Advanced Materials Inc.  (SOLS)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-27",
+          "title": "重大协议签订（2026-07-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "分拆进展公告（2026-07-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "重大协议签订、分拆进展公告（2026-07-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-27",
+          "title": "分拆进展公告（2026-04-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-20",
+          "title": "分拆进展公告（2026-02-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "业绩公布、分拆进展公告（2026-02-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "SEC 8-K: Solstice Advanced Materials Inc.  (SOLS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-17",
+          "title": "SEC 8-K: Solstice Advanced Materials Inc.  (SOLS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2064953&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2064953",
+      "aiSummary": "索尔斯特斯推进分拆，子公司将独立运营，预计 2026 年 2 月至 4 月间完成进展公告。",
+      "parentMarketCap": 127.3,
+      "nameCN": "索尔斯特斯先进材料",
+      "lastUpdated": "2026-08-10T00:59:34Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "THRM",
+      "name": "Gentherm Inc  (THRM)",
+      "spinoffName": "Gentherm Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-23",
+          "title": "交割完成、投资者关系公告（2026-07-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "重大协议签订（2026-07-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-23",
+          "title": "重大协议签订（2026-04-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-27",
+          "title": "重大协议签订（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "SEC 8-K: Gentherm Inc  (THRM) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "903129",
+      "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
+      "parentMarketCap": 10.4,
+      "nameCN": "根瑟姆",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "NFLX",
+      "name": "NETFLIX INC  (NFLX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-22",
+          "title": "分拆进展公告（2026-07-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "分拆进展公告（2026-06-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-23",
+          "title": "分拆进展公告（2026-04-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-20",
+          "title": "SEC 8-K: NETFLIX INC  (NFLX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-12-22",
+          "title": "重大协议签订（2025-12-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-05",
+          "title": "SEC 8-K: NETFLIX INC  (NFLX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "分拆进展公告（2025-10-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1065280",
+      "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
+      "parentMarketCap": 3269.7,
+      "nameCN": "奈飞",
+      "greenblattNote": {
+        "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "CELC",
+      "name": "Celcuity Inc.  (CELC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-15",
+          "title": "投资者关系公告、分拆进展公告（2026-07-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-08",
+          "title": "SEC 8-K: Celcuity Inc.  (CELC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "投资者关系公告、分拆进展公告（2026-06-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-01",
+          "title": "投资者关系公告、分拆进展公告（2026-05-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-17",
+          "title": "投资者关系公告、分拆进展公告（2025-11-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-20",
+          "title": "投资者关系公告、分拆进展公告（2025-10-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-10",
+          "title": "重大协议签订、投资者关系公告（2025-09-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1603454",
+      "aiSummary": "公司推进纯分拆进程，旨在独立运营以聚焦核心医疗业务，预计近期完成。",
+      "parentMarketCap": 52.6,
+      "nameCN": "Celcuity",
+      "lastUpdated": "2026-08-15T00:59:25Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "FDX",
+      "name": "FEDEX CORP  (FDX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-10",
+          "title": "分拆进展公告（2026-07-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "分拆进展公告（2026-06-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-01",
+          "title": "重大协议签订、交割完成（2026-06-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-22",
+          "title": "分拆进展公告（2026-05-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: FEDEX CORP  (FDX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "分拆进展公告（2026-02-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-05",
+          "title": "分拆进展公告（2026-02-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "重大协议签订、管理层变动（2026-01-16）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-06",
+          "title": "重大协议签订（2025-11-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-02",
+          "title": "管理层变动、分拆进展公告（2025-10-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1048911",
+      "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
+      "parentMarketCap": 746.8,
+      "nameCN": "联邦快递",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "DAN",
+      "name": "DANA Inc  (DAN)",
+      "spinoffName": "Eaton, Eaton Ohio, Eaton HoldCo",
+      "spinoffTicker": "",
+      "type": "splitoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-10",
+          "title": "重大协议签订、分拆进展公告（2026-07-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-11",
+          "title": "SEC 8-K: DANA Inc  (DAN) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-01-08",
+          "title": "分拆进展公告（2026-01-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-02",
+          "title": "交割完成、投资者关系公告（2026-01-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "26780",
+      "aiSummary": "德纳公司推进换股分拆，预计 2026 年 1 月 8 日公告进展并分拆业务。",
+      "parentMarketCap": 26.8,
+      "nameCN": "德纳公司",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "CUE",
+      "name": "Cue Biopharma, Inc.  (CUE)",
+      "spinoffName": "Cue Biopharma, Inc.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-10",
+          "title": "重大协议签订、管理层变动（2026-07-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "管理层变动、分拆进展公告（2026-06-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-01",
+          "title": "SEC 8-K: Cue Biopharma, Inc.  (CUE) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-22",
+          "title": "股东权益变动（2026-04-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-07",
+          "title": "分拆进展公告（2026-04-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-18",
+          "title": "分拆进展公告（2026-02-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-19",
+          "title": "重大协议签订、分拆进展公告（2025-12-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-06",
+          "title": "重大协议签订、投资者关系公告（2025-11-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1645460&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1645460",
+      "aiSummary": "Cue 生物制药推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 1.2,
+      "nameCN": "Cue生物制药公司",
+      "lastUpdated": "2026-08-08T00:53:32Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "VANI",
+      "name": "Vivani Medical, Inc.  (VANI)",
+      "spinoffName": "Cortigent, Inc",
+      "spinoffTicker": "CRGT",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-07",
+          "title": "重大协议签订、分拆进展公告（2026-07-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "管理层变动、分拆进展公告（2026-06-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-27",
+          "title": "重大协议签订、投资者关系公告（2026-01-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-28",
+          "title": "重大协议签订、投资者关系公告（2025-10-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-03",
+          "title": "投资者关系公告、分拆进展公告（2025-10-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-17",
+          "title": "SEC 8-K: Vivani Medical, Inc.  (VANI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-09-04",
+          "title": "分拆进展公告（2025-09-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1266806&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1266806",
+      "aiSummary": "Vivani 医疗推进纯分拆，管理层变动并公告进展，预计 2026 年完成。",
+      "parentMarketCap": 1.1,
+      "nameCN": "Vivani医疗",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "MIDD",
+      "name": "MIDDLEBY Corp  (MIDD)",
+      "spinoffName": "Midera Food Processing, Inc",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-06",
+          "title": "重大协议签订、交割完成（2026-07-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "投资者关系公告、分拆进展公告（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "SEC 8-K: MIDDLEBY Corp  (MIDD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-17",
+          "title": "SEC 8-K: MIDDLEBY Corp  (MIDD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-11",
+          "title": "SEC 8-K: MIDDLEBY Corp  (MIDD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-04",
+          "title": "SEC 8-K: MIDDLEBY Corp  (MIDD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "分拆进展公告（2026-02-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-06",
+          "title": "重大协议签订（2026-01-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "重大协议签订、分拆进展公告（2025-12-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-08-21",
+          "title": "重大协议签订（2025-08-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "769520",
+      "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
+      "parentMarketCap": 79.2,
+      "nameCN": "Middleby集团",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "MFP",
+      "name": "Midera Food Processing, Inc.  (MFP)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-06",
+          "title": "重大协议签订、股东权益变动（2026-07-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "重大协议签订、分拆进展公告（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "SEC 8-K: Midera Food Processing, Inc.  (MFP) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2088281",
+      "aiSummary": "Midera 食品加工推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
+      "parentMarketCap": 18.1,
+      "nameCN": "Midera食品加工",
+      "lastUpdated": "2026-08-15T00:59:25Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc.  (SPGI)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-06",
+          "title": "SEC 8-K: S&P Global Inc.  (SPGI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "重大协议签订、交割完成（2026-07-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "分拆进展公告（2026-05-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "分拆进展公告（2026-05-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-18",
+          "title": "分拆进展公告（2026-05-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "重大协议签订（2025-12-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-01",
+          "title": "分拆进展公告（2025-12-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "64040",
+      "aiSummary": "标普全球完成分拆，旗下 S&P Global Inc. 业务独立运营，预计 2026 年 7 月 2 日交割。",
+      "parentMarketCap": 1302.1,
+      "nameCN": "标普全球",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "SOC",
+      "name": "Sable Offshore Corp.  (SOC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-02",
+          "title": "SEC 8-K: Sable Offshore Corp.  (SOC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "重大协议签订、投资者关系公告（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "重大协议签订、投资者关系公告（2026-02-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-25",
+          "title": "重大协议签订（2025-11-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "重大协议签订、投资者关系公告（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-10",
+          "title": "分拆进展公告（2025-10-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-06",
+          "title": "分拆进展公告（2025-10-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1831481",
+      "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
+      "parentMarketCap": 6.6,
+      "nameCN": "萨布尔离岸",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health, Inc.  (HIMS)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-01",
+          "title": "重大协议签订（2026-07-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "重大协议签订、分拆进展公告（2026-06-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "SEC 8-K: Hims & Hers Health, Inc.  (HIMS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-19",
+          "title": "分拆进展公告（2026-05-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-19",
+          "title": "重大协议签订、投资者关系公告（2026-02-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-17",
+          "title": "分拆进展公告（2025-11-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-22",
+          "title": "分拆进展公告（2025-09-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-05",
+          "title": "重大协议签订（2025-09-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1773751",
+      "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
+      "parentMarketCap": 85.2,
+      "nameCN": "Hims & Hers健康",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "BTU",
+      "name": "PEABODY ENERGY CORP  (BTU)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-01",
+          "title": "重大协议签订（2026-07-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "重大协议签订、投资者关系公告（2026-06-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "SEC 8-K: PEABODY ENERGY CORP  (BTU) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-29",
+          "title": "分拆进展公告（2026-05-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-28",
+          "title": "分拆进展公告（2026-05-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-07",
+          "title": "管理层变动、分拆进展公告（2026-05-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-05",
+          "title": "业绩公布、分拆进展公告（2026-05-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-05",
+          "title": "业绩公布、分拆进展公告（2026-02-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "业绩公布、分拆进展公告（2025-10-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-07-31",
+          "title": "业绩公布、分拆进展公告（2025-07-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1064728&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1064728",
+      "aiSummary": "皮博迪能源推进纯分拆，将剥离资产以优化能源组合，预计近期完成交割。",
+      "parentMarketCap": 27.2,
+      "nameCN": "皮博迪能源",
+      "lastUpdated": "2026-07-01T00:00:00Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "TEX",
+      "name": "TEREX CORP  (TEX)",
+      "spinoffName": "TEREX CORP",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-30",
+          "title": "SEC 8-K: TEREX CORP  (TEX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 72.39,
+          "stockPriceDate": "2026-06-30"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "97216",
+      "nameCN": "特雷克斯",
+      "aiSummary": "特雷克斯推进纯分拆，完成 SEC 备案，子公司 Terex Corp 将独立上市。",
+      "parentMarketCap": 77.8,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-06-30",
+        "priceAtAnnouncement": 72.39,
+        "priceNow": 65.39,
+        "changePct": -9.7
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-06-30T00:00:00Z"
+    },
+    {
+      "ticker": "HON",
+      "name": "HONEYWELL INTERNATIONAL INC  (HON)",
+      "spinoffName": "Honeywell Aerospace",
+      "spinoffTicker": "HONA",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-29",
+          "title": "重大协议签订、交割完成（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-05",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-23",
+          "title": "分拆进展公告（2026-04-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-23",
+          "title": "分拆进展公告（2026-03-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "分拆进展公告（2026-03-16）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-12-22",
+          "title": "业绩公布、分拆进展公告（2025-12-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-22",
+          "title": "分拆进展公告（2025-10-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-16",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-01",
+          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-02-05",
+          "title": "Honeywell separates into three independent companies"
+        },
+        {
+          "date": "2024-10-08",
+          "title": "Honeywell announces plan to spin off Advanced Materials business"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "773840",
+      "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
+      "parentMarketCap": 728.3,
+      "marketCap": 538.2,
+      "nameCN": "霍尼韦尔",
+      "spinoffPricePerf": [
+        {
+          "parent": "HON",
+          "spinoff": "HONA",
+          "spinoffDate": "2026-06-29",
+          "parentPriceAtSpin": 227.8,
+          "parentPriceNow": 233.96,
+          "parentChangePct": 2.7,
+          "spinoffPriceAtSpin": 220.19,
+          "spinoffPriceNow": 166.36,
+          "spinoffChangePct": -24.4,
+          "updatedAt": "2026-08-15"
+        }
+      ],
+      "greenblattNote": {
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-24.4%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.4%."
+      }
+    },
+    {
+      "ticker": "VRDN",
+      "name": "Viridian Therapeutics, Inc.\\DE  (VRDN)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-29",
+          "title": "投资者关系公告、分拆进展公告（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-26",
+          "title": "重大协议签订（2026-05-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-11",
+          "title": "SEC 8-K: Viridian Therapeutics, Inc.\\DE  (VRDN) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-23",
+          "title": "重大协议签订（2025-10-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-20",
+          "title": "重大协议签订（2025-10-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1590750",
+      "aiSummary": "维瑞迪安治疗公司推进纯分拆，将独立运营治疗业务，预计近期完成 SEC  filings。",
+      "parentMarketCap": 20.4,
+      "nameCN": "维瑞迪安治疗公司",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "TSNDF",
+      "name": "TerrAscend Corp.  (TSNDF)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-29",
+          "title": "分拆进展公告（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1778129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "SEC 8-K: TerrAscend Corp.  (TSNDF) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1778129&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1778129",
+      "aiSummary": "TerrAscend 提交分拆文件，将独立上市运营其核心业务板块。",
+      "parentMarketCap": 3.4,
+      "nameCN": "TerrAscend",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "DFDV",
+      "name": "DeFi Development Corp.  (DFDV)",
+      "spinoffName": "DeFi Development Corp.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-26",
+          "title": "分拆进展公告（2026-06-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 2.73,
+          "stockPriceDate": "2026-06-26"
+        },
+        {
+          "date": "2026-05-01",
+          "title": "重大协议签订（2026-05-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 4.55,
+          "stockPriceDate": "2026-05-01"
+        },
+        {
+          "date": "2026-04-06",
+          "title": "管理层变动、分拆进展公告（2026-04-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 3.64,
+          "stockPriceDate": "2026-04-06"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "管理层变动、分拆进展公告（2026-01-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 5.17,
+          "stockPriceDate": "2026-01-29"
+        },
+        {
+          "date": "2025-11-13",
+          "title": "投资者关系公告、分拆进展公告（2025-11-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 8.18,
+          "stockPriceDate": "2025-11-13"
+        },
+        {
+          "date": "2025-10-16",
+          "title": "投资者关系公告、分拆进展公告（2025-10-16）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 13.79,
+          "stockPriceDate": "2025-10-16"
+        },
+        {
+          "date": "2025-10-08",
+          "title": "投资者关系公告、分拆进展公告（2025-10-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 17.36,
+          "stockPriceDate": "2025-10-08"
+        },
+        {
+          "date": "2025-09-18",
+          "title": "管理层变动、分拆进展公告（2025-09-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 17.75,
+          "stockPriceDate": "2025-09-18"
+        },
+        {
+          "date": "2025-08-28",
+          "title": "投资者关系公告、分拆进展公告（2025-08-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 16.47,
+          "stockPriceDate": "2025-08-28"
+        },
+        {
+          "date": "2025-08-26",
+          "title": "重大协议签订、分拆进展公告（2025-08-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 16.0,
+          "stockPriceDate": "2025-08-26"
+        },
+        {
+          "date": "2025-08-04",
+          "title": "投资者关系公告、分拆进展公告（2025-08-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 15.34,
+          "stockPriceDate": "2025-08-04"
+        },
+        {
+          "date": "2025-07-31",
+          "title": "重大协议签订（2025-07-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 14.38,
+          "stockPriceDate": "2025-07-31"
+        },
+        {
+          "date": "2025-07-29",
+          "title": "投资者关系公告、分拆进展公告（2025-07-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 16.07,
+          "stockPriceDate": "2025-07-29"
+        },
+        {
+          "date": "2025-07-21",
+          "title": "投资者关系公告、分拆进展公告（2025-07-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 23.52,
+          "stockPriceDate": "2025-07-21"
+        },
+        {
+          "date": "2025-07-17",
+          "title": "分拆进展公告（2025-07-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 26.74,
+          "stockPriceDate": "2025-07-17"
+        },
+        {
+          "date": "2025-07-08",
+          "title": "投资者关系公告、分拆进展公告（2025-07-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 20.22,
+          "stockPriceDate": "2025-07-08"
+        },
+        {
+          "date": "2025-07-07",
+          "title": "SEC 8-K: DeFi Development Corp.  (DFDV) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1805526&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 23.11,
+          "stockPriceDate": "2025-07-07"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1805526",
+      "aiSummary": "DeFi 开发公司发布分拆公告，计划将 DeFi 业务独立分拆以释放股东价值。",
+      "parentMarketCap": 1.0,
+      "nameCN": "DeFi开发公司",
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-07-07",
+        "priceAtAnnouncement": 23.11,
+        "priceNow": 2.81,
+        "changePct": -87.8
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-06-26T00:00:00Z"
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper",
+      "spinoffName": "Global Coffee Co.（Peet's + Keurig + Jacobs + L'OR）",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-08-25",
+          "title": "KDP宣布以157亿欧元收购JDE Peet's，计划拆分为饮料公司与全球咖啡公司两家独立上市公司"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "KDP重申2026年展望，拆分预计2027年初完成"
+        }
+      ],
+      "status": "in_progress",
+      "source": "manual",
+      "cik": "",
+      "aiSummary": "科瑞格胡椒博士计划 2027 年初完成分拆，新公司将整合全球主要咖啡品牌。",
+      "parentMarketCap": 453.1,
+      "nameCN": "科瑞格胡椒博士",
+      "greenblattNote": {
+        "zh": "母公司市值约453亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $453B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "DD",
+      "name": "DuPont de Nemours, Inc.  (DD)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "splitoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-24",
+          "title": "股东权益变动（2026-06-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-18",
+          "title": "分拆进展公告（2026-03-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "分拆进展公告（2025-12-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-19",
+          "title": "重大协议签订、分拆进展公告（2025-11-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "重大协议签订、交割完成（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-15",
+          "title": "分拆进展公告（2025-10-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-02",
+          "title": "重大协议签订（2025-10-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-16",
+          "title": "分拆进展公告（2025-09-16）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-03",
+          "title": "SEC 8-K: DuPont de Nemours, Inc.  (DD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-09-02",
+          "title": "重大协议签订（2025-09-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-08-04",
+          "title": "重大协议签订（2025-08-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1666700",
+      "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
+      "parentMarketCap": 190.5,
+      "nameCN": "杜邦",
+      "lastUpdated": "2026-06-24T00:00:00Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "QURE",
+      "name": "uniQure N.V.  (QURE)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-24",
+          "title": "重大协议签订、分拆进展公告（2026-06-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 48.85,
+          "stockPriceDate": "2026-06-24"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "投资者关系公告、分拆进展公告（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 44.39,
+          "stockPriceDate": "2026-06-22"
+        },
+        {
+          "date": "2026-06-17",
+          "title": "分拆进展公告（2026-06-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 48.16,
+          "stockPriceDate": "2026-06-17"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "SEC 8-K: uniQure N.V.  (QURE) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 27.87,
+          "stockPriceDate": "2026-06-15"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "投资者关系公告、分拆进展公告（2025-12-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 22.74,
+          "stockPriceDate": "2025-12-04"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "投资者关系公告、分拆进展公告（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 34.29,
+          "stockPriceDate": "2025-11-03"
+        },
+        {
+          "date": "2025-09-29",
+          "title": "重大协议签订、分拆进展公告（2025-09-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 59.4,
+          "stockPriceDate": "2025-09-29"
+        },
+        {
+          "date": "2025-09-24",
+          "title": "重大协议签订（2025-09-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 47.5,
+          "stockPriceDate": "2025-09-24"
+        },
+        {
+          "date": "2025-07-29",
+          "title": "重大协议签订（2025-07-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590560&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 13.68,
+          "stockPriceDate": "2025-07-29"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1590560",
+      "aiSummary": "优克瑞生物推进纯分拆进程，重大协议已签，预计 2026 年 6 月完成分拆。",
+      "parentMarketCap": 28.4,
+      "nameCN": "优克瑞",
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-07-29",
+        "priceAtAnnouncement": 13.68,
+        "priceNow": 40.25,
+        "changePct": 194.2
+      },
+      "lastUpdated": "2026-08-14T01:08:36Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "ANAB",
+      "name": "ANAPTYSBIO, INC  (ANAB)",
+      "spinoffName": "SpinCo",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-22",
+          "title": "重大协议签订（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-20",
+          "title": "重大协议签订、交割完成（2026-04-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-27",
+          "title": "SEC 8-K: ANAPTYSBIO, INC  (ANAB) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-11-21",
+          "title": "分拆进展公告（2025-11-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-10",
+          "title": "投资者关系公告、分拆进展公告（2025-11-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-29",
+          "title": "投资者关系公告、分拆进展公告（2025-09-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1370053",
+      "aiSummary": "AnaptysBio 完成子公司 IPO 交割，预计 2026 年 6 月 22 日签署重大协议。",
+      "parentMarketCap": 18.8,
+      "nameCN": "AnaptysBio",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "TRAX",
+      "name": "First Tracks Biotherapeutics, Inc.  (TRAX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-22",
+          "title": "重大协议签订（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-20",
+          "title": "重大协议签订、交割完成（2026-04-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-03",
+          "title": "SEC 8-K: First Tracks Biotherapeutics, Inc.  (TRAX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2091349",
+      "aiSummary": "First Tracks 生物完成分拆交割，预计 2026 年 6 月 22 日签署相关重大协议。",
+      "parentMarketCap": 6.7,
+      "nameCN": "First Tracks生物",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "AMRC",
+      "name": "Ameresco, Inc.  (AMRC)",
+      "spinoffName": "Ameresco, Inc",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-08",
+          "title": "SEC 8-K: Ameresco, Inc.  (AMRC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1488139&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 27.76,
+          "stockPriceDate": "2026-06-08"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1488139",
+      "nameCN": "Ameresco",
+      "aiSummary": "Ameresco 提交分拆文件，将独立运营其能源效率与基础设施业务板块。",
+      "parentMarketCap": 13.4,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-06-08",
+        "priceAtAnnouncement": 27.76,
+        "priceNow": 23.11,
+        "changePct": -16.8
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-06-08T00:00:00Z"
+    },
+    {
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery, Inc.  (WBD)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-04",
+          "title": "重大协议签订（2026-06-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-27",
+          "title": "重大协议签订、股东权益变动（2026-05-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-19",
+          "title": "分拆进展公告（2026-05-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-27",
+          "title": "重大协议签订、投资者关系公告（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-18",
+          "title": "重大协议签订（2026-02-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-20",
+          "title": "SEC 8-K: Warner Bros. Discovery, Inc.  (WBD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-12-05",
+          "title": "SEC 8-K: Warner Bros. Discovery, Inc.  (WBD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1437107",
+      "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
+      "parentMarketCap": 654.3,
+      "nameCN": "华纳兄弟探索",
+      "greenblattNote": {
+        "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "FDXF",
+      "name": "FedEx Freight Holding Company, Inc.  (FDXF)",
+      "spinoffName": "FedEx Freight from FedEx Corp",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-01",
+          "title": "重大协议签订、股东权益变动（2026-06-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2082247&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": 149.53,
+          "stockPriceDate": "2026-06-01"
+        },
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: FedEx Freight Holding Company, Inc.  (FDXF) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2082247&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": null,
+          "stockPriceDate": null
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2082247",
+      "parentMarketCap": 227.3,
+      "nameCN": "联邦快递货运",
+      "aiSummary": "联邦快递货运子公司 IPO 获重大协议支持，预计 2026 年 6 月完成分拆上市。",
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-05-13",
+        "priceAtAnnouncement": null,
+        "priceNow": 152.26,
+        "changePct": null
+      },
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      },
+      "lastUpdated": "2026-06-01T00:00:00Z"
+    },
+    {
+      "ticker": "OCTV",
+      "name": "Octave Intelligence plc  (OCTV)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-26",
+          "title": "重大协议签订、管理层变动（2026-05-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2083632&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "SEC 8-K: Octave Intelligence plc  (OCTV) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2083632&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2083632",
+      "aiSummary": "八度智能推进纯分拆，新公司将专注智能硬件业务，预计近期完成分拆。",
+      "parentMarketCap": 46.7,
+      "nameCN": "八度智能公司",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "HXL",
+      "name": "HEXCEL CORP /DE/  (HXL)",
+      "spinoffName": "HEXCEL CORP /DE/",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-15",
+          "title": "SEC 8-K: HEXCEL CORP /DE/  (HXL) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=717605&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 88.65,
+          "stockPriceDate": "2026-05-15"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "717605",
+      "nameCN": "赫氏复合材料",
+      "aiSummary": "赫氏复合材料推进纯分拆，新公司将专注高性能材料业务，预计近期完成。",
+      "parentMarketCap": 74.9,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-05-15",
+        "priceAtAnnouncement": 88.65,
+        "priceNow": 103.81,
+        "changePct": 17.1
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-05-15T00:00:00Z"
+    },
+    {
+      "ticker": "XFOR",
+      "name": "X4 Pharmaceuticals, Inc  (XFOR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-27",
+          "title": "重大协议签订（2025-10-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1501697",
+      "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
+      "parentMarketCap": 3.7,
+      "nameCN": "X4制药",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "FET",
+      "name": "FORUM ENERGY TECHNOLOGIES, INC.  (FET)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-12",
+          "title": "SEC 8-K: FORUM ENERGY TECHNOLOGIES, INC.  (FET) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1401257&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-02-05",
+          "title": "重大协议签订（2026-02-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1401257&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1401257",
+      "aiSummary": "论坛能源推进纯分拆，新公司将专注能源技术业务，预计近期完成交割。",
+      "parentMarketCap": 5.3,
+      "nameCN": "论坛能源技术公司",
+      "lastUpdated": "2026-05-12T00:00:00Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "PUMP",
+      "name": "ProPetro Holding Corp.  (PUMP)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-07",
+          "title": "SEC 8-K: ProPetro Holding Corp.  (PUMP) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-04",
+          "title": "投资者关系公告、分拆进展公告（2026-05-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-30",
+          "title": "重大协议签订、业绩公布（2026-04-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "重大协议签订（2026-02-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-28",
+          "title": "投资者关系公告、分拆进展公告（2026-01-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "业绩公布、投资者关系公告（2026-01-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-30",
+          "title": "重大协议签订（2025-12-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1680247&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1680247",
+      "aiSummary": "ProPetro 推进纯分拆，子公司聚焦石油天然气服务，预计 2026 年 5 月完成。",
+      "parentMarketCap": 13.3,
+      "nameCN": "ProPetro控股",
+      "lastUpdated": "2026-05-07T00:00:00Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "APTV",
+      "name": "Aptiv PLC  (APTV)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-05",
+          "title": "业绩公布、分拆进展公告（2026-05-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-06",
+          "title": "分拆进展公告（2026-04-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-01",
+          "title": "SEC 8-K: Aptiv PLC  (APTV) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-03-20",
+          "title": "分拆进展公告（2026-03-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-06",
+          "title": "分拆进展公告（2026-03-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-05",
+          "title": "SEC 8-K: Aptiv PLC  (APTV) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-03-04",
+          "title": "分拆进展公告（2026-03-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-24",
+          "title": "分拆进展公告（2026-02-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-17",
+          "title": "分拆进展公告（2026-02-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "分拆进展公告（2026-02-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-14",
+          "title": "分拆进展公告（2025-11-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1521332",
+      "aiSummary": "安波福推进分拆进展，子公司将独立运营，预计 2026 年 4 月至 5 月间完成相关公告。",
+      "parentMarketCap": 124.6,
+      "nameCN": "安波福",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "NVRI",
+      "name": "ENVIRI Corp  (NVRI)",
+      "spinoffName": "ENVIRI Corp",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-04",
+          "title": "SEC 8-K: ENVIRI Corp  (NVRI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 19.16,
+          "stockPriceDate": "2026-05-04"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "45876",
+      "nameCN": "英弗里集团",
+      "aiSummary": "英弗里集团推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 6.3,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-05-04",
+        "priceAtAnnouncement": 19.16,
+        "priceNow": 22.91,
+        "changePct": 19.6
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-05-04T00:00:00Z"
+    },
+    {
+      "ticker": "AMRZ",
+      "name": "Amrize Ltd  (AMRZ)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-04-29",
+          "title": "SEC 8-K: Amrize Ltd  (AMRZ) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 56.65,
+          "stockPriceDate": "2026-04-29"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "2035989",
+      "nameCN": "阿姆瑞兹有限公司",
+      "aiSummary": "阿姆瑞兹推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 296.5,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-04-29",
+        "priceAtAnnouncement": 56.65,
+        "priceNow": 49.74,
+        "changePct": -12.2
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-04-29T00:00:00Z"
+    },
+    {
+      "ticker": "BE",
+      "name": "Bloom Energy Corp  (BE)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-04-27",
+          "title": "分拆进展公告（2026-04-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-13",
+          "title": "重大协议签订（2026-04-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-23",
+          "title": "重大协议签订（2025-12-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-04",
+          "title": "SEC 8-K: Bloom Energy Corp  (BE) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "分拆进展公告（2025-10-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1664703",
+      "aiSummary": "博隆能源推进纯分拆计划，旨在独立运营其高效固体氧化物燃料电池业务。",
+      "parentMarketCap": 770.5,
+      "nameCN": "博隆能源",
+      "greenblattNote": {
+        "zh": "母公司市值约770亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $770B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "VGNT",
+      "name": "Versigent PLC  (VGNT)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-04-01",
+          "title": "SEC 8-K: Versigent PLC  (VGNT) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2078008&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-03-24",
+          "title": "SEC 8-K: Versigent Ltd  (VGNT) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2078008&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2078008",
+      "aiSummary": "公司正推进纯分拆进程，将独立运营业务板块，预计近期完成相关 SEC  filings。",
+      "parentMarketCap": 29.9,
+      "nameCN": "Versigent",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "FLGC",
+      "name": "Flora Growth Corp.  (FLGC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-31",
+          "title": "重大协议签订（2026-03-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2026-01-29",
+          "title": "分拆进展公告（2026-01-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2025-12-31",
+          "title": "重大协议签订（2025-12-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2025-11-28",
+          "title": "重大协议签订（2025-11-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2025-09-29",
+          "title": "分拆进展公告（2025-09-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2025-09-23",
+          "title": "SEC 8-K: Flora Growth Corp.  (FLGC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": null,
+          "stockPriceDate": null
+        },
+        {
+          "date": "2025-08-04",
+          "title": "股东权益变动（2025-08-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1790169&type=8-K&dateb=&owner=include&count=40",
+          "stockPrice": null,
+          "stockPriceDate": null
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1790169",
+      "nameCN": "弗洛拉增长公司",
+      "aiSummary": "公司签署重大协议推进分拆，子公司将独立运营，预计 2026 年 3 月 31 日完成交割。",
+      "parentMarketCap": 0.1,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-08-04",
+        "priceAtAnnouncement": null,
+        "priceNow": null,
+        "changePct": null
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-03-31T00:00:00Z"
+    },
+    {
+      "ticker": "JEF",
+      "name": "Jefferies Financial Group Inc.  (JEF)",
+      "spinoffName": "Jefferies Financial Group Inc.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-31",
+          "title": "SEC 8-K: Jefferies Financial Group Inc.  (JEF) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=96223&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 40.95,
+          "stockPriceDate": "2026-03-31"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "96223",
+      "nameCN": "杰富瑞金融",
+      "aiSummary": "公司启动纯分拆程序，子公司将独立开展金融业务，预计近期完成 SEC 分拆 filings。",
+      "parentMarketCap": 107.6,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-03-31",
+        "priceAtAnnouncement": 40.95,
+        "priceNow": 54.87,
+        "changePct": 34.0
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-03-31T00:00:00Z"
+    },
+    {
+      "ticker": "ZBIO",
+      "name": "Zenas BioPharma, Inc.  (ZBIO)",
+      "spinoffName": "Zenas BioPharma, Inc.",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-31",
+          "title": "SEC 8-K: Zenas BioPharma, Inc.  (ZBIO) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 19.55,
+          "stockPriceDate": "2026-03-31"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1953926",
+      "nameCN": "泽纳斯生物制药公司",
+      "aiSummary": "公司推进纯分拆计划，子公司将独立运营生物制药业务，预计近期完成相关 SEC filings。",
+      "parentMarketCap": 17.4,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-03-31",
+        "priceAtAnnouncement": 19.55,
+        "priceNow": 29.53,
+        "changePct": 51.0
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-03-31T00:00:00Z"
+    },
+    {
+      "ticker": "ENTA",
+      "name": "ENANTA PHARMACEUTICALS INC  (ENTA)",
+      "spinoffName": "ENANTA PHARMACEUTICALS INC",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-12",
+          "title": "SEC 8-K: ENANTA PHARMACEUTICALS INC  (ENTA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1177648&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 13.41,
+          "stockPriceDate": "2026-03-12"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1177648",
+      "nameCN": "恩安塔制药公司",
+      "aiSummary": "公司启动纯分拆程序，子公司将独立开展制药业务，预计近期完成 SEC 分拆 filings。",
+      "parentMarketCap": 4.4,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-03-12",
+        "priceAtAnnouncement": 13.41,
+        "priceNow": 13.74,
+        "changePct": 2.5
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-03-12T00:00:00Z"
+    },
+    {
+      "ticker": "CRGY",
+      "name": "Crescent Energy Co  (CRGY)",
+      "spinoffName": "Crescent Energy Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-09",
+          "title": "SEC 8-K: Crescent Energy Co  (CRGY) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1866175&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 11.73,
+          "stockPriceDate": "2026-03-09"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1866175",
+      "nameCN": "新月能源",
+      "aiSummary": "公司推进纯分拆计划，子公司将独立运营能源业务，预计近期完成相关 SEC 分拆 filings。",
+      "parentMarketCap": 30.8,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-03-09",
+        "priceAtAnnouncement": 11.73,
+        "priceNow": 10.75,
+        "changePct": -8.4
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-03-09T00:00:00Z"
+    },
+    {
+      "ticker": "RNA",
+      "name": "Avidity Biosciences, Inc.  (RNA)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-02-27",
+          "title": "交割完成、股东权益变动（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-23",
+          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-12-18",
+          "title": "管理层变动、分拆进展公告（2025-12-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-27",
+          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-14",
+          "title": "分拆进展公告（2025-10-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-12",
+          "title": "分拆进展公告（2025-09-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-10",
+          "title": "管理层变动、投资者关系公告（2025-09-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1599901",
+      "aiSummary": "Avidity Biosciences 生物分拆已于 2026 年 2 月 27 日完成交割，股东权益发生变动。",
+      "parentMarketCap": 2.1,
+      "nameCN": "Avidity生物",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "PPL",
+      "name": "PPL Corp  (PPL)",
+      "spinoffName": "PPL Corp",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-02-26",
+          "title": "SEC 8-K: PPL Corp  (PPL) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=922224&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": null,
+          "stockPriceDate": null
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "922224",
+      "nameCN": "PPL能源",
+      "aiSummary": "公司启动纯分拆程序，子公司将独立运营能源业务，预计近期完成相关 SEC 分拆 filings。",
+      "parentMarketCap": 277.5,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2026-02-26",
+        "priceAtAnnouncement": 38.01,
+        "priceNow": 35.85,
+        "changePct": -5.7
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2026-02-26T00:00:00Z"
+    },
+    {
+      "ticker": "ARWR",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC.  (ARWR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-01-12",
+          "title": "SEC 8-K: ARROWHEAD PHARMACEUTICALS, INC.  (ARWR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-01-09",
+          "title": "重大协议签订、分拆进展公告（2026-01-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-06",
+          "title": "投资者关系公告、分拆进展公告（2026-01-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-18",
+          "title": "分拆进展公告（2025-11-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-12",
+          "title": "分拆进展公告（2025-09-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-11",
+          "title": "分拆进展公告（2025-09-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-02",
+          "title": "重大协议签订（2025-09-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "879407",
+      "aiSummary": "箭头制药推进分拆，旗下 Arrowhead 生物制药业务将独立开展研发。",
+      "parentMarketCap": 118.3,
+      "nameCN": "箭头制药公司",
+      "lastUpdated": "2026-01-12T00:00:00Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "VSNT",
+      "name": "Versant Media Group, Inc.  (VSNT)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-01-05",
+          "title": "重大协议签订、交割完成（2026-01-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2067876&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-08",
+          "title": "SEC 8-K: Versant Media Group, Inc.  (VSNT) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2067876&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "2067876",
+      "aiSummary": "沃森特推进分拆，旗下 Versant 媒体集团业务将独立开展媒体运营。",
+      "parentMarketCap": 54.0,
+      "nameCN": "沃森特媒体集团公司",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "FSLY",
+      "name": "Fastly, Inc.  (FSLY)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-12-17",
+          "title": "重大协议签订、分拆进展公告（2025-12-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1517413&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-09",
+          "title": "SEC 8-K: Fastly, Inc.  (FSLY) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1517413&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1517413",
+      "aiSummary": "法斯特利推进分拆，旗下 Fastly 边缘计算服务业务将独立上市运营。",
+      "parentMarketCap": 28.4,
+      "nameCN": "法斯特利公司",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "ELVN",
+      "name": "Enliven Therapeutics, Inc.  (ELVN)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-12-11",
+          "title": "SEC 8-K: Enliven Therapeutics, Inc.  (ELVN) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1672619&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 18.77,
+          "stockPriceDate": "2025-12-11"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1672619",
+      "nameCN": "恩利文治疗公司",
+      "aiSummary": "恩利文推进分拆，旗下 Enliven 治疗业务将独立开展药物研发与生产。",
+      "parentMarketCap": 35.6,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-12-11",
+        "priceAtAnnouncement": 18.77,
+        "priceNow": 53.2,
+        "changePct": 183.4
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-12-11T00:00:00Z"
+    },
+    {
+      "ticker": "CPSS",
+      "name": "CONSUMER PORTFOLIO SERVICES, INC.  (CPSS)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-11-25",
+          "title": "SEC 8-K: CONSUMER PORTFOLIO SERVICES, INC.  (CPSS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=889609&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 8.38,
+          "stockPriceDate": "2025-11-25"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "889609",
+      "nameCN": "消费者投资组合服务公司",
+      "aiSummary": "消费者投资组合推进分拆，旗下客户服务业务将独立开展债务管理服务。",
+      "parentMarketCap": 2.1,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-11-25",
+        "priceAtAnnouncement": 8.38,
+        "priceNow": 9.09,
+        "changePct": 8.5
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-11-25T00:00:00Z"
+    },
+    {
+      "ticker": "COGT",
+      "name": "Cogent Biosciences, Inc.  (COGT)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-11-18",
+          "title": "SEC 8-K: Cogent Biosciences, Inc.  (COGT) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1622229&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 33.4,
+          "stockPriceDate": "2025-11-18"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1622229",
+      "nameCN": "科真生物科学公司",
+      "aiSummary": "科真生物推进分拆，旗下 Cogent 生物科学业务将独立开展研发与生产。",
+      "parentMarketCap": 66.1,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-11-18",
+        "priceAtAnnouncement": 33.4,
+        "priceNow": 39.08,
+        "changePct": 17.0
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-11-18T00:00:00Z"
+    },
+    {
+      "ticker": "SMR",
+      "name": "NUSCALE POWER Corp  (SMR)",
+      "spinoffName": "NUSCALE POWER Corp",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-11-17",
+          "title": "SEC 8-K: NUSCALE POWER Corp  (SMR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 21.06,
+          "stockPriceDate": "2025-11-17"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1822966",
+      "nameCN": "纽斯凯尔动力",
+      "aiSummary": "纽斯凯尔动力推进纯分拆进程，旨在独立运营小型模块化反应堆业务。",
+      "parentMarketCap": 35.7,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-11-17",
+        "priceAtAnnouncement": 21.06,
+        "priceNow": 7.72,
+        "changePct": -63.3
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-11-17T00:00:00Z"
+    },
+    {
+      "ticker": "ECG",
+      "name": "Everus Construction Group, Inc.  (ECG)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-11-04",
+          "title": "SEC 8-K: Everus Construction Group, Inc.  (ECG) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2015845&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "2015845",
+      "aiSummary": "埃弗鲁斯建筑集团完成分拆，子公司将独立开展特种建筑与基础设施项目。",
+      "parentMarketCap": 70.6,
+      "nameCN": "埃弗鲁斯建筑集团公司",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "GPRE",
+      "name": "Green Plains Inc.  (GPRE)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-10-28",
+          "title": "SEC 8-K: Green Plains Inc.  (GPRE) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1309402&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 10.34,
+          "stockPriceDate": "2025-10-28"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1309402",
+      "nameCN": "绿色平原",
+      "aiSummary": "绿色平原推进纯分拆，旨在独立运营其可持续农业与生物燃料相关业务。",
+      "parentMarketCap": 10.9,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-10-28",
+        "priceAtAnnouncement": 10.34,
+        "priceNow": 19.23,
+        "changePct": 86.0
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-10-28T00:00:00Z"
+    },
+    {
+      "ticker": "SEI",
+      "name": "Solaris Energy Infrastructure, Inc.  (SEI)",
+      "spinoffName": "Solaris Energy Infrastructure",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-10-08",
+          "title": "SEC 8-K: Solaris Energy Infrastructure, Inc.  (SEI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 47.9,
+          "stockPriceDate": "2025-10-08"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1697500",
+      "nameCN": "索拉里斯能源基础设施公司",
+      "aiSummary": "索拉里斯能源基础设施公司启动分拆，将专注于开发太阳能储能基础设施项目。",
+      "parentMarketCap": 49.4,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-10-08",
+        "priceAtAnnouncement": 47.9,
+        "priceNow": 60.28,
+        "changePct": 25.8
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-10-08T00:00:00Z"
+    },
+    {
+      "ticker": "WOLF",
+      "name": "WOLFSPEED, INC.  (WOLF)",
+      "spinoffName": "WOLFSPEED",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-09-30",
+          "title": "SEC 8-K: WOLFSPEED, INC.  (WOLF) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=895419&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 28.6,
+          "stockPriceDate": "2025-09-30"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "895419",
+      "nameCN": "沃尔夫斯皮德",
+      "aiSummary": "沃尔夫斯皮德推进纯分拆，旨在独立运营其高性能半导体设计与制造业务。",
+      "parentMarketCap": 21.6,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-09-30",
+        "priceAtAnnouncement": 28.6,
+        "priceNow": 29.89,
+        "changePct": 4.5
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-09-30T00:00:00Z"
+    },
+    {
+      "ticker": "AMBC",
+      "name": "AMBAC FINANCIAL GROUP INC  (AMBC)",
+      "spinoffName": "AMBAC FINANCIAL GROUP",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-09-29",
+          "title": "SEC 8-K: AMBAC FINANCIAL GROUP INC  (AMBC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=874501&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": null,
+          "stockPriceDate": null
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "874501",
+      "nameCN": "安贝克金融",
+      "aiSummary": "安贝克金融集团推进纯分拆计划，旨在剥离核心业务以优化资本结构。",
+      "parentMarketCap": 4.0,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-09-29",
+        "priceAtAnnouncement": null,
+        "priceNow": null,
+        "changePct": null
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-09-29T00:00:00Z"
+    },
+    {
+      "ticker": "ZONE",
+      "name": "CleanCore Solutions, Inc.  (ZONE)",
+      "spinoffName": "CleanCore Solutions",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-09-05",
+          "title": "SEC 8-K: CleanCore Solutions, Inc.  (ZONE) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1956741&type=8-K&dateb=&owner=include&count=10",
+          "stockPrice": 3.24,
+          "stockPriceDate": "2025-09-05"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1956741",
+      "nameCN": "清洁核心解决方案公司",
+      "aiSummary": "清洁核心解决方案公司启动纯分拆程序，将独立运营以聚焦清洁技术业务。",
+      "parentMarketCap": 1.5,
+      "parentPricePerf": {
+        "firstAnnouncementDate": "2025-09-05",
+        "priceAtAnnouncement": 3.24,
+        "priceNow": 0.6,
+        "changePct": -81.4
+      },
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      },
+      "lastUpdated": "2025-09-05T00:00:00Z"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast",
+      "spinoffName": "NBCUniversal Cable Networks",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2024-11-19",
+          "title": "Comcast announces plan to spin off NBCUniversal cable networks"
+        },
+        {
+          "date": "2025-06-01",
+          "title": "Comcast SpinCo separation update"
+        }
+      ],
+      "status": "in_progress",
+      "source": "manual",
+      "cik": "",
+      "aiSummary": "康卡斯特推进 NBCUniversal 有线网络分拆，预计将完成分离以优化资产组合。",
+      "parentMarketCap": 849.8,
+      "nameCN": "康卡斯特",
+      "greenblattNote": {
+        "zh": "母公司市值约850亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $850B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "MDT",
+      "name": "Medtronic",
+      "spinoffName": "Patient Monitoring",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "NYSE",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2023-10-10",
+          "title": "Medtronic announces intent to spin off Patient Monitoring business"
+        }
+      ],
+      "status": "in_progress",
+      "source": "manual",
+      "cik": "",
+      "aiSummary": "美敦力计划分拆患者监测业务，旨在通过独立运营提升该细分领域的增长潜力。",
+      "parentMarketCap": 1064.9,
+      "nameCN": "美敦力",
+      "greenblattNote": {
+        "zh": "母公司市值约1065亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $1065B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    }
+  ]
+}
