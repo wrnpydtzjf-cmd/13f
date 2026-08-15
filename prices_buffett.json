@@ -1,0 +1,678 @@
+{
+  "updated": "2026-08-15T00:31:49.888429Z",
+  "quotes": {
+    "AAPL": {
+      "c": 305.93,
+      "h": 307.49,
+      "l": 304.3,
+      "o": 306,
+      "pc": 305.26,
+      "t": 1786737600
+    },
+    "AXP": {
+      "c": 342.48,
+      "h": 345.99,
+      "l": 341.69,
+      "o": 345.99,
+      "pc": 343.65,
+      "t": 1786737600
+    },
+    "KO": {
+      "c": 87.71,
+      "h": 87.97,
+      "l": 87.2,
+      "o": 87.3,
+      "pc": 87.42,
+      "t": 1786737600
+    },
+    "GOOGL": {
+      "c": 345.9,
+      "h": 350.45,
+      "l": 344.5,
+      "o": 346.8,
+      "pc": 346.36,
+      "t": 1786737600
+    },
+    "?BANK OF AMER CORP": {
+      "error": true
+    },
+    "CVX": {
+      "c": 200,
+      "h": 201.63,
+      "l": 198.35,
+      "o": 198.87,
+      "pc": 197.7,
+      "t": 1786737600
+    },
+    "OXY": {
+      "c": 58.36,
+      "h": 58.94,
+      "l": 57.83,
+      "o": 58.13,
+      "pc": 57.7,
+      "t": 1786737600
+    },
+    "?CHUBB LIMITED": {
+      "error": true
+    },
+    "MCO": {
+      "c": 484.96,
+      "h": 488.21,
+      "l": 480.34,
+      "o": 487.11,
+      "pc": 488.42,
+      "t": 1786737600
+    },
+    "GOOG": {
+      "c": 343.54,
+      "h": 348.06,
+      "l": 342.07,
+      "o": 344.26,
+      "pc": 343.94,
+      "t": 1786737600
+    },
+    "KHC": {
+      "c": 25.51,
+      "h": 25.52,
+      "l": 25.18,
+      "o": 25.36,
+      "pc": 25.38,
+      "t": 1786737600
+    },
+    "DVA": {
+      "c": 180.06,
+      "h": 182.69,
+      "l": 178.92,
+      "o": 179,
+      "pc": 179.17,
+      "t": 1786737600
+    },
+    "DAL": {
+      "c": 89.35,
+      "h": 91.36,
+      "l": 89.06,
+      "o": 91.04,
+      "pc": 91.31,
+      "t": 1786737600
+    },
+    "SIRI": {
+      "c": 28.46,
+      "h": 28.64,
+      "l": 28,
+      "o": 28.1,
+      "pc": 27.99,
+      "t": 1786737600
+    },
+    "VRSN": {
+      "c": 284.24,
+      "h": 290.0,
+      "l": 282.62,
+      "o": 289.09,
+      "pc": 287.15,
+      "t": 1786737600
+    },
+    "KR": {
+      "c": 56.69,
+      "h": 57.3,
+      "l": 56.62,
+      "o": 56.94,
+      "pc": 57.23,
+      "t": 1786737600
+    },
+    "LLYVA": {
+      "c": 104.99,
+      "h": 106.06,
+      "l": 104.29,
+      "o": 104.29,
+      "pc": 104.18,
+      "t": 1786737600
+    },
+    "ALLY": {
+      "c": 44.91,
+      "h": 45.15,
+      "l": 44.37,
+      "o": 44.55,
+      "pc": 44.6,
+      "t": 1786737600
+    },
+    "LEN": {
+      "c": 86.83,
+      "h": 87.79,
+      "l": 86.24,
+      "o": 86.99,
+      "pc": 87.54,
+      "t": 1786737600
+    },
+    "NYT": {
+      "c": 64.79,
+      "h": 65.27,
+      "l": 64.26,
+      "o": 64.46,
+      "pc": 64.13,
+      "t": 1786737600
+    },
+    "COF": {
+      "c": 227.34,
+      "h": 228.14,
+      "l": 224.41,
+      "o": 225.95,
+      "pc": 223.83,
+      "t": 1786737600
+    },
+    "LPX": {
+      "c": 73.89,
+      "h": 74.53,
+      "l": 73.15,
+      "o": 73.8,
+      "pc": 74.14,
+      "t": 1786737600
+    },
+    "NUE": {
+      "c": 268.91,
+      "h": 274.74,
+      "l": 267.6,
+      "o": 273,
+      "pc": 272.29,
+      "t": 1786737600
+    },
+    "M": {
+      "c": 23.41,
+      "h": 23.91,
+      "l": 23.3,
+      "o": 23.63,
+      "pc": 23.84,
+      "t": 1786737600
+    },
+    "NVR": {
+      "c": 6307.93,
+      "h": 6384.68,
+      "l": 6295.62,
+      "o": 6355.27,
+      "pc": 6375,
+      "t": 1786737600
+    },
+    "JEF": {
+      "c": 55.14,
+      "h": 55.69,
+      "l": 54.83,
+      "o": 55.66,
+      "pc": 55.86,
+      "t": 1786737600
+    },
+    "DHI": {
+      "c": 148.81,
+      "h": 150.19,
+      "l": 148.45,
+      "o": 149.05,
+      "pc": 149.88,
+      "t": 1786737600
+    }
+  },
+  "costBasis": {
+    "AAPL": {
+      "recent": {
+        "buy": 128.95,
+        "low": 122.1,
+        "high": 160.0,
+        "quarter": "2023 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 78.06,
+        "buy_quarters": 14,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "AXP": {
+      "recent": {
+        "buy": 51.18,
+        "low": 49.55,
+        "high": 58.39,
+        "quarter": "2016 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 51.18,
+        "buy_quarters": 1,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "KO": {
+      "recent": {
+        "buy": 31.66,
+        "low": 31.14,
+        "high": 34.23,
+        "quarter": "2016 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 31.66,
+        "buy_quarters": 1,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "GOOGL": {
+      "recent": {
+        "buy": 310.45,
+        "low": 289.28,
+        "high": 408.37,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 269.69,
+        "buy_quarters": 3,
+        "first": "2025 Q3",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "CVX": {
+      "recent": {
+        "buy": 145.19,
+        "low": 143.75,
+        "high": 154.48,
+        "quarter": "2025 Q4",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 103.95,
+        "buy_quarters": 9,
+        "first": "2020 Q4",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "OXY": {
+      "recent": {
+        "buy": 44.54,
+        "low": 43.33,
+        "high": 51.57,
+        "quarter": "2025 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 42.08,
+        "buy_quarters": 12,
+        "first": "2022 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "MCO": {
+      "recent": {
+        "buy": 81.88,
+        "low": 79.38,
+        "high": 92.47,
+        "quarter": "2016 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 81.88,
+        "buy_quarters": 1,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "GOOG": {
+      "recent": {
+        "buy": 308.37,
+        "low": 287.4,
+        "high": 404.23,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 305.18,
+        "buy_quarters": 2,
+        "first": "2026 Q1",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "KHC": {
+      "recent": {
+        "buy": 49.17,
+        "low": 48.09,
+        "high": 54.65,
+        "quarter": "2016 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 49.17,
+        "buy_quarters": 1,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "DVA": {
+      "recent": {
+        "buy": 102.34,
+        "low": 98.55,
+        "high": 125.28,
+        "quarter": "2021 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 102.34,
+        "buy_quarters": 1,
+        "first": "2021 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "DAL": {
+      "recent": {
+        "buy": 67.17,
+        "low": 63.84,
+        "high": 94.91,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 61.19,
+        "buy_quarters": 2,
+        "first": "2026 Q1",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "SIRI": {
+      "recent": {
+        "buy": 20.25,
+        "low": 19.41,
+        "high": 23.99,
+        "quarter": "2025 Q3",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 26.5,
+        "buy_quarters": 6,
+        "first": "2023 Q3",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "VRSN": {
+      "recent": {
+        "buy": 207.44,
+        "low": 200.62,
+        "high": 252.52,
+        "quarter": "2025 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 84.42,
+        "buy_quarters": 3,
+        "first": "2016 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "KR": {
+      "recent": {
+        "buy": 32.38,
+        "low": 31.79,
+        "high": 36.03,
+        "quarter": "2021 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 26.82,
+        "buy_quarters": 6,
+        "first": "2019 Q4",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "LLYVA": {
+      "recent": {
+        "buy": 89.59,
+        "low": 87.44,
+        "high": 103.37,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 89.59,
+        "buy_quarters": 1,
+        "first": "2026 Q2",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "ALLY": {
+      "recent": {
+        "buy": 29.65,
+        "low": 27.49,
+        "high": 39.16,
+        "quarter": "2022 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 31.63,
+        "buy_quarters": 2,
+        "first": "2022 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "LEN": {
+      "recent": {
+        "buy": 83.12,
+        "low": 80.7,
+        "high": 96.85,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 93.21,
+        "buy_quarters": 5,
+        "first": "2023 Q2",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "NYT": {
+      "recent": {
+        "buy": 70.91,
+        "low": 68.31,
+        "high": 86.83,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 61.32,
+        "buy_quarters": 3,
+        "first": "2025 Q4",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "COF": {
+      "recent": {
+        "buy": 84.1,
+        "low": 79.43,
+        "high": 109.5,
+        "quarter": "2023 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 86.59,
+        "buy_quarters": 2,
+        "first": "2023 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "LPX": {
+      "recent": {
+        "buy": 50.47,
+        "low": 48.04,
+        "high": 66.18,
+        "quarter": "2022 Q4",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 48.62,
+        "buy_quarters": 2,
+        "first": "2022 Q3",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "NUE": {
+      "recent": {
+        "buy": 101.51,
+        "low": 95.9,
+        "high": 129.53,
+        "quarter": "2025 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 101.51,
+        "buy_quarters": 1,
+        "first": "2025 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "M": {
+      "recent": {
+        "buy": 18.25,
+        "low": 17.17,
+        "high": 26.1,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 17.97,
+        "buy_quarters": 2,
+        "first": "2026 Q1",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    },
+    "NVR": {
+      "recent": {
+        "buy": 5554.29,
+        "low": 5444.06,
+        "high": 6386.62,
+        "quarter": "2023 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 5554.29,
+        "buy_quarters": 1,
+        "first": "2023 Q2",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "JEF": {
+      "recent": {
+        "buy": 40.12,
+        "low": 35.26,
+        "high": 65.6,
+        "quarter": "2026 Q1",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 40.12,
+        "buy_quarters": 1,
+        "first": "2026 Q1",
+        "last": "2026 Q1",
+        "method": "avco"
+      }
+    },
+    "DHI": {
+      "recent": {
+        "buy": 137.93,
+        "low": 133.44,
+        "high": 170.28,
+        "quarter": "2026 Q2",
+        "source": "yahoo"
+      },
+      "allTime": {
+        "avg": 137.93,
+        "buy_quarters": 1,
+        "first": "2026 Q2",
+        "last": "2026 Q2",
+        "method": "avco"
+      }
+    }
+  },
+  "exitPerf": {
+    "STNE": {
+      "entryQuarter": "2018 Q4",
+      "entryPrice": 15.09,
+      "exitQuarter": "2023 Q3",
+      "exitPrice": 11.63,
+      "changePct": -22.9
+    },
+    "STZ": {
+      "entryQuarter": "2024 Q4",
+      "entryPrice": 183.03,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 161.27,
+      "changePct": -11.9
+    },
+    "LLYVK": {
+      "entryQuarter": "2025 Q4",
+      "entryPrice": 79.63,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 98.48,
+      "changePct": 23.7
+    },
+    "RH": {
+      "entryQuarter": "2019 Q3",
+      "entryPrice": 192.96,
+      "exitQuarter": "2022 Q4",
+      "exitPrice": 290.32,
+      "changePct": 50.5
+    },
+    "ATVI": {
+      "entryQuarter": "2021 Q4",
+      "entryPrice": 77.07,
+      "exitQuarter": "2023 Q2",
+      "exitPrice": 84.3,
+      "changePct": 9.4
+    },
+    "HPQ": {
+      "entryQuarter": "2022 Q1",
+      "entryPrice": 28.12,
+      "exitQuarter": "2023 Q4",
+      "exitPrice": 27.16,
+      "changePct": -3.4
+    },
+    "USB": {
+      "entryQuarter": "2016 Q2",
+      "entryPrice": 30.33,
+      "exitQuarter": "2022 Q4",
+      "exitPrice": 37.74,
+      "changePct": 24.4
+    },
+    "PARA": {
+      "entryQuarter": "2022 Q1",
+      "entryPrice": 33.36,
+      "exitQuarter": "2024 Q1",
+      "exitPrice": 11.77,
+      "changePct": -64.7
+    },
+    "BAC": {
+      "entryQuarter": "2017 Q3",
+      "entryPrice": 20.19,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 55.2,
+      "changePct": 173.4
+    }
+  }
+}
