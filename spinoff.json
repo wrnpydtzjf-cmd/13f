@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-15T00:56:54Z",
-  "dateFrom": "20250815",
-  "dateTo": "20260815",
+  "updatedAt": "2026-08-16T01:09:59Z",
+  "dateFrom": "20250816",
+  "dateTo": "20260816",
   "count": 34,
   "companies": [
     {
@@ -56,8 +56,7 @@
       "_status": "announced",
       "marketCap": null,
       "parentMarketCap": 138.6,
-      "nameCN": "江西铜业",
-      "aiSummary": "江西銅業擬籌劃控股子公司分拆獨立上市，公告披露相關內幕消息及海外監管事項。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -90,16 +89,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 2.1,
-      "nameCN": "健倍苗苗",
-      "aiSummary": "健倍苗苗建议分拆其保济元业务子公司于港交所主板独立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 1.98,
         "priceNow": 1.87,
         "changePct": -5.6,
         "firstAnnouncementDate": "2026-07-17",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -142,16 +140,15 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 147.1,
-      "nameCN": "兖矿能源",
-      "aiSummary": "兗礦能源建議分拆物泊科技港股上市及卡松科技新三板掛牌。",
       "pricePerf": {
         "priceAtAnnouncement": 12.988,
         "priceNow": 12.46,
         "changePct": -4.1,
         "firstAnnouncementDate": "2026-02-13",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -184,16 +181,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 2.9,
-      "nameCN": "安东油田",
-      "aiSummary": "安東油田服務建議分拆子公司通奧檢測集團於港交所主板上市。",
       "pricePerf": {
         "priceAtAnnouncement": 0.83,
         "priceNow": 0.77,
         "changePct": -7.2,
         "firstAnnouncementDate": "2026-06-30",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -261,8 +257,7 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 114.7,
-      "nameCN": "华润电力",
-      "aiSummary": "華潤電力建議分拆華潤新能源於深交所 A 股上市的最新進展。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -305,8 +300,7 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 42.8,
-      "nameCN": "复星国际",
-      "aiSummary": "復星國際擬分拆復星安特金於港交所主板獨立上市。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -404,16 +398,15 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 57.2,
-      "nameCN": "复星医药",
-      "aiSummary": "復星醫藥建議分拆子公司於港交所主板獨立上市的進展公告。",
       "pricePerf": {
         "priceAtAnnouncement": 22.391,
         "priceNow": 16.81,
         "changePct": -24.9,
         "firstAnnouncementDate": "2025-10-28",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -446,8 +439,7 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 7.5,
-      "nameCN": "中旅国际",
-      "aiSummary": "香港中旅建議分拆中旅港澳文旅控股於港交所主板獨立上市。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -485,16 +477,15 @@
       "_status": "approved",
       "marketCap": null,
       "parentMarketCap": 293.0,
-      "nameCN": "华润置地",
-      "aiSummary": "華潤置地建議分拆商業不動產信託基金於深交所上市獲批准。",
       "pricePerf": {
         "priceAtAnnouncement": 30.019,
         "priceNow": 34.2,
         "changePct": 13.9,
         "firstAnnouncementDate": "2026-04-28",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -527,16 +518,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 2.7,
-      "nameCN": "天宝集团",
-      "aiSummary": "天寶集團建議分拆廣東天寶電子於中國證券交易所獨立 A 股上市。",
       "pricePerf": {
         "priceAtAnnouncement": 2.857,
         "priceNow": 1.715,
         "changePct": -40.0,
         "firstAnnouncementDate": "2026-05-14",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -569,8 +559,7 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 110.1,
-      "nameCN": "华能国际",
-      "aiSummary": "華能國際電力擬分拆基礎設施不動產投資信託基金至上海證券交易所獨立上市。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -608,16 +597,15 @@
       "_status": "approved",
       "marketCap": null,
       "parentMarketCap": 2341.7,
-      "nameCN": "阿里巴巴",
-      "aiSummary": "阿里巴巴獲香港聯交所批准擬議分拆上市，分拆進展取得重要監管里程碑。",
       "pricePerf": {
         "priceAtAnnouncement": 115.57,
         "priceNow": 119.9,
         "changePct": 3.7,
         "firstAnnouncementDate": "2025-08-21",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "母公司市值约2342亿美元，规模较大，若分拆标的相对较小，未来上市后更可能出现格林布拉特所说的指数基金/机构被动卖压，值得持续关注上市后的价格走势。",
         "en": "Parent market cap is around $2342B — large enough that if the spinoff is meaningfully smaller, it could see the index-fund/institutional forced-selling pattern Greenblatt describes once listed. Worth tracking price action after the spinoff completes."
@@ -670,8 +658,6 @@
       "_status": "listed",
       "marketCap": 436.8,
       "parentMarketCap": 1048.3,
-      "nameCN": "紫金矿业",
-      "aiSummary": "紫金礦業建議分拆子公司紫金黃金國際有限公司至港交所主板獨立上市並行使配股權。",
       "spinoffPricePerf": [
         {
           "spinoff": "2259.HK",
@@ -684,7 +670,7 @@
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-08-15"
+          "updatedAt": "2026-08-16"
         }
       ],
       "pricePerf": {
@@ -693,8 +679,9 @@
         "changePct": 20.8,
         "firstAnnouncementDate": "2025-09-24",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆标的市值约为母公司的41.7%，机构强制抛售的特征不算典型，上市后表现为+7.0%，暂未看到明显的格林布拉特式错杀信号。",
         "en": "At roughly 41.7% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is +7.0%, with no clear sign of the classic forced-selling mispricing yet."
@@ -757,8 +744,7 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 1.9,
-      "nameCN": "理士国际",
-      "aiSummary": "理士國際建議分拆子公司並進行建議分派，公告披露分拆及分派之最新進展消息。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -796,16 +782,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 62.0,
-      "nameCN": "三生制药",
-      "aiSummary": "三生製藥建議分拆子公司蔓迪國際於港交所主板獨立上市並透過實物分派宣派。",
       "pricePerf": {
         "priceAtAnnouncement": 31.929,
         "priceNow": 17.53,
         "changePct": -45.1,
         "firstAnnouncementDate": "2025-11-20",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -825,7 +810,7 @@
           "docUrl": "/listedco/listconews/sehk/2026/0320/2026032001769_c.pdf"
         }
       ],
-      "spinTarget": "壹品慧",
+      "spinTarget": "",
       "spinType": {
         "code": "ipo_other",
         "exchange_zh": "待定",
@@ -838,8 +823,7 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 38.8,
-      "nameCN": "中国燃气",
-      "aiSummary": "中國燃氣就建議分拆上市事宜發布自願性公告，披露分拆上市之最新進展情況。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -872,16 +856,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 13.0,
-      "nameCN": "新城发展",
-      "aiSummary": "新城發展建議分拆商業不動產投資信託基金並計劃於市場獨立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 2.22,
         "priceNow": 1.385,
         "changePct": -37.6,
         "firstAnnouncementDate": "2026-03-09",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -914,16 +897,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 10.8,
-      "nameCN": "珩湾科技",
-      "aiSummary": "擬議分拆實體於納斯達克獨立上市，具體分拆業務內容未詳述。",
       "pricePerf": {
         "priceAtAnnouncement": 8.08,
         "priceNow": 7.6,
         "changePct": -5.9,
         "firstAnnouncementDate": "2026-02-25",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -962,8 +944,7 @@
       "distributionDate": "2026-03-16",
       "marketCap": null,
       "parentMarketCap": 14.9,
-      "nameCN": "鹰君",
-      "aiSummary": "鷹君以實物分派股份合訂單位宣派特別股息並暫停辦理股份過戶。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -996,8 +977,6 @@
       "_status": "announced",
       "marketCap": 13.0,
       "parentMarketCap": 13.0,
-      "nameCN": "岚图汽车",
-      "aiSummary": "嵐圖汽車將以介紹方式發行 H 股於香港聯合交易所進行上市。",
       "spinoffPricePerf": [
         {
           "spinoff": "7489.HK",
@@ -1010,10 +989,11 @@
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-08-15",
+          "updatedAt": "2026-08-16",
           "note": "介紹上市，無發行價"
         }
       ],
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1046,16 +1026,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 29.0,
-      "nameCN": "威胜控股",
-      "aiSummary": "建議分拆惟遠能源技術股份有限公司於港交所主板獨立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 23.645,
         "priceNow": 19.36,
         "changePct": -18.1,
         "firstAnnouncementDate": "2026-01-27",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1093,16 +1072,15 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 76.7,
-      "nameCN": "舜宇光学",
-      "aiSummary": "建議分拆本集團車載相關光學業務並在香港聯合交易所有限公司主板獨立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 66.756,
         "priceNow": 58.75,
         "changePct": -12.0,
         "firstAnnouncementDate": "2026-01-05",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1122,29 +1100,28 @@
           "docUrl": "/listedco/listconews/sehk/2026/0126/2026012602065_c.pdf"
         }
       ],
-      "spinTarget": "深圳護家科技 (集團) 股份有限公司",
+      "spinTarget": "",
       "spinType": {
-        "code": "ipo_hk",
-        "exchange_zh": "港交所",
-        "exchange_en": "HKEX",
-        "label_zh": "分拆·港股IPO",
-        "label_en": "Spinoff·HKEX IPO",
+        "code": "ipo_other",
+        "exchange_zh": "待定",
+        "exchange_en": "TBD",
+        "label_zh": "分拆·独立上市",
+        "label_en": "Spinoff·IPO",
         "is_reit": false
       },
       "summary": "共 1 条相关公告（2026-01-26）",
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 26.0,
-      "nameCN": "美图公司",
-      "aiSummary": "美圖公司推進深圳護家科技集團獨立上市，披露業務發展最新情況。",
       "pricePerf": {
         "priceAtAnnouncement": 7.976,
         "priceNow": 4.495,
         "changePct": -43.6,
         "firstAnnouncementDate": "2026-01-26",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1177,16 +1154,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 39.3,
-      "nameCN": "先声药业",
-      "aiSummary": "建議分拆先聲再明醫藥股份有限公司於香港聯合交易所有限公司主板獨立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 11.897,
         "priceNow": 12.14,
         "changePct": 2.0,
         "firstAnnouncementDate": "2026-01-09",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1219,16 +1195,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 382.6,
-      "nameCN": "百度",
-      "aiSummary": "建議分拆崑崙芯於香港聯合交易所有限公司主板獨立上市。",
       "pricePerf": {
         "priceAtAnnouncement": 143.8,
         "priceNow": 100.8,
         "changePct": -29.9,
         "firstAnnouncementDate": "2026-01-02",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "母公司市值约383亿美元，规模较大，若分拆标的相对较小，未来上市后更可能出现格林布拉特所说的指数基金/机构被动卖压，值得持续关注上市后的价格走势。",
         "en": "Parent market cap is around $383B — large enough that if the spinoff is meaningfully smaller, it could see the index-fund/institutional forced-selling pattern Greenblatt describes once listed. Worth tracking price action after the spinoff completes."
@@ -1311,16 +1286,15 @@
       "_status": "announced",
       "marketCap": null,
       "parentMarketCap": 168.6,
-      "nameCN": "中国中车",
-      "aiSummary": "分拆所屬子公司中車戚墅堰機車車輛工藝研究所股份有限公司於 A 股深交所上市。",
       "pricePerf": {
         "priceAtAnnouncement": 5.988,
         "priceNow": 4.94,
         "changePct": -17.5,
         "firstAnnouncementDate": "2025-11-27",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1353,8 +1327,6 @@
       "_status": "listed",
       "marketCap": 46.9,
       "parentMarketCap": 367.5,
-      "nameCN": "京东集团",
-      "aiSummary": "京东集团推进京东工业股份有限公司分拆至港股独立上市。",
       "spinoffPricePerf": [
         {
           "spinoff": "7618.HK",
@@ -1367,7 +1339,7 @@
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-08-15"
+          "updatedAt": "2026-08-16"
         }
       ],
       "pricePerf": {
@@ -1376,8 +1348,9 @@
         "changePct": -3.2,
         "firstAnnouncementDate": "2025-12-11",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆标的市值约为母公司的12.8%，机构强制抛售的特征不算典型，上市后表现为-4.3%，暂未看到明显的格林布拉特式错杀信号。",
         "en": "At roughly 12.8% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is -4.3%, with no clear sign of the classic forced-selling mispricing yet."
@@ -1430,8 +1403,7 @@
       "_status": "announced",
       "marketCap": null,
       "parentMarketCap": 27.7,
-      "nameCN": "第一太平",
-      "aiSummary": "第一太平拟分拆菲律宾水务公司上市，并将向股东进行实物分派。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1464,8 +1436,7 @@
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 10.7,
-      "nameCN": "硬蛋创新",
-      "aiSummary": "硬蛋创新建议分拆旗下科通技术并在 A 股市场独立上市。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1485,21 +1456,20 @@
           "docUrl": "/listedco/listconews/sehk/2025/1022/2025102200695_c.pdf"
         }
       ],
-      "spinTarget": "智網科技",
+      "spinTarget": "",
       "spinType": {
-        "code": "ipo_a_sz",
-        "exchange_zh": "深交所",
-        "exchange_en": "SZSE",
-        "label_zh": "分拆·A股深交所",
-        "label_en": "Spinoff·A-Share SZSE",
+        "code": "ipo_other",
+        "exchange_zh": "待定",
+        "exchange_en": "TBD",
+        "label_zh": "分拆·独立上市",
+        "label_en": "Spinoff·IPO",
         "is_reit": false
       },
       "summary": "共 1 条相关公告（2025-10-22）",
       "_status": "progress",
       "marketCap": null,
       "parentMarketCap": 244.4,
-      "nameCN": "中国联通",
-      "aiSummary": "中国联通推进智网科技独立上市计划，相关进展持续更新中。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1519,7 +1489,7 @@
           "docUrl": "/listedco/listconews/sehk/2025/1015/2025101500316_c.pdf"
         }
       ],
-      "spinTarget": "THAINAMTHIP CORPORATION PUBLIC COMPANY LIMITED",
+      "spinTarget": "",
       "spinType": {
         "code": "ipo_other",
         "exchange_zh": "待定",
@@ -1532,8 +1502,7 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 386.4,
-      "nameCN": "太古股份",
-      "aiSummary": "太古股份 A 拟分拆泰国子公司 THAINAMTHIP 实现独立上市。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "母公司市值约386亿美元，规模较大，若分拆标的相对较小，未来上市后更可能出现格林布拉特所说的指数基金/机构被动卖压，值得持续关注上市后的价格走势。",
         "en": "Parent market cap is around $386B — large enough that if the spinoff is meaningfully smaller, it could see the index-fund/institutional forced-selling pattern Greenblatt describes once listed. Worth tracking price action after the spinoff completes."
@@ -1586,8 +1555,6 @@
       "_status": "listed",
       "marketCap": 8.2,
       "parentMarketCap": 10.5,
-      "nameCN": "四环医药",
-      "aiSummary": "四环医药推进轩竹生物分拆至港股主板独立上市。",
       "spinoffPricePerf": [
         {
           "spinoff": "2575.HK",
@@ -1600,9 +1567,10 @@
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-08-15"
+          "updatedAt": "2026-08-16"
         }
       ],
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆标的市值达母公司的78.1%，规模不算'小到没人要'，但上市后仍下跌53.0%，跌幅更可能与业务本身或情绪面有关，而非单纯的指数基金抛售，需要额外核实基本面。",
         "en": "At 78.1% of parent market cap, this isn't the 'too small to bother with' profile Greenblatt favors — yet it's down 53.0% since listing, more likely tied to fundamentals or sentiment than pure index-fund selling; worth extra diligence."
@@ -1635,16 +1603,15 @@
       "_status": "proposed",
       "marketCap": null,
       "parentMarketCap": 36.0,
-      "nameCN": "名创优品",
-      "aiSummary": "名创优品建议分拆玩具业务子公司 TOP TOY 并推进 IPO。",
       "pricePerf": {
         "priceAtAnnouncement": 43.149,
         "priceNow": 23.16,
         "changePct": -46.3,
         "firstAnnouncementDate": "2025-09-26",
         "currency": "HKD",
-        "updatedAt": "2026-08-15"
+        "updatedAt": "2026-08-16"
       },
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
@@ -1677,8 +1644,7 @@
       "_status": "listed",
       "marketCap": null,
       "parentMarketCap": 1.2,
-      "nameCN": "力宝华润",
-      "aiSummary": "力寶華潤宣派普通股實物分派生效日期並暫停辦理股份過戶登記。",
+      "lastUpdated": "2026-08-16T01:11:35Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
