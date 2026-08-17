@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T13:34:36Z",
-  "dateFrom": "20250816",
-  "dateTo": "20260816",
+  "updatedAt": "2026-08-17T01:07:57Z",
+  "dateFrom": "20250817",
+  "dateTo": "20260817",
   "count": 64,
   "companies": [
     {
@@ -1293,7 +1293,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 166.36,
           "spinoffChangePct": -24.4,
-          "updatedAt": "2026-08-16"
+          "updatedAt": "2026-08-17"
         }
       ],
       "marketCap": 527.3,
