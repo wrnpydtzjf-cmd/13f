@@ -3,6 +3,11 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [master]
+  # 关键修复：update.yml 用 GITHUB_TOKEN 推送的 commit 不会触发本仓库的 push 事件，
+  # 因此监听其 workflow_run 完成事件，确保每日股价更新后站点自动重新部署。
+  workflow_run:
+    workflows: ["Update 13F Data"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +21,11 @@ concurrency:
 
 jobs:
   deploy:
+    # push / workflow_dispatch 直接部署；workflow_run 仅在 update.yml 成功时部署
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+
     runs-on: ubuntu-latest
     environment:
       name: github-pages
