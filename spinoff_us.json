@@ -1,9 +1,72 @@
 {
-  "updatedAt": "2026-08-24T01:16:04Z",
+  "updatedAt": "2026-08-24T14:00:08Z",
   "dateFrom": "20250824",
   "dateTo": "20260824",
   "count": 64,
   "companies": [
+    {
+      "ticker": "SOC",
+      "name": "Sable Offshore Corp.  (SOC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-24",
+          "title": "分拆进展公告（2026-08-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "SEC 8-K: Sable Offshore Corp.  (SOC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "重大协议签订、投资者关系公告（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "重大协议签订、投资者关系公告（2026-02-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-25",
+          "title": "重大协议签订（2025-11-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "重大协议签订、投资者关系公告（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-10",
+          "title": "分拆进展公告（2025-10-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-06",
+          "title": "分拆进展公告（2025-10-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1831481",
+      "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
+      "parentMarketCap": 6.6,
+      "nameCN": "",
+      "lastUpdated": "2026-08-24T14:01:13Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "VREOF",
       "name": "Vireo Growth Inc.  (VREOF)",
@@ -1001,63 +1064,6 @@
       }
     },
     {
-      "ticker": "SOC",
-      "name": "Sable Offshore Corp.  (SOC)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "carveout",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-07-02",
-          "title": "SEC 8-K: Sable Offshore Corp.  (SOC) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-06-22",
-          "title": "重大协议签订、投资者关系公告（2026-06-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-03",
-          "title": "重大协议签订、投资者关系公告（2026-02-03）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-25",
-          "title": "重大协议签订（2025-11-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-03",
-          "title": "重大协议签订、投资者关系公告（2025-11-03）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-10",
-          "title": "分拆进展公告（2025-10-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-06",
-          "title": "分拆进展公告（2025-10-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1831481",
-      "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
-      "parentMarketCap": 6.6,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
       "ticker": "HIMS",
       "name": "Hims & Hers Health, Inc.  (HIMS)",
       "spinoffName": "",
@@ -1320,17 +1326,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 215.9,
-          "parentChangePct": -4.9,
+          "parentPriceNow": 214.32,
+          "parentChangePct": -5.6,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 164.73,
-          "spinoffChangePct": -25.2,
+          "spinoffPriceNow": 164.835,
+          "spinoffChangePct": -25.1,
           "updatedAt": "2026-08-24"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-25.2%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.2%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-25.1%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.1%."
       }
     },
     {
