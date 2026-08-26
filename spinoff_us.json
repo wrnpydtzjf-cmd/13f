@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-25T13:59:15Z",
-  "dateFrom": "20250825",
-  "dateTo": "20260825",
-  "count": 64,
+  "updatedAt": "2026-08-26T01:16:30Z",
+  "dateFrom": "20250826",
+  "dateTo": "20260826",
+  "count": 63,
   "companies": [
     {
       "ticker": "TSNDF",
@@ -36,7 +36,6 @@
       "aiSummary": "TerrAscend 提交分拆文件，将独立上市运营其核心业务板块。",
       "parentMarketCap": 3.4,
       "nameCN": "TerrAscend",
-      "lastUpdated": "2026-08-25T14:00:26Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1363,17 +1362,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 215.05,
-          "parentChangePct": -5.3,
+          "parentPriceNow": 215.68,
+          "parentChangePct": -5.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 161.635,
-          "spinoffChangePct": -26.6,
-          "updatedAt": "2026-08-25"
+          "spinoffPriceNow": 160.36,
+          "spinoffChangePct": -27.2,
+          "updatedAt": "2026-08-26"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-26.6%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.6%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-27.2%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.2%."
       }
     },
     {
@@ -2421,6 +2420,54 @@
       }
     },
     {
+      "ticker": "ZBIO",
+      "name": "Zenas BioPharma, Inc.  (ZBIO)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-03-31",
+          "title": "SEC 8-K: Zenas BioPharma, Inc.  (ZBIO) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-01-05",
+          "title": "业绩公布、投资者关系公告（2026-01-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-27",
+          "title": "投资者关系公告、分拆进展公告（2025-10-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-08",
+          "title": "重大协议签订、业绩公布（2025-10-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-02",
+          "title": "重大协议签订、交割完成（2025-09-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1953926",
+      "aiSummary": "公司推进纯分拆计划，子公司将独立运营生物制药业务，预计近期完成相关 SEC filings。",
+      "parentMarketCap": 17.4,
+      "nameCN": "泽纳斯生物制药公司",
+      "lastUpdated": "2026-08-26T01:17:23Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
       "ticker": "FLGC",
       "name": "Flora Growth Corp.  (FLGC)",
       "spinoffName": "",
@@ -2535,42 +2582,6 @@
       "lastUpdated": "2026-03-31T00:00:00Z"
     },
     {
-      "ticker": "ZBIO",
-      "name": "Zenas BioPharma, Inc.  (ZBIO)",
-      "spinoffName": "Zenas BioPharma, Inc.",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-03-31",
-          "title": "SEC 8-K: Zenas BioPharma, Inc.  (ZBIO) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1953926&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 19.55,
-          "stockPriceDate": "2026-03-31"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1953926",
-      "nameCN": "泽纳斯生物制药公司",
-      "aiSummary": "公司推进纯分拆计划，子公司将独立运营生物制药业务，预计近期完成相关 SEC filings。",
-      "parentMarketCap": 17.4,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2026-03-31",
-        "priceAtAnnouncement": 19.55,
-        "priceNow": 29.53,
-        "changePct": 51.0
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2026-03-31T00:00:00Z"
-    },
-    {
       "ticker": "ENTA",
       "name": "ENANTA PHARMACEUTICALS INC  (ENTA)",
       "spinoffName": "ENANTA PHARMACEUTICALS INC",
@@ -2641,68 +2652,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2026-03-09T00:00:00Z"
-    },
-    {
-      "ticker": "RNA",
-      "name": "Avidity Biosciences, Inc.  (RNA)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-02-27",
-          "title": "交割完成、股东权益变动（2026-02-27）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-23",
-          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-02-03",
-          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-12-18",
-          "title": "管理层变动、分拆进展公告（2025-12-18）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-27",
-          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-14",
-          "title": "分拆进展公告（2025-10-14）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-12",
-          "title": "分拆进展公告（2025-09-12）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-10",
-          "title": "管理层变动、投资者关系公告（2025-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1599901",
-      "aiSummary": "Avidity Biosciences 生物分拆已于 2026 年 2 月 27 日完成交割，股东权益发生变动。",
-      "parentMarketCap": 2.1,
-      "nameCN": "Avidity生物",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
     },
     {
       "ticker": "PPL",
