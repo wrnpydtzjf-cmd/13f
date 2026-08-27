@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T07:16:27Z",
+  "updatedAt": "2026-08-27T22:57:51Z",
   "dateFrom": "20250827",
   "dateTo": "20260827",
   "count": 63,
@@ -131,7 +131,6 @@
       "aiSummary": "维雷奥增长推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
       "parentMarketCap": 7.0,
       "nameCN": "维雷奥增长公司",
-      "lastUpdated": "2026-08-27T07:17:34Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -241,7 +240,7 @@
       "name": "Sable Offshore Corp.  (SOC)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "spinoff",
+      "type": "carveout",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -293,7 +292,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
-      "lastUpdated": "2026-08-27T07:17:34Z",
+      "lastUpdated": "2026-08-27T22:58:29Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -522,16 +521,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "862861",
       "aiSummary": "ALT5 西格玛公司推进纯分拆，旨在独立运营其半导体测试与封装业务。",
       "parentMarketCap": 1.1,
       "nameCN": "ALT5西格玛公司",
-      "lastUpdated": "2026-08-27T07:17:34Z",
+      "lastUpdated": "2026-08-27T22:58:29Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -686,7 +685,6 @@
       "aiSummary": "皮博迪能源推进纯分拆，将剥离资产以优化能源组合，预计近期完成交割。",
       "parentMarketCap": 27.2,
       "nameCN": "皮博迪能源",
-      "lastUpdated": "2026-08-25T01:16:41Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -933,9 +931,9 @@
     {
       "ticker": "DAN",
       "name": "DANA Inc  (DAN)",
-      "spinoffName": "Eaton, Eaton Ohio, Eaton HoldCo",
+      "spinoffName": "",
       "spinoffTicker": "",
-      "type": "splitoff",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -961,15 +959,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "26780",
       "aiSummary": "德纳公司推进换股分拆，预计 2026 年 1 月 8 日公告进展并分拆业务。",
       "parentMarketCap": 26.8,
       "nameCN": "德纳公司",
+      "lastUpdated": "2026-08-27T22:58:29Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1154,7 +1153,6 @@
       "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 79.2,
       "nameCN": "Middleby集团",
-      "lastUpdated": "2026-08-27T07:17:34Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -1497,17 +1495,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 220.67,
-          "parentChangePct": -2.8,
+          "parentPriceNow": 220.39,
+          "parentChangePct": -3.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 164.01,
-          "spinoffChangePct": -25.5,
+          "spinoffPriceNow": 160.75,
+          "spinoffChangePct": -27.0,
           "updatedAt": "2026-08-27"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-25.5%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.5%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-27.0%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.0%."
       }
     },
     {
@@ -2247,11 +2245,6 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
         },
         {
-          "date": "2026-05-12",
-          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
           "date": "2025-10-27",
           "title": "重大协议签订（2025-10-27）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
@@ -2263,6 +2256,80 @@
       "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
       "parentMarketCap": 3.7,
       "nameCN": "X4制药",
+      "lastUpdated": "2026-08-27T22:58:29Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "SEI",
+      "name": "Solaris Energy Infrastructure, Inc.  (SEI)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-12",
+          "title": "重大协议签订（2026-05-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-06",
+          "title": "重大协议签订、分拆进展公告（2026-05-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-05",
+          "title": "投资者关系公告、分拆进展公告（2026-05-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-01",
+          "title": "交割完成（2026-05-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-28",
+          "title": "分拆进展公告（2026-04-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-08",
+          "title": "重大协议签订（2026-04-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-20",
+          "title": "重大协议签订、交割完成（2026-03-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-12",
+          "title": "重大协议签订（2026-02-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-08",
+          "title": "SEC 8-K: Solaris Energy Infrastructure, Inc.  (SEI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-06",
+          "title": "重大协议签订、分拆进展公告（2025-10-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1697500",
+      "aiSummary": "索拉里斯能源基础设施公司启动分拆，将专注于开发太阳能储能基础设施项目。",
+      "parentMarketCap": 49.4,
+      "nameCN": "索拉里斯能源基础设施公司",
+      "lastUpdated": "2026-08-27T22:58:29Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2425,16 +2492,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "1521332",
       "aiSummary": "安波福推进分拆进展，子公司将独立运营，预计 2026 年 4 月至 5 月间完成相关公告。",
       "parentMarketCap": 124.6,
       "nameCN": "安波福",
-      "lastUpdated": "2026-08-27T07:17:34Z",
+      "lastUpdated": "2026-08-27T22:58:29Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -2630,7 +2697,6 @@
       "aiSummary": "公司推进纯分拆计划，子公司将独立运营生物制药业务，预计近期完成相关 SEC filings。",
       "parentMarketCap": 17.4,
       "nameCN": "泽纳斯生物制药公司",
-      "lastUpdated": "2026-08-26T01:17:23Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -3082,42 +3148,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2025-10-28T00:00:00Z"
-    },
-    {
-      "ticker": "SEI",
-      "name": "Solaris Energy Infrastructure, Inc.  (SEI)",
-      "spinoffName": "Solaris Energy Infrastructure",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2025-10-08",
-          "title": "SEC 8-K: Solaris Energy Infrastructure, Inc.  (SEI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697500&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 47.9,
-          "stockPriceDate": "2025-10-08"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1697500",
-      "nameCN": "索拉里斯能源基础设施公司",
-      "aiSummary": "索拉里斯能源基础设施公司启动分拆，将专注于开发太阳能储能基础设施项目。",
-      "parentMarketCap": 49.4,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2025-10-08",
-        "priceAtAnnouncement": 47.9,
-        "priceNow": 60.28,
-        "changePct": 25.8
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2025-10-08T00:00:00Z"
     },
     {
       "ticker": "WOLF",
