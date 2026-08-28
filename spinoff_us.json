@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-28T09:03:42Z",
+  "updatedAt": "2026-08-28T23:05:29Z",
   "dateFrom": "20250828",
   "dateTo": "20260828",
-  "count": 64,
+  "count": 65,
   "companies": [
     {
       "ticker": "VREOF",
@@ -359,7 +359,6 @@
       "aiSummary": "清洁核心解决方案公司启动纯分拆程序，将独立运营以聚焦清洁技术业务。",
       "parentMarketCap": 1.5,
       "nameCN": "清洁核心解决方案公司",
-      "lastUpdated": "2026-08-27T07:17:34Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -529,6 +528,49 @@
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "AMRZ",
+      "name": "Amrize Ltd  (AMRZ)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-06",
+          "title": "SEC 8-K: Amrize Ltd  (AMRZ) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-29",
+          "title": "SEC 8-K: Amrize Ltd  (AMRZ) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-21",
+          "title": "分拆进展公告（2026-04-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-14",
+          "title": "分拆进展公告（2026-04-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "2035989",
+      "aiSummary": "阿姆瑞兹推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 296.5,
+      "nameCN": "阿姆瑞兹有限公司",
+      "lastUpdated": "2026-08-28T23:06:27Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -915,23 +957,24 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1048911",
       "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
       "parentMarketCap": 746.8,
       "nameCN": "联邦快递",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "母公司市值约747亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $747B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
       "ticker": "DAN",
       "name": "DANA Inc  (DAN)",
-      "spinoffName": "Eaton, Eaton Ohio, Eaton HoldCo",
+      "spinoffName": "",
       "spinoffTicker": "",
-      "type": "splitoff",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -957,16 +1000,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=26780&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "26780",
       "aiSummary": "德纳公司推进换股分拆，预计 2026 年 1 月 8 日公告进展并分拆业务。",
       "parentMarketCap": 26.8,
       "nameCN": "德纳公司",
-      "lastUpdated": "2026-08-28T09:04:33Z",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1182,15 +1225,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "2088281",
       "aiSummary": "Midera 食品加工推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 18.1,
       "nameCN": "Midera食品加工",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1493,17 +1537,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 220.39,
-          "parentChangePct": -3.0,
+          "parentPriceNow": 217.43,
+          "parentChangePct": -4.3,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 160.75,
-          "spinoffChangePct": -27.0,
+          "spinoffPriceNow": 162.37,
+          "spinoffChangePct": -26.3,
           "updatedAt": "2026-08-28"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-27.0%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.0%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-26.3%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.3%."
       }
     },
     {
@@ -1763,8 +1807,8 @@
         },
         {
           "date": "2025-11-03",
-          "title": "重大协议签订、交割完成（2025-11-03）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
+          "title": "SEC 8-K: DuPont de Nemours, Inc.  (DD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=10"
         },
         {
           "date": "2025-10-15",
@@ -1798,7 +1842,7 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
-      "lastUpdated": "2026-08-26T14:05:35Z",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1899,9 +1943,9 @@
     {
       "ticker": "ANAB",
       "name": "ANAPTYSBIO, INC  (ANAB)",
-      "spinoffName": "SpinCo",
+      "spinoffName": "",
       "spinoffTicker": "",
-      "type": "carveout",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -1937,15 +1981,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1370053",
       "aiSummary": "AnaptysBio 完成子公司 IPO 交割，预计 2026 年 6 月 22 日签署重大协议。",
       "parentMarketCap": 18.8,
       "nameCN": "AnaptysBio",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -2189,6 +2234,62 @@
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "BDX",
+      "name": "BECTON DICKINSON & CO  (BDX)",
+      "spinoffName": "BD MedSurg (NewCo)",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-20",
+          "title": "重大协议签订（2026-05-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "分拆进展公告（2026-05-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-25",
+          "title": "分拆进展公告（2026-02-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "分拆进展公告（2026-02-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "SEC 8-K: BECTON DICKINSON & CO  (BDX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-09-18",
+          "title": "重大协议签订（2025-09-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2024-05-16",
+          "title": "Becton Dickinson announces plan to spin off MedSurg segment"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "10795",
+      "parentMarketCap": 501.3,
+      "nameCN": "碧迪",
+      "lastUpdated": "2026-08-28T23:06:27Z",
+      "greenblattNote": {
+        "zh": "母公司市值约501亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $501B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
@@ -2489,15 +2590,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1521332",
       "aiSummary": "安波福推进分拆进展，子公司将独立运营，预计 2026 年 4 月至 5 月间完成相关公告。",
       "parentMarketCap": 124.6,
       "nameCN": "安波福",
+      "lastUpdated": "2026-08-28T23:06:27Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -2531,7 +2633,6 @@
       "cik": "67347",
       "parentMarketCap": 107.6,
       "nameCN": "莫丁制造",
-      "lastUpdated": "2026-08-28T09:04:33Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2572,42 +2673,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2026-05-04T00:00:00Z"
-    },
-    {
-      "ticker": "AMRZ",
-      "name": "Amrize Ltd  (AMRZ)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-04-29",
-          "title": "SEC 8-K: Amrize Ltd  (AMRZ) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2035989&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 56.65,
-          "stockPriceDate": "2026-04-29"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "2035989",
-      "nameCN": "阿姆瑞兹有限公司",
-      "aiSummary": "阿姆瑞兹推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
-      "parentMarketCap": 296.5,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2026-04-29",
-        "priceAtAnnouncement": 56.65,
-        "priceNow": 49.74,
-        "changePct": -12.2
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2026-04-29T00:00:00Z"
     },
     {
       "ticker": "BE",
@@ -2683,7 +2748,6 @@
       "aiSummary": "公司正推进纯分拆进程，将独立运营业务板块，预计近期完成相关 SEC  filings。",
       "parentMarketCap": 29.9,
       "nameCN": "Versigent",
-      "lastUpdated": "2026-08-28T09:04:33Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
