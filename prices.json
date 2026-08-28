@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T22:45:20.691236Z",
+  "updated": "2026-08-28T08:51:02.823601Z",
   "quotes": {
     "GOOGL": {
       "c": 340.65,
@@ -183,19 +183,19 @@
       "exitPrice": 61.61,
       "changePct": 6.3
     },
-    "TME": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 10.63,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 9.92,
-      "changePct": -6.7
-    },
     "BRK.B": {
       "entryQuarter": "2022 Q1",
       "entryPrice": 303.26,
       "exitQuarter": "2026 Q1",
       "exitPrice": 505.82,
       "changePct": 66.8
+    },
+    "TME": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 10.63,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 9.92,
+      "changePct": -6.7
     },
     "BAC": {
       "entryQuarter": "2020 Q1",

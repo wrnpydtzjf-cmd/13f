@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T22:52:49.216942+00:00",
+  "generatedAt": "2026-08-28T08:59:06.307207+00:00",
   "candidates": [
     {
       "ticker": "KHC",
@@ -146,8 +146,8 @@
       "name": "PEOPLE INC",
       "cnName": "People Inc",
       "sector": "互联网",
-      "mos": 14.9,
-      "price": 39.27,
+      "mos": 14.8,
+      "price": 39.32,
       "buy": 46.16,
       "atAvg": 44.66,
       "investors": [
