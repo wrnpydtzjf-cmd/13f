@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-29T17:10:10Z",
-  "dateFrom": "20250829",
-  "dateTo": "20260829",
+  "updatedAt": "2026-08-30T03:36:49Z",
+  "dateFrom": "20250830",
+  "dateTo": "20260830",
   "count": 63,
   "companies": [
     {
@@ -512,11 +512,6 @@
           "date": "2025-10-01",
           "title": "SEC 8-K: ALT5 Sigma Corp  (ALTS) spin-off filing",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-08-29",
-          "title": "管理层变动、分拆进展公告（2025-08-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "completed",
@@ -525,6 +520,7 @@
       "aiSummary": "ALT5 西格玛公司推进纯分拆，旨在独立运营其半导体测试与封装业务。",
       "parentMarketCap": 1.1,
       "nameCN": "ALT5西格玛公司",
+      "lastUpdated": "2026-08-30T03:37:58Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -1539,7 +1535,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 162.37,
           "spinoffChangePct": -26.3,
-          "updatedAt": "2026-08-29"
+          "updatedAt": "2026-08-30"
         }
       ],
       "greenblattNote": {
