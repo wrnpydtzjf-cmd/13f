@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T03:34:02Z",
+  "updatedAt": "2026-09-01T17:22:04Z",
   "dateFrom": "20250901",
   "dateTo": "20260901",
   "count": 63,
@@ -1529,17 +1529,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 213.53,
-          "parentChangePct": -6.0,
+          "parentPriceNow": 209.31,
+          "parentChangePct": -7.8,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 158.11,
-          "spinoffChangePct": -28.2,
+          "spinoffPriceNow": 155.605,
+          "spinoffChangePct": -29.3,
           "updatedAt": "2026-09-01"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-28.2%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.2%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-29.3%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.3%."
       }
     },
     {
