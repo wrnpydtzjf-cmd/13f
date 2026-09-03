@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T02:56:41Z",
+  "updatedAt": "2026-09-03T17:05:10Z",
   "dateFrom": "20250903",
   "dateTo": "20260903",
   "count": 35,
@@ -8,7 +8,7 @@
       "stockCode": "00656",
       "stockName": "復星國際",
       "ticker": "00656.HK",
-      "lastPrice": 5.17,
+      "lastPrice": 5.12,
       "latestDate": "2026-08-28",
       "firstDate": "2026-03-26",
       "announcements": [
@@ -55,7 +55,7 @@
       "stockCode": "01070",
       "stockName": "ＴＣＬ電子",
       "ticker": "01070.HK",
-      "lastPrice": 17.53,
+      "lastPrice": 17.51,
       "latestDate": "2026-08-24",
       "firstDate": "2026-08-24",
       "announcements": [
@@ -80,8 +80,8 @@
       "parentMarketCap": 51.9,
       "pricePerf": {
         "priceAtAnnouncement": 16.07,
-        "priceNow": 17.59,
-        "changePct": 9.5,
+        "priceNow": 17.11,
+        "changePct": 6.5,
         "firstAnnouncementDate": "2026-08-24",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -95,7 +95,7 @@
       "stockCode": "00358",
       "stockName": "江西銅業股份",
       "ticker": "00358.HK",
-      "lastPrice": 37.5,
+      "lastPrice": 37.16,
       "latestDate": "2026-08-06",
       "firstDate": "2026-04-30",
       "announcements": [
@@ -152,7 +152,7 @@
       "stockCode": "02161",
       "stockName": "健倍苗苗",
       "ticker": "02161.HK",
-      "lastPrice": 1.85,
+      "lastPrice": 1.86,
       "latestDate": "2026-07-17",
       "firstDate": "2026-07-17",
       "announcements": [
@@ -177,8 +177,8 @@
       "parentMarketCap": 2.1,
       "pricePerf": {
         "priceAtAnnouncement": 1.98,
-        "priceNow": 1.87,
-        "changePct": -5.6,
+        "priceNow": 1.89,
+        "changePct": -4.5,
         "firstAnnouncementDate": "2026-07-17",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -192,7 +192,7 @@
       "stockCode": "01171",
       "stockName": "兗礦能源",
       "ticker": "01171.HK",
-      "lastPrice": 13.47,
+      "lastPrice": 13.19,
       "latestDate": "2026-06-30",
       "firstDate": "2026-02-13",
       "announcements": [
@@ -227,8 +227,8 @@
       "parentMarketCap": 147.1,
       "pricePerf": {
         "priceAtAnnouncement": 12.988,
-        "priceNow": 13.49,
-        "changePct": 3.9,
+        "priceNow": 13.39,
+        "changePct": 3.1,
         "firstAnnouncementDate": "2026-02-13",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -242,7 +242,7 @@
       "stockCode": "03337",
       "stockName": "安東油田服務",
       "ticker": "03337.HK",
-      "lastPrice": 0.835,
+      "lastPrice": 0.85,
       "latestDate": "2026-06-30",
       "firstDate": "2026-06-30",
       "announcements": [
@@ -267,8 +267,8 @@
       "parentMarketCap": 2.9,
       "pricePerf": {
         "priceAtAnnouncement": 0.83,
-        "priceNow": 0.825,
-        "changePct": -0.6,
+        "priceNow": 0.82,
+        "changePct": -1.2,
         "firstAnnouncementDate": "2026-06-30",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -282,7 +282,7 @@
       "stockCode": "00836",
       "stockName": "華潤電力",
       "ticker": "00836.HK",
-      "lastPrice": 18.73,
+      "lastPrice": 18.64,
       "latestDate": "2026-06-30",
       "firstDate": "2026-04-29",
       "announcements": [
@@ -349,7 +349,7 @@
       "stockCode": "02196",
       "stockName": "復星醫藥",
       "ticker": "02196.HK",
-      "lastPrice": 16.0,
+      "lastPrice": 16.14,
       "latestDate": "2026-06-26",
       "firstDate": "2025-10-28",
       "announcements": [
@@ -439,8 +439,8 @@
       "parentMarketCap": 57.2,
       "pricePerf": {
         "priceAtAnnouncement": 22.391,
-        "priceNow": 16.05,
-        "changePct": -28.3,
+        "priceNow": 15.83,
+        "changePct": -29.3,
         "firstAnnouncementDate": "2025-10-28",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -454,7 +454,7 @@
       "stockCode": "00308",
       "stockName": "香港中旅",
       "ticker": "00308.HK",
-      "lastPrice": 1.2,
+      "lastPrice": 1.18,
       "latestDate": "2026-05-20",
       "firstDate": "2026-05-20",
       "announcements": [
@@ -486,7 +486,7 @@
       "stockCode": "01109",
       "stockName": "華潤置地",
       "ticker": "01109.HK",
-      "lastPrice": 30.44,
+      "lastPrice": 30.46,
       "latestDate": "2026-05-18",
       "firstDate": "2026-04-28",
       "announcements": [
@@ -516,8 +516,8 @@
       "parentMarketCap": 293.0,
       "pricePerf": {
         "priceAtAnnouncement": 30.019,
-        "priceNow": 30.8,
-        "changePct": 2.6,
+        "priceNow": 29.44,
+        "changePct": -1.9,
         "firstAnnouncementDate": "2026-04-28",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -531,7 +531,7 @@
       "stockCode": "01979",
       "stockName": "天寶集團",
       "ticker": "01979.HK",
-      "lastPrice": 1.665,
+      "lastPrice": 1.675,
       "latestDate": "2026-05-14",
       "firstDate": "2026-05-14",
       "announcements": [
@@ -556,8 +556,8 @@
       "parentMarketCap": 2.7,
       "pricePerf": {
         "priceAtAnnouncement": 2.857,
-        "priceNow": 1.665,
-        "changePct": -41.7,
+        "priceNow": 1.67,
+        "changePct": -41.5,
         "firstAnnouncementDate": "2026-05-14",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -571,7 +571,7 @@
       "stockCode": "00902",
       "stockName": "華能國際電力股份",
       "ticker": "00902.HK",
-      "lastPrice": 5.7,
+      "lastPrice": 5.69,
       "latestDate": "2026-04-28",
       "firstDate": "2026-04-28",
       "announcements": [
@@ -603,7 +603,7 @@
       "stockCode": "09988",
       "stockName": "阿里巴巴－Ｗ",
       "ticker": "09988.HK",
-      "lastPrice": 109.2,
+      "lastPrice": 107.5,
       "latestDate": "2026-04-27",
       "firstDate": "2026-04-27",
       "announcements": [
@@ -628,8 +628,8 @@
       "parentMarketCap": 2341.7,
       "pricePerf": {
         "priceAtAnnouncement": 130.054,
-        "priceNow": 109.0,
-        "changePct": -16.2,
+        "priceNow": 109.9,
+        "changePct": -15.5,
         "firstAnnouncementDate": "2026-04-27",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -643,7 +643,7 @@
       "stockCode": "02899",
       "stockName": "紫金礦業",
       "ticker": "02899.HK",
-      "lastPrice": 36.64,
+      "lastPrice": 36.34,
       "latestDate": "2026-04-07",
       "firstDate": "2025-09-24",
       "announcements": [
@@ -684,7 +684,7 @@
       },
       "summary": "分拆标的：紫金黃金國際有限公司。共 5 条相关公告（2025-09-24 ~ 2026-04-07）",
       "_status": "listed",
-      "marketCap": 553.6,
+      "marketCap": 548.8,
       "parentMarketCap": 1048.3,
       "spinoffPricePerf": [
         {
@@ -692,8 +692,8 @@
           "spinoffName": "紫金黃金國際",
           "spinoffDate": "2025-09-30",
           "spinoffPriceAtListing": 118.055,
-          "spinoffPriceNow": 161.6,
-          "spinoffChangePct": 36.9,
+          "spinoffPriceNow": 149.6,
+          "spinoffChangePct": 26.7,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
@@ -703,22 +703,22 @@
       ],
       "pricePerf": {
         "priceAtAnnouncement": 28.807,
-        "priceNow": 36.64,
-        "changePct": 27.2,
+        "priceNow": 35.8,
+        "changePct": 24.3,
         "firstAnnouncementDate": "2025-09-24",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
       },
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的52.8%，机构强制抛售的特征不算典型，上市后表现为+36.9%，暂未看到明显的格林布拉特式错杀信号。",
-        "en": "At roughly 52.8% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is +36.9%, with no clear sign of the classic forced-selling mispricing yet."
+        "zh": "分拆标的市值约为母公司的52.4%，机构强制抛售的特征不算典型，上市后表现为+26.7%，暂未看到明显的格林布拉特式错杀信号。",
+        "en": "At roughly 52.4% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is +26.7%, with no clear sign of the classic forced-selling mispricing yet."
       }
     },
     {
       "stockCode": "00842",
       "stockName": "理士國際",
       "ticker": "00842.HK",
-      "lastPrice": 0.96,
+      "lastPrice": 0.94,
       "latestDate": "2026-04-01",
       "firstDate": "2025-12-31",
       "announcements": [
@@ -780,7 +780,7 @@
       "stockCode": "01530",
       "stockName": "三生製藥",
       "ticker": "01530.HK",
-      "lastPrice": 16.03,
+      "lastPrice": 16.29,
       "latestDate": "2026-03-30",
       "firstDate": "2025-11-20",
       "announcements": [
@@ -810,8 +810,8 @@
       "parentMarketCap": 62.0,
       "pricePerf": {
         "priceAtAnnouncement": 31.929,
-        "priceNow": 15.98,
-        "changePct": -50.0,
+        "priceNow": 15.85,
+        "changePct": -50.4,
         "firstAnnouncementDate": "2025-11-20",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -825,7 +825,7 @@
       "stockCode": "00384",
       "stockName": "中國燃氣",
       "ticker": "00384.HK",
-      "lastPrice": 5.73,
+      "lastPrice": 5.675,
       "latestDate": "2026-03-20",
       "firstDate": "2026-03-20",
       "announcements": [
@@ -857,7 +857,7 @@
       "stockCode": "01030",
       "stockName": "新城發展",
       "ticker": "01030.HK",
-      "lastPrice": 1.465,
+      "lastPrice": 1.44,
       "latestDate": "2026-03-09",
       "firstDate": "2026-03-09",
       "announcements": [
@@ -882,8 +882,8 @@
       "parentMarketCap": 13.0,
       "pricePerf": {
         "priceAtAnnouncement": 2.22,
-        "priceNow": 1.46,
-        "changePct": -34.2,
+        "priceNow": 1.39,
+        "changePct": -37.4,
         "firstAnnouncementDate": "2026-03-09",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -897,7 +897,7 @@
       "stockCode": "01523",
       "stockName": "珩灣科技",
       "ticker": "01523.HK",
-      "lastPrice": 7.435,
+      "lastPrice": 7.44,
       "latestDate": "2026-02-25",
       "firstDate": "2026-02-25",
       "announcements": [
@@ -922,8 +922,8 @@
       "parentMarketCap": 10.8,
       "pricePerf": {
         "priceAtAnnouncement": 8.08,
-        "priceNow": 7.495,
-        "changePct": -7.2,
+        "priceNow": 7.4,
+        "changePct": -8.4,
         "firstAnnouncementDate": "2026-02-25",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -937,7 +937,7 @@
       "stockCode": "00041",
       "stockName": "鷹君",
       "ticker": "00041.HK",
-      "lastPrice": 14.96,
+      "lastPrice": 14.82,
       "latestDate": "2026-02-25",
       "firstDate": "2025-10-08",
       "announcements": [
@@ -975,7 +975,7 @@
       "stockCode": "07489",
       "stockName": "嵐圖汽車",
       "ticker": "07489.HK",
-      "lastPrice": 2.645,
+      "lastPrice": 2.665,
       "latestDate": "2026-02-12",
       "firstDate": "2026-02-12",
       "announcements": [
@@ -996,7 +996,7 @@
       },
       "summary": "共 1 条相关公告（2026-02-12）",
       "_status": "announced",
-      "marketCap": 12.5,
+      "marketCap": 12.6,
       "parentMarketCap": 13.0,
       "spinoffPricePerf": [
         {
@@ -1004,7 +1004,7 @@
           "spinoffName": "嵐圖汽車",
           "spinoffDate": "2026-02-12",
           "spinoffPriceAtListing": null,
-          "spinoffPriceNow": 2.645,
+          "spinoffPriceNow": 2.695,
           "spinoffChangePct": null,
           "currency": "HKD",
           "confidence": 100,
@@ -1023,7 +1023,7 @@
       "stockCode": "03393",
       "stockName": "威勝控股",
       "ticker": "03393.HK",
-      "lastPrice": 14.72,
+      "lastPrice": 14.91,
       "latestDate": "2026-01-27",
       "firstDate": "2026-01-27",
       "announcements": [
@@ -1048,8 +1048,8 @@
       "parentMarketCap": 29.0,
       "pricePerf": {
         "priceAtAnnouncement": 23.645,
-        "priceNow": 14.76,
-        "changePct": -37.6,
+        "priceNow": 14.86,
+        "changePct": -37.2,
         "firstAnnouncementDate": "2026-01-27",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1063,7 +1063,7 @@
       "stockCode": "02382",
       "stockName": "舜宇光學科技",
       "ticker": "02382.HK",
-      "lastPrice": 71.1,
+      "lastPrice": 70.6,
       "latestDate": "2026-01-27",
       "firstDate": "2026-01-05",
       "announcements": [
@@ -1093,8 +1093,8 @@
       "parentMarketCap": 76.7,
       "pricePerf": {
         "priceAtAnnouncement": 66.756,
-        "priceNow": 71.1,
-        "changePct": 6.5,
+        "priceNow": 71.7,
+        "changePct": 7.4,
         "firstAnnouncementDate": "2026-01-05",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1108,7 +1108,7 @@
       "stockCode": "01357",
       "stockName": "美圖公司",
       "ticker": "01357.HK",
-      "lastPrice": 4.805,
+      "lastPrice": 4.68,
       "latestDate": "2026-01-26",
       "firstDate": "2026-01-26",
       "announcements": [
@@ -1133,8 +1133,8 @@
       "parentMarketCap": 26.0,
       "pricePerf": {
         "priceAtAnnouncement": 7.976,
-        "priceNow": 4.775,
-        "changePct": -40.1,
+        "priceNow": 4.685,
+        "changePct": -41.3,
         "firstAnnouncementDate": "2026-01-26",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1148,7 +1148,7 @@
       "stockCode": "02096",
       "stockName": "先聲藥業",
       "ticker": "02096.HK",
-      "lastPrice": 11.76,
+      "lastPrice": 11.77,
       "latestDate": "2026-01-09",
       "firstDate": "2026-01-09",
       "announcements": [
@@ -1173,8 +1173,8 @@
       "parentMarketCap": 39.3,
       "pricePerf": {
         "priceAtAnnouncement": 11.897,
-        "priceNow": 11.81,
-        "changePct": -0.7,
+        "priceNow": 11.83,
+        "changePct": -0.6,
         "firstAnnouncementDate": "2026-01-09",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1188,7 +1188,7 @@
       "stockCode": "09888",
       "stockName": "百度集團－ＳＷ",
       "ticker": "09888.HK",
-      "lastPrice": 92.3,
+      "lastPrice": 91.5,
       "latestDate": "2026-01-02",
       "firstDate": "2026-01-02",
       "announcements": [
@@ -1213,8 +1213,8 @@
       "parentMarketCap": 382.6,
       "pricePerf": {
         "priceAtAnnouncement": 143.8,
-        "priceNow": 92.1,
-        "changePct": -36.0,
+        "priceNow": 92.35,
+        "changePct": -35.8,
         "firstAnnouncementDate": "2026-01-02",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1228,7 +1228,7 @@
       "stockCode": "01766",
       "stockName": "中國中車",
       "ticker": "01766.HK",
-      "lastPrice": 5.375,
+      "lastPrice": 5.26,
       "latestDate": "2025-12-28",
       "firstDate": "2025-11-27",
       "announcements": [
@@ -1303,8 +1303,8 @@
       "parentMarketCap": 168.6,
       "pricePerf": {
         "priceAtAnnouncement": 5.846,
-        "priceNow": 5.36,
-        "changePct": -8.3,
+        "priceNow": 5.28,
+        "changePct": -9.7,
         "firstAnnouncementDate": "2025-11-27",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1318,7 +1318,7 @@
       "stockCode": "09618",
       "stockName": "京東集團－ＳＷ",
       "ticker": "09618.HK",
-      "lastPrice": 108.1,
+      "lastPrice": 106.9,
       "latestDate": "2025-12-11",
       "firstDate": "2025-12-11",
       "announcements": [
@@ -1339,7 +1339,7 @@
       },
       "summary": "共 1 条相关公告（2025-12-11）",
       "_status": "listed",
-      "marketCap": 45.0,
+      "marketCap": 45.6,
       "parentMarketCap": 367.5,
       "spinoffPricePerf": [
         {
@@ -1347,8 +1347,8 @@
           "spinoffName": "京東工業",
           "spinoffDate": "2025-12-11",
           "spinoffPriceAtListing": 14.1,
-          "spinoffPriceNow": 12.97,
-          "spinoffChangePct": -8.0,
+          "spinoffPriceNow": 13.15,
+          "spinoffChangePct": -6.7,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
@@ -1358,22 +1358,22 @@
       ],
       "pricePerf": {
         "priceAtAnnouncement": 113.789,
-        "priceNow": 108.0,
-        "changePct": -5.1,
+        "priceNow": 108.6,
+        "changePct": -4.6,
         "firstAnnouncementDate": "2025-12-11",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
       },
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的12.2%，机构强制抛售的特征不算典型，上市后表现为-8.0%，暂未看到明显的格林布拉特式错杀信号。",
-        "en": "At roughly 12.2% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is -8.0%, with no clear sign of the classic forced-selling mispricing yet."
+        "zh": "分拆标的市值约为母公司的12.4%，机构强制抛售的特征不算典型，上市后表现为-6.7%，暂未看到明显的格林布拉特式错杀信号。",
+        "en": "At roughly 12.4% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is -6.7%, with no clear sign of the classic forced-selling mispricing yet."
       }
     },
     {
       "stockCode": "00142",
       "stockName": "第一太平",
       "ticker": "00142.HK",
-      "lastPrice": 5.06,
+      "lastPrice": 5.035,
       "latestDate": "2025-12-09",
       "firstDate": "2025-10-21",
       "announcements": [
@@ -1425,7 +1425,7 @@
       "stockCode": "00400",
       "stockName": "硬蛋創新",
       "ticker": "00400.HK",
-      "lastPrice": 4.22,
+      "lastPrice": 4.13,
       "latestDate": "2025-11-25",
       "firstDate": "2025-11-25",
       "announcements": [
@@ -1457,7 +1457,7 @@
       "stockCode": "00762",
       "stockName": "中國聯通",
       "ticker": "00762.HK",
-      "lastPrice": 5.6,
+      "lastPrice": 5.605,
       "latestDate": "2025-10-22",
       "firstDate": "2025-10-22",
       "announcements": [
@@ -1489,7 +1489,7 @@
       "stockCode": "00019",
       "stockName": "太古股份公司Ａ",
       "ticker": "00019.HK",
-      "lastPrice": 106.0,
+      "lastPrice": 104.3,
       "latestDate": "2025-10-15",
       "firstDate": "2025-10-15",
       "announcements": [
@@ -1562,7 +1562,7 @@
       },
       "summary": "共 5 条相关公告（2025-09-04 ~ 2025-10-15）",
       "_status": "listed",
-      "marketCap": 6.6,
+      "marketCap": 7.4,
       "parentMarketCap": 10.5,
       "spinoffPricePerf": [
         {
@@ -1570,8 +1570,8 @@
           "spinoffName": "軒竹生物-B",
           "spinoffDate": "2025-10-15",
           "spinoffPriceAtListing": 26.3,
-          "spinoffPriceNow": 9.95,
-          "spinoffChangePct": -62.2,
+          "spinoffPriceNow": 9.405,
+          "spinoffChangePct": -64.2,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
@@ -1580,15 +1580,15 @@
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值达母公司的62.9%，规模不算'小到没人要'，但上市后仍下跌62.2%，跌幅更可能与业务本身或情绪面有关，而非单纯的指数基金抛售，需要额外核实基本面。",
-        "en": "At 62.9% of parent market cap, this isn't the 'too small to bother with' profile Greenblatt favors — yet it's down 62.2% since listing, more likely tied to fundamentals or sentiment than pure index-fund selling; worth extra diligence."
+        "zh": "分拆标的市值达母公司的70.5%，规模不算'小到没人要'，但上市后仍下跌64.2%，跌幅更可能与业务本身或情绪面有关，而非单纯的指数基金抛售，需要额外核实基本面。",
+        "en": "At 70.5% of parent market cap, this isn't the 'too small to bother with' profile Greenblatt favors — yet it's down 64.2% since listing, more likely tied to fundamentals or sentiment than pure index-fund selling; worth extra diligence."
       }
     },
     {
       "stockCode": "09896",
       "stockName": "名創優品",
       "ticker": "09896.HK",
-      "lastPrice": 19.09,
+      "lastPrice": 18.84,
       "latestDate": "2025-09-26",
       "firstDate": "2025-09-26",
       "announcements": [
@@ -1613,8 +1613,8 @@
       "parentMarketCap": 36.0,
       "pricePerf": {
         "priceAtAnnouncement": 43.149,
-        "priceNow": 19.01,
-        "changePct": -55.9,
+        "priceNow": 18.77,
+        "changePct": -56.5,
         "firstAnnouncementDate": "2025-09-26",
         "currency": "HKD",
         "updatedAt": "2026-09-03"
@@ -1628,7 +1628,7 @@
       "stockCode": "00156",
       "stockName": "力寶華潤",
       "ticker": "00156.HK",
-      "lastPrice": 1.01,
+      "lastPrice": 1.05,
       "latestDate": "2025-09-23",
       "firstDate": "2025-09-23",
       "announcements": [
