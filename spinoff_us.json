@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T02:56:08Z",
+  "updatedAt": "2026-09-04T16:55:35Z",
   "dateFrom": "20250904",
   "dateTo": "20260904",
   "count": 63,
@@ -1529,17 +1529,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 207.63,
-          "parentChangePct": -8.6,
+          "parentPriceNow": 208.455,
+          "parentChangePct": -8.2,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 154.96,
-          "spinoffChangePct": -29.6,
+          "spinoffPriceNow": 160.716,
+          "spinoffChangePct": -27.0,
           "updatedAt": "2026-09-04"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-29.6%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.6%."
+        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-27.0%。",
+        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.0%."
       }
     },
     {
@@ -1824,7 +1824,6 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
-      "lastUpdated": "2026-09-04T02:56:55Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2285,7 +2284,6 @@
       "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
       "parentMarketCap": 3.7,
       "nameCN": "X4制药",
-      "lastUpdated": "2026-09-04T02:56:55Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
