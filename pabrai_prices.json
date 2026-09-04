@@ -1,37 +1,37 @@
 {
-  "updated": "2026-09-03T16:54:11.356298Z",
+  "updated": "2026-09-04T02:43:50.589301Z",
   "quotes": {
     "HCC": {
-      "c": 103.84,
+      "c": 103.27,
       "h": 108.86,
-      "l": 102.61,
+      "l": 102.28,
       "o": 108.75,
       "pc": 108.53,
-      "t": 1788454361
+      "t": 1788465600
     },
     "RIG": {
-      "c": 6.1,
+      "c": 6.02,
       "h": 6.27,
-      "l": 6.09,
-      "o": 6.26,
+      "l": 6.01,
+      "o": 6.27,
       "pc": 6.22,
-      "t": 1788454424
+      "t": 1788465600
     },
     "AMR": {
-      "c": 217.29,
-      "h": 235.0,
-      "l": 215,
-      "o": 235.0,
+      "c": 217.18,
+      "h": 235,
+      "l": 212.21,
+      "o": 234.95,
       "pc": 233.29,
-      "t": 1788454413
+      "t": 1788465600
     },
     "KSPI": {
-      "c": 107.42,
+      "c": 107.81,
       "h": 108.24,
       "l": 106.01,
-      "o": 106.45,
+      "o": 106.5,
       "pc": 106.81,
-      "t": 1788454413
+      "t": 1788465600
     }
   },
   "costBasis": {
@@ -99,20 +99,6 @@
     }
   },
   "exitPerf": {
-    "GS": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 151.25,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 127.4,
-      "changePct": -15.8
-    },
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
-    },
     "CHK": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 20.38,
@@ -120,12 +106,26 @@
       "exitPrice": 31.08,
       "changePct": 52.5
     },
+    "GS": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 151.25,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 127.4,
+      "changePct": -15.8
+    },
     "C": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 47.97,
       "exitQuarter": "2015 Q1",
       "exitPrice": 37.55,
       "changePct": -21.7
+    },
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
     },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
