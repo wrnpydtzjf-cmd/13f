@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:56:08Z",
+  "updatedAt": "2026-09-05T15:56:36Z",
   "dateFrom": "20250905",
   "dateTo": "20260905",
   "count": 36,
@@ -1609,7 +1609,6 @@
           "updatedAt": "2026-09-05"
         }
       ],
-      "lastUpdated": "2026-09-05T02:57:59Z",
       "greenblattNote": {
         "zh": "分拆标的市值达母公司的65.7%，规模不算'小到没人要'，但上市后仍下跌60.3%，跌幅更可能与业务本身或情绪面有关，而非单纯的指数基金抛售，需要额外核实基本面。",
         "en": "At 65.7% of parent market cap, this isn't the 'too small to bother with' profile Greenblatt favors — yet it's down 60.3% since listing, more likely tied to fundamentals or sentiment than pure index-fund selling; worth extra diligence."
