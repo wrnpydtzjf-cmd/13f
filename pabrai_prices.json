@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:45:50.756104Z",
+  "updated": "2026-09-06T02:43:13.068202Z",
   "quotes": {
     "HCC": {
       "c": 104.45,
@@ -106,6 +106,13 @@
       "exitPrice": 146.28,
       "changePct": 11.3
     },
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
+    },
     "CHK": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 20.38,
@@ -126,13 +133,6 @@
       "exitQuarter": "2014 Q2",
       "exitPrice": 127.4,
       "changePct": -15.8
-    },
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
     }
   }
 }

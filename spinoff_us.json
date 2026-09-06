@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T15:57:37Z",
-  "dateFrom": "20250905",
-  "dateTo": "20260905",
+  "updatedAt": "2026-09-06T02:55:53Z",
+  "dateFrom": "20250906",
+  "dateTo": "20260906",
   "count": 63,
   "companies": [
     {
@@ -892,7 +892,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-09-05T15:58:20Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -1122,7 +1121,6 @@
       "aiSummary": "Vivani 医疗推进纯分拆，管理层变动并公告进展，预计 2026 年完成。",
       "parentMarketCap": 1.1,
       "nameCN": "Vivani医疗",
-      "lastUpdated": "2026-09-05T15:58:20Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -1537,10 +1535,9 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 161.01,
           "spinoffChangePct": -26.9,
-          "updatedAt": "2026-09-05"
+          "updatedAt": "2026-09-06"
         }
       ],
-      "lastUpdated": "2026-09-05T15:58:20Z",
       "greenblattNote": {
         "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-26.9%。",
         "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.9%."
@@ -2140,7 +2137,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-09-05T15:58:20Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2645,7 +2641,6 @@
       "aiSummary": "公司正推进纯分拆进程，将独立运营业务板块，预计近期完成相关 SEC  filings。",
       "parentMarketCap": 29.9,
       "nameCN": "Versigent",
-      "lastUpdated": "2026-09-05T15:58:20Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
