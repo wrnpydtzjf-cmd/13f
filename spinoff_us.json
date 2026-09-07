@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-06T16:09:59Z",
-  "dateFrom": "20250906",
-  "dateTo": "20260906",
+  "updatedAt": "2026-09-07T02:52:59Z",
+  "dateFrom": "20250907",
+  "dateTo": "20260907",
   "count": 63,
   "companies": [
     {
@@ -1522,7 +1522,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 538.2,
+      "marketCap": 510.3,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -1535,12 +1535,12 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 161.01,
           "spinoffChangePct": -26.9,
-          "updatedAt": "2026-09-06"
+          "updatedAt": "2026-09-07"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.9%，规模不算典型的'机构抛售'目标，上市后表现为-26.9%。",
-        "en": "At roughly 73.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.9%."
+        "zh": "分拆标的市值约为母公司的70.1%，规模不算典型的'机构抛售'目标，上市后表现为-26.9%。",
+        "en": "At roughly 70.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.9%."
       }
     },
     {
