@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T18:12:25.140487+00:00",
+  "generatedAt": "2026-09-08T03:00:13.354451+00:00",
   "candidates": [
     {
       "ticker": "KHC",
       "name": "KRAFT HEINZ CO",
       "cnName": "卡夫亨氏",
       "sector": "消费",
-      "mos": 49.4,
-      "price": 24.87,
+      "mos": 49.5,
+      "price": 24.85,
       "buy": 49.17,
       "atAvg": 49.17,
       "investors": [
@@ -27,7 +27,7 @@
       "cnName": "莱纳建筑",
       "sector": "工业",
       "mos": 21.7,
-      "price": 83.6,
+      "price": 83.58,
       "buy": 106.73,
       "atAvg": 116.76,
       "investors": [
@@ -46,8 +46,8 @@
       "name": "HERTZ GLOBAL HLDGS INC",
       "cnName": "赫兹全球控股",
       "sector": "消费",
-      "mos": 46.3,
-      "price": 2.32,
+      "mos": 46.8,
+      "price": 2.3,
       "buy": 4.32,
       "atAvg": 3.5,
       "investors": [
@@ -67,7 +67,7 @@
       "cnName": "建筑商FirstSource",
       "sector": "工业",
       "mos": 34.1,
-      "price": 65.81,
+      "price": 65.79,
       "buy": 99.8,
       "atAvg": 116.72,
       "investors": [
@@ -87,7 +87,7 @@
       "cnName": "印度住房金融",
       "sector": "金融/银行",
       "mos": 33.4,
-      "price": 23.19,
+      "price": 23.18,
       "buy": 34.83,
       "atAvg": 28.29,
       "investors": [
@@ -106,8 +106,8 @@
       "name": "ENOVIS CORPORATION",
       "cnName": "恩诺维斯",
       "sector": "医药",
-      "mos": 31.0,
-      "price": 18.57,
+      "mos": 31.1,
+      "price": 18.56,
       "buy": 26.92,
       "atAvg": 37.92,
       "investors": [
@@ -127,7 +127,7 @@
       "cnName": "惠而浦",
       "sector": "消费",
       "mos": 50.4,
-      "price": 39.31,
+      "price": 39.3,
       "buy": 79.27,
       "atAvg": 78.95,
       "investors": [
@@ -146,8 +146,8 @@
       "name": "NUVATION BIO INC",
       "cnName": "努瓦生科",
       "sector": "医药",
-      "mos": 27.1,
-      "price": 6.82,
+      "mos": 27.2,
+      "price": 6.81,
       "buy": 9.35,
       "atAvg": 9.35,
       "investors": [
@@ -186,8 +186,8 @@
       "name": "EMPIRE ST RLTY TR INC",
       "cnName": "帝国州房地产信托",
       "sector": "地产",
-      "mos": 10.3,
-      "price": 4.55,
+      "mos": 10.5,
+      "price": 4.54,
       "buy": 5.07,
       "atAvg": 5.07,
       "investors": [
@@ -207,7 +207,7 @@
       "cnName": "公平信息公司",
       "sector": "科技",
       "mos": 14.6,
-      "price": 932.3,
+      "price": 932.26,
       "buy": 1091.53,
       "atAvg": 1312.13,
       "investors": [
@@ -227,7 +227,7 @@
       "cnName": "F&G 年金与寿险",
       "sector": "保险",
       "mos": 12.7,
-      "price": 25.05,
+      "price": 25.04,
       "buy": 28.69,
       "atAvg": 12.26,
       "investors": [
@@ -246,8 +246,8 @@
       "name": "LIBERTY CAP CORP",
       "cnName": "自由资本",
       "sector": "通讯",
-      "mos": 11.9,
-      "price": 26.64,
+      "mos": 12.0,
+      "price": 26.62,
       "buy": 30.24,
       "atAvg": 30.24,
       "investors": [
@@ -346,7 +346,7 @@
         "investor": "塞斯·克拉曼",
         "investorEn": "Seth Klarman",
         "id": "klarman",
-        "mos": 1.1
+        "mos": 1.2
       }
     ],
     "EXP": [
@@ -362,7 +362,7 @@
         "investor": "塞斯·克拉曼",
         "investorEn": "Seth Klarman",
         "id": "klarman",
-        "mos": 0.5
+        "mos": 0.6
       }
     ],
     "HHH": [
@@ -394,7 +394,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 9.7
+        "mos": 9.8
       }
     ],
     "SHEN": [
@@ -402,7 +402,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 9.1
+        "mos": 9.2
       }
     ],
     "TRIP": [
@@ -410,7 +410,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 3.8
+        "mos": 4.0
       }
     ],
     "SAM": [
@@ -426,7 +426,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 0.4
+        "mos": 0.5
       }
     ],
     "PYPL": [
