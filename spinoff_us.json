@@ -1,9 +1,52 @@
 {
-  "updatedAt": "2026-09-08T03:04:51Z",
+  "updatedAt": "2026-09-08T17:17:09Z",
   "dateFrom": "20250908",
   "dateTo": "20260908",
   "count": 63,
   "companies": [
+    {
+      "ticker": "XFOR",
+      "name": "X4 Pharmaceuticals, Inc  (XFOR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-08",
+          "title": "分拆进展公告（2026-09-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-27",
+          "title": "重大协议签订（2025-10-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1501697",
+      "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
+      "parentMarketCap": 3.7,
+      "nameCN": "X4制药",
+      "lastUpdated": "2026-09-08T17:18:17Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "SOLS",
       "name": "Solstice Advanced Materials Inc.  (SOLS)",
@@ -892,7 +935,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-09-08T03:05:42Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -1531,17 +1573,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 209.61,
-          "parentChangePct": -7.7,
+          "parentPriceNow": 208.45,
+          "parentChangePct": -8.2,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 161.01,
-          "spinoffChangePct": -26.9,
+          "spinoffPriceNow": 157.7,
+          "spinoffChangePct": -28.4,
           "updatedAt": "2026-09-08"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的70.1%，规模不算典型的'机构抛售'目标，上市后表现为-26.9%。",
-        "en": "At roughly 70.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.9%."
+        "zh": "分拆标的市值约为母公司的70.1%，规模不算典型的'机构抛售'目标，上市后表现为-28.4%。",
+        "en": "At roughly 70.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.4%."
       }
     },
     {
@@ -2138,7 +2180,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-09-08T03:05:42Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2254,43 +2295,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2026-05-15T00:00:00Z"
-    },
-    {
-      "ticker": "XFOR",
-      "name": "X4 Pharmaceuticals, Inc  (XFOR)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "carveout",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-05-13",
-          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-05-12",
-          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-27",
-          "title": "重大协议签订（2025-10-27）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1501697",
-      "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
-      "parentMarketCap": 3.7,
-      "nameCN": "X4制药",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
     },
     {
       "ticker": "SEI",
