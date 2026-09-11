@@ -1,9 +1,62 @@
 {
-  "updatedAt": "2026-09-11T03:00:09Z",
+  "updatedAt": "2026-09-11T17:07:53Z",
   "dateFrom": "20250911",
   "dateTo": "20260911",
   "count": 64,
   "companies": [
+    {
+      "ticker": "THRM",
+      "name": "Gentherm Inc  (THRM)",
+      "spinoffName": "Gentherm Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-11",
+          "title": "投资者关系公告、分拆进展公告（2026-09-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "交割完成、投资者关系公告（2026-07-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "重大协议签订（2026-07-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-23",
+          "title": "重大协议签订（2026-04-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-27",
+          "title": "重大协议签订（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "SEC 8-K: Gentherm Inc  (THRM) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "903129",
+      "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
+      "parentMarketCap": 10.4,
+      "nameCN": "根瑟姆",
+      "lastUpdated": "2026-09-11T17:08:57Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "DD",
       "name": "DuPont de Nemours, Inc.  (DD)",
@@ -477,7 +530,6 @@
       "aiSummary": "公司推进纯分拆进程，旨在独立运营以聚焦核心医疗业务，预计近期完成。",
       "parentMarketCap": 52.6,
       "nameCN": "Celcuity",
-      "lastUpdated": "2026-09-11T03:00:53Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1008,53 +1060,6 @@
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
-      "ticker": "THRM",
-      "name": "Gentherm Inc  (THRM)",
-      "spinoffName": "Gentherm Co",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-07-23",
-          "title": "交割完成、投资者关系公告（2026-07-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "重大协议签订（2026-07-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-23",
-          "title": "重大协议签订（2026-04-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-27",
-          "title": "重大协议签订（2026-02-27）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-29",
-          "title": "SEC 8-K: Gentherm Inc  (THRM) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "903129",
-      "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
-      "parentMarketCap": 10.4,
-      "nameCN": "根瑟姆",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1739,7 +1744,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 480.4,
+      "marketCap": 487.3,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -1747,17 +1752,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 202.18,
-          "parentChangePct": -11.0,
+          "parentPriceNow": 203.185,
+          "parentChangePct": -10.5,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 153.75,
-          "spinoffChangePct": -30.2,
+          "spinoffPriceNow": 156.155,
+          "spinoffChangePct": -29.1,
           "updatedAt": "2026-09-11"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的66.0%，规模不算典型的'机构抛售'目标，上市后表现为-30.2%。",
-        "en": "At roughly 66.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.2%."
+        "zh": "分拆标的市值约为母公司的66.9%，规模不算典型的'机构抛售'目标，上市后表现为-29.1%。",
+        "en": "At roughly 66.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.1%."
       }
     },
     {
