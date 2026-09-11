@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-10T17:05:37Z",
-  "dateFrom": "20250910",
-  "dateTo": "20260910",
+  "updatedAt": "2026-09-11T03:00:09Z",
+  "dateFrom": "20250911",
+  "dateTo": "20260911",
   "count": 64,
   "companies": [
     {
@@ -66,7 +66,6 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -222,7 +221,6 @@
       "aiSummary": "埃弗鲁斯建筑集团完成分拆，子公司将独立开展特种建筑与基础设施项目。",
       "parentMarketCap": 70.6,
       "nameCN": "埃弗鲁斯建筑集团公司",
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -471,11 +469,6 @@
           "date": "2025-10-20",
           "title": "投资者关系公告、分拆进展公告（2025-10-20）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-10",
-          "title": "重大协议签订、投资者关系公告（2025-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1603454&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -484,6 +477,7 @@
       "aiSummary": "公司推进纯分拆进程，旨在独立运营以聚焦核心医疗业务，预计近期完成。",
       "parentMarketCap": 52.6,
       "nameCN": "Celcuity",
+      "lastUpdated": "2026-09-11T03:00:53Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1115,7 +1109,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -1746,7 +1739,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 510.3,
+      "marketCap": 480.4,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -1754,18 +1747,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 202.565,
-          "parentChangePct": -10.8,
+          "parentPriceNow": 202.18,
+          "parentChangePct": -11.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 154.2,
-          "spinoffChangePct": -30.0,
-          "updatedAt": "2026-09-10"
+          "spinoffPriceNow": 153.75,
+          "spinoffChangePct": -30.2,
+          "updatedAt": "2026-09-11"
         }
       ],
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的70.1%，规模不算典型的'机构抛售'目标，上市后表现为-30.0%。",
-        "en": "At roughly 70.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.0%."
+        "zh": "分拆标的市值约为母公司的66.0%，规模不算典型的'机构抛售'目标，上市后表现为-30.2%。",
+        "en": "At roughly 66.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.2%."
       }
     },
     {
@@ -2300,7 +2292,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2768,7 +2759,6 @@
       "aiSummary": "公司正推进纯分拆进程，将独立运营业务板块，预计近期完成相关 SEC  filings。",
       "parentMarketCap": 29.9,
       "nameCN": "Versigent",
-      "lastUpdated": "2026-09-10T17:06:28Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
