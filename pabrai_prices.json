@@ -1,37 +1,37 @@
 {
-  "updated": "2026-09-11T16:53:28.467635Z",
+  "updated": "2026-09-12T02:56:31.258016Z",
   "quotes": {
     "HCC": {
-      "c": 99.1,
+      "c": 97.77,
       "h": 103.45,
       "l": 96,
-      "o": 102.11,
+      "o": 102.1,
       "pc": 101.65,
-      "t": 1789145537
+      "t": 1789156800
     },
     "RIG": {
-      "c": 5.69,
+      "c": 5.67,
       "h": 5.83,
-      "l": 5.67,
-      "o": 5.78,
+      "l": 5.59,
+      "o": 5.77,
       "pc": 5.77,
-      "t": 1789145594
+      "t": 1789156800
     },
     "AMR": {
-      "c": 213.8,
+      "c": 209.41,
       "h": 217.82,
       "l": 206.8,
-      "o": 217.01,
+      "o": 217,
       "pc": 217.73,
-      "t": 1789145564
+      "t": 1789156800
     },
     "KSPI": {
-      "c": 98.33,
-      "h": 99.25,
+      "c": 99.89,
+      "h": 99.99,
       "l": 97.1,
-      "o": 97.96,
+      "o": 97.95,
       "pc": 97.15,
-      "t": 1789145549
+      "t": 1789156800
     }
   },
   "costBasis": {
@@ -99,12 +99,26 @@
     }
   },
   "exitPerf": {
+    "CHK": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 20.38,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 31.08,
+      "changePct": 52.5
+    },
     "GS": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 151.25,
       "exitQuarter": "2014 Q2",
       "exitPrice": 127.4,
       "changePct": -15.8
+    },
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
     },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
@@ -119,20 +133,6 @@
       "exitQuarter": "2015 Q1",
       "exitPrice": 37.55,
       "changePct": -21.7
-    },
-    "CHK": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 20.38,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 31.08,
-      "changePct": 52.5
-    },
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
     }
   }
 }
