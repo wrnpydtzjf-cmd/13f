@@ -1,9 +1,87 @@
 {
-  "updatedAt": "2026-09-14T18:32:27Z",
-  "dateFrom": "20250914",
-  "dateTo": "20260914",
+  "updatedAt": "2026-09-15T03:25:18Z",
+  "dateFrom": "20250915",
+  "dateTo": "20260915",
   "count": 64,
   "companies": [
+    {
+      "ticker": "FDX",
+      "name": "FEDEX CORP  (FDX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-14",
+          "title": "分拆进展公告（2026-09-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "分拆进展公告（2026-07-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "分拆进展公告（2026-06-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-01",
+          "title": "重大协议签订、交割完成（2026-06-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-22",
+          "title": "分拆进展公告（2026-05-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: FEDEX CORP  (FDX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "分拆进展公告（2026-02-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-05",
+          "title": "分拆进展公告（2026-02-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "重大协议签订、管理层变动（2026-01-16）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-06",
+          "title": "重大协议签订（2025-11-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-02",
+          "title": "管理层变动、分拆进展公告（2025-10-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1048911",
+      "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
+      "parentMarketCap": 746.8,
+      "nameCN": "联邦快递",
+      "lastUpdated": "2026-09-15T03:26:22Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "THRM",
       "name": "Gentherm Inc  (THRM)",
@@ -1119,78 +1197,6 @@
       }
     },
     {
-      "ticker": "FDX",
-      "name": "FEDEX CORP  (FDX)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-07-10",
-          "title": "分拆进展公告（2026-07-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-25",
-          "title": "分拆进展公告（2026-06-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-01",
-          "title": "重大协议签订、交割完成（2026-06-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-22",
-          "title": "分拆进展公告（2026-05-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-13",
-          "title": "SEC 8-K: FEDEX CORP  (FDX) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-02-09",
-          "title": "分拆进展公告（2026-02-09）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-05",
-          "title": "分拆进展公告（2026-02-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-16",
-          "title": "重大协议签订、管理层变动（2026-01-16）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-06",
-          "title": "重大协议签订（2025-11-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-02",
-          "title": "管理层变动、分拆进展公告（2025-10-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1048911",
-      "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
-      "parentMarketCap": 746.8,
-      "nameCN": "联邦快递",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
       "ticker": "DAN",
       "name": "DANA Inc  (DAN)",
       "spinoffName": "Eaton, Eaton Ohio, Eaton HoldCo",
@@ -1751,17 +1757,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 198.61,
-          "parentChangePct": -12.6,
+          "parentPriceNow": 201.38,
+          "parentChangePct": -11.3,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 162.34,
-          "spinoffChangePct": -26.3,
-          "updatedAt": "2026-09-14"
+          "spinoffPriceNow": 164.08,
+          "spinoffChangePct": -25.5,
+          "updatedAt": "2026-09-15"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.9%，规模不算典型的'机构抛售'目标，上市后表现为-26.3%。",
-        "en": "At roughly 68.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.3%."
+        "zh": "分拆标的市值约为母公司的68.9%，规模不算典型的'机构抛售'目标，上市后表现为-25.5%。",
+        "en": "At roughly 68.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.5%."
       }
     },
     {
