@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-16T17:39:56Z",
-  "dateFrom": "20250916",
-  "dateTo": "20260916",
+  "updatedAt": "2026-09-17T03:25:54Z",
+  "dateFrom": "20250917",
+  "dateTo": "20260917",
   "count": 65,
   "companies": [
     {
@@ -228,11 +228,6 @@
           "date": "2025-10-02",
           "title": "重大协议签订（2025-10-02）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-16",
-          "title": "分拆进展公告（2025-09-16）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -241,6 +236,7 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
+      "lastUpdated": "2026-09-17T03:26:46Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1794,7 +1790,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 520.1,
+      "marketCap": 514.4,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -1802,17 +1798,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 207.695,
+          "parentPriceNow": 207.66,
           "parentChangePct": -8.6,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 165.261,
-          "spinoffChangePct": -24.9,
-          "updatedAt": "2026-09-16"
+          "spinoffPriceNow": 164.18,
+          "spinoffChangePct": -25.4,
+          "updatedAt": "2026-09-17"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.4%，规模不算典型的'机构抛售'目标，上市后表现为-24.9%。",
-        "en": "At roughly 71.4% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.9%."
+        "zh": "分拆标的市值约为母公司的70.6%，规模不算典型的'机构抛售'目标，上市后表现为-25.4%。",
+        "en": "At roughly 70.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.4%."
       }
     },
     {
