@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T02:57:51.864260Z",
+  "updated": "2026-09-19T16:12:51.189872Z",
   "quotes": {
     "GOOGL": {
       "c": 349.54,
@@ -190,19 +190,19 @@
       "exitPrice": 61.61,
       "changePct": 6.3
     },
-    "TME": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 10.63,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 9.92,
-      "changePct": -6.7
-    },
     "BAC": {
       "entryQuarter": "2020 Q1",
       "entryPrice": 22.44,
       "exitQuarter": "2026 Q1",
       "exitPrice": 55.2,
       "changePct": 146.0
+    },
+    "TME": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 10.63,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 9.92,
+      "changePct": -6.7
     }
   }
 }
