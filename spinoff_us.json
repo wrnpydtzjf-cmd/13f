@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-18T17:08:13Z",
-  "dateFrom": "20250918",
-  "dateTo": "20260918",
+  "updatedAt": "2026-09-19T03:11:02Z",
+  "dateFrom": "20250919",
+  "dateTo": "20260919",
   "count": 67,
   "companies": [
     {
@@ -1518,7 +1518,7 @@
     {
       "ticker": "MIDD",
       "name": "MIDDLEBY Corp  (MIDD)",
-      "spinoffName": "Midera Food Processing, Inc",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1571,15 +1571,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "769520",
       "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 79.2,
       "nameCN": "Middleby集团",
+      "lastUpdated": "2026-09-19T03:12:10Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1919,17 +1920,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 205.72,
-          "parentChangePct": -9.4,
+          "parentPriceNow": 206.46,
+          "parentChangePct": -9.1,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 164.41,
-          "spinoffChangePct": -25.3,
-          "updatedAt": "2026-09-18"
+          "spinoffPriceNow": 163.6,
+          "spinoffChangePct": -25.7,
+          "updatedAt": "2026-09-19"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的72.8%，规模不算典型的'机构抛售'目标，上市后表现为-25.3%。",
-        "en": "At roughly 72.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.3%."
+        "zh": "分拆标的市值约为母公司的72.8%，规模不算典型的'机构抛售'目标，上市后表现为-25.7%。",
+        "en": "At roughly 72.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.7%."
       }
     },
     {
@@ -2470,6 +2471,54 @@
       }
     },
     {
+      "ticker": "NVRI",
+      "name": "ENVIRI Corp  (NVRI)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-06-01",
+          "title": "交割完成、股东权益变动（2026-06-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "分拆进展公告（2026-05-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-04",
+          "title": "SEC 8-K: ENVIRI Corp  (NVRI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-27",
+          "title": "分拆进展公告（2026-04-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-21",
+          "title": "重大协议签订、管理层变动（2025-11-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "45876",
+      "aiSummary": "英弗里集团推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
+      "parentMarketCap": 6.3,
+      "nameCN": "英弗里集团",
+      "lastUpdated": "2026-09-19T03:12:10Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
       "ticker": "FDXF",
       "name": "FedEx Freight Holding Company, Inc.  (FDXF)",
       "spinoffName": "FedEx Freight from FedEx Corp",
@@ -2822,42 +2871,6 @@
       }
     },
     {
-      "ticker": "NVRI",
-      "name": "ENVIRI Corp  (NVRI)",
-      "spinoffName": "ENVIRI Corp",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-05-04",
-          "title": "SEC 8-K: ENVIRI Corp  (NVRI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=45876&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 19.16,
-          "stockPriceDate": "2026-05-04"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "45876",
-      "nameCN": "英弗里集团",
-      "aiSummary": "英弗里集团推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
-      "parentMarketCap": 6.3,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2026-05-04",
-        "priceAtAnnouncement": 19.16,
-        "priceNow": 22.91,
-        "changePct": 19.6
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2026-05-04T00:00:00Z"
-    },
-    {
       "ticker": "BE",
       "name": "Bloom Energy Corp  (BE)",
       "spinoffName": "",
@@ -2902,6 +2915,44 @@
       "greenblattNote": {
         "zh": "母公司市值约770亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $770B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "AMBC",
+      "name": "AMBAC FINANCIAL GROUP INC  (AMBC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-04-07",
+          "title": "重大协议签订（2026-04-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=874501&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-03",
+          "title": "重大协议签订、交割完成（2025-11-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=874501&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-29",
+          "title": "SEC 8-K: AMBAC FINANCIAL GROUP INC  (AMBC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=874501&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "874501",
+      "aiSummary": "安贝克金融集团推进纯分拆计划，旨在剥离核心业务以优化资本结构。",
+      "parentMarketCap": 4.0,
+      "nameCN": "安贝克金融",
+      "lastUpdated": "2026-09-19T03:12:10Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -3438,42 +3489,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2025-09-30T00:00:00Z"
-    },
-    {
-      "ticker": "AMBC",
-      "name": "AMBAC FINANCIAL GROUP INC  (AMBC)",
-      "spinoffName": "AMBAC FINANCIAL GROUP",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2025-09-29",
-          "title": "SEC 8-K: AMBAC FINANCIAL GROUP INC  (AMBC) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=874501&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": null,
-          "stockPriceDate": null
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "874501",
-      "nameCN": "安贝克金融",
-      "aiSummary": "安贝克金融集团推进纯分拆计划，旨在剥离核心业务以优化资本结构。",
-      "parentMarketCap": 4.0,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2025-09-29",
-        "priceAtAnnouncement": null,
-        "priceNow": null,
-        "changePct": null
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2025-09-29T00:00:00Z"
     },
     {
       "ticker": "CMCSA",
