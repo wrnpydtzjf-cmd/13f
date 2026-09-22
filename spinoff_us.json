@@ -1,55 +1,9 @@
 {
-  "updatedAt": "2026-09-21T18:40:44Z",
-  "dateFrom": "20250921",
-  "dateTo": "20260921",
+  "updatedAt": "2026-09-22T03:19:32Z",
+  "dateFrom": "20250922",
+  "dateTo": "20260922",
   "count": 67,
   "companies": [
-    {
-      "ticker": "MOD",
-      "name": "MODINE MANUFACTURING CO  (MOD)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-09-17",
-          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-09-10",
-          "title": "分拆进展公告（2026-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-05",
-          "title": "重大协议签订（2026-05-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-29",
-          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-12-29",
-          "title": "重大协议签订（2025-12-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "67347",
-      "parentMarketCap": 98.2,
-      "nameCN": "莫丁制造",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
     {
       "ticker": "HCWC",
       "name": "HEALTHY CHOICE WELLNESS CORP.  (HCWC)",
@@ -60,6 +14,11 @@
       "recordDate": "",
       "distributionDate": "",
       "announcements": [
+        {
+          "date": "2026-09-21",
+          "title": "重大协议签订、投资者关系公告（2026-09-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
         {
           "date": "2026-09-17",
           "title": "SEC 8-K: HEALTHY CHOICE WELLNESS CORP.  (HCWC) spin-off filing",
@@ -116,9 +75,56 @@
       "cik": "1948864",
       "parentMarketCap": 0.1,
       "nameCN": "",
+      "lastUpdated": "2026-09-22T03:22:33Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "MOD",
+      "name": "MODINE MANUFACTURING CO  (MOD)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-17",
+          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "分拆进展公告（2026-09-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-05",
+          "title": "重大协议签订（2026-05-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-12-29",
+          "title": "重大协议签订（2025-12-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "67347",
+      "parentMarketCap": 98.2,
+      "nameCN": "莫丁制造",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1919,17 +1925,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 207.21,
-          "parentChangePct": -8.8,
+          "parentPriceNow": 206.48,
+          "parentChangePct": -9.1,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 168.6,
-          "spinoffChangePct": -23.4,
-          "updatedAt": "2026-09-21"
+          "spinoffPriceNow": 169.03,
+          "spinoffChangePct": -23.2,
+          "updatedAt": "2026-09-22"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.2%，规模不算典型的'机构抛售'目标，上市后表现为-23.4%。",
-        "en": "At roughly 71.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.4%."
+        "zh": "分拆标的市值约为母公司的71.2%，规模不算典型的'机构抛售'目标，上市后表现为-23.2%。",
+        "en": "At roughly 71.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.2%."
       }
     },
     {
