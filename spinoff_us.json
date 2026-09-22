@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-22T03:19:32Z",
+  "updatedAt": "2026-09-22T17:43:07Z",
   "dateFrom": "20250922",
   "dateTo": "20260922",
-  "count": 67,
+  "count": 70,
   "companies": [
     {
       "ticker": "HCWC",
@@ -239,21 +239,22 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1048911",
       "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
       "parentMarketCap": 746.8,
       "nameCN": "联邦快递",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "母公司市值约747亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $747B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
       "ticker": "THRM",
       "name": "Gentherm Inc  (THRM)",
-      "spinoffName": "Gentherm Co",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -291,15 +292,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "903129",
       "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
       "parentMarketCap": 10.4,
       "nameCN": "根瑟姆",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -414,7 +416,7 @@
     {
       "ticker": "HCTI",
       "name": "Healthcare Triangle, Inc.  (HCTI)",
-      "spinoffName": "Teyame from the Co",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -482,14 +484,15 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1839285",
       "parentMarketCap": 0.1,
       "nameCN": "",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -596,7 +599,7 @@
       "name": "Vireo Growth Inc.  (VREOF)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "carveout",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -718,6 +721,7 @@
       "aiSummary": "维雷奥增长推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
       "parentMarketCap": 7.0,
       "nameCN": "维雷奥增长公司",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1031,6 +1035,102 @@
       }
     },
     {
+      "ticker": "REZI",
+      "name": "RESIDEO TECHNOLOGIES, INC.  (REZI)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-12",
+          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-08-04",
+          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "重大协议签订、分拆进展公告（2026-06-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-04",
+          "title": "重大协议签订、管理层变动（2026-06-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1740332",
+      "aiSummary": "瑞思迪奥推进纯分拆，签署协议并公告进展，预计 2026 年完成分拆。",
+      "parentMarketCap": 46.4,
+      "nameCN": "瑞思迪奥",
+      "lastUpdated": "2026-09-22T17:43:57Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "SMR",
+      "name": "NUSCALE POWER Corp  (SMR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-11",
+          "title": "重大协议签订（2026-08-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-26",
+          "title": "重大协议签订（2026-02-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-17",
+          "title": "SEC 8-K: NUSCALE POWER Corp  (SMR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-11-07",
+          "title": "重大协议签订（2025-11-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-09-24",
+          "title": "重大协议签订（2025-09-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1822966",
+      "aiSummary": "纽斯凯尔动力推进纯分拆进程，旨在独立运营小型模块化反应堆业务。",
+      "parentMarketCap": 35.7,
+      "nameCN": "纽斯凯尔动力",
+      "lastUpdated": "2026-09-22T17:43:57Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
       "ticker": "ALTS",
       "name": "ALT5 Sigma Corp  (ALTS)",
       "spinoffName": "",
@@ -1176,21 +1276,22 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2089271&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "2089271",
       "aiSummary": "霍尼韦尔签署分拆协议，将航空航天业务独立上市，预计 2026 年 6 月完成。",
       "parentMarketCap": 645.3,
       "nameCN": "霍尼韦尔航空航天",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "母公司市值约645亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $645B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
-      "ticker": "REZI",
-      "name": "RESIDEO TECHNOLOGIES, INC.  (REZI)",
-      "spinoffName": "RESIDEO TECHNOLOGIES, INC.",
+      "ticker": "ADIG",
+      "name": "ADI GLOBAL DISTRIBUTION INC.  (ADIG)",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1199,40 +1300,91 @@
       "announcements": [
         {
           "date": "2026-08-04",
-          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "SEC 8-K: RESIDEO TECHNOLOGIES, INC.  (REZI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-06-24",
-          "title": "重大协议签订、分拆进展公告（2026-06-24）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-04",
-          "title": "重大协议签订、管理层变动（2026-06-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-08-14",
-          "title": "重大协议签订、投资者关系公告（2025-08-14）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1740332&type=8-K&dateb=&owner=include&count=40"
+          "title": "SEC 8-K: ADI GLOBAL DISTRIBUTION INC.  (ADIG) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2105139&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
-      "cik": "1740332",
-      "aiSummary": "瑞思迪奥推进纯分拆，签署协议并公告进展，预计 2026 年完成分拆。",
-      "parentMarketCap": 46.4,
-      "nameCN": "瑞思迪奥",
-      "lastUpdated": "2026-08-12T14:28:16Z",
+      "cik": "2105139",
+      "nameCN": "",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "TEX",
+      "name": "TEREX CORP  (TEX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-07-31",
+          "title": "分拆进展公告（2026-07-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "分拆进展公告（2026-07-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "SEC 8-K: TEREX CORP  (TEX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-04-21",
+          "title": "分拆进展公告（2026-04-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-13",
+          "title": "分拆进展公告（2026-04-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "交割完成、管理层变动（2026-02-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "分拆进展公告（2026-01-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-20",
+          "title": "分拆进展公告（2026-01-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "重大协议签订、分拆进展公告（2025-10-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-21",
+          "title": "分拆进展公告（2025-10-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "97216",
+      "aiSummary": "特雷克斯推进纯分拆，完成 SEC 备案，子公司 Terex Corp 将独立上市。",
+      "parentMarketCap": 77.8,
+      "nameCN": "特雷克斯",
+      "lastUpdated": "2026-09-22T17:43:57Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1310,7 +1462,7 @@
     {
       "ticker": "NFLX",
       "name": "NETFLIX INC  (NFLX)",
-      "spinoffName": "",
+      "spinoffName": "WBD Co",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1353,15 +1505,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "1065280",
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1614,15 +1767,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "2088281",
       "aiSummary": "Midera 食品加工推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 18.1,
       "nameCN": "Midera食品加工",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -1798,42 +1952,6 @@
       }
     },
     {
-      "ticker": "TEX",
-      "name": "TEREX CORP  (TEX)",
-      "spinoffName": "TEREX CORP",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-06-30",
-          "title": "SEC 8-K: TEREX CORP  (TEX) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=97216&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 72.39,
-          "stockPriceDate": "2026-06-30"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "97216",
-      "nameCN": "特雷克斯",
-      "aiSummary": "特雷克斯推进纯分拆，完成 SEC 备案，子公司 Terex Corp 将独立上市。",
-      "parentMarketCap": 77.8,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2026-06-30",
-        "priceAtAnnouncement": 72.39,
-        "priceNow": 65.39,
-        "changePct": -9.7
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2026-06-30T00:00:00Z"
-    },
-    {
       "ticker": "HON",
       "name": "HONEYWELL INTERNATIONAL INC  (HON)",
       "spinoffName": "Honeywell Aerospace",
@@ -1925,17 +2043,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 206.48,
-          "parentChangePct": -9.1,
+          "parentPriceNow": 211.325,
+          "parentChangePct": -7.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 169.03,
-          "spinoffChangePct": -23.2,
+          "spinoffPriceNow": 167.91,
+          "spinoffChangePct": -23.7,
           "updatedAt": "2026-09-22"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.2%，规模不算典型的'机构抛售'目标，上市后表现为-23.2%。",
-        "en": "At roughly 71.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.2%."
+        "zh": "分拆标的市值约为母公司的71.2%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
+        "en": "At roughly 71.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
       }
     },
     {
@@ -2421,7 +2539,7 @@
     {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery, Inc.  (WBD)",
-      "spinoffName": "",
+      "spinoffName": "WBD Co",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -2464,15 +2582,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "1437107",
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
+      "lastUpdated": "2026-09-22T17:43:57Z",
       "greenblattNote": {
-        "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -2596,6 +2715,57 @@
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "BDX",
+      "name": "BECTON DICKINSON & CO  (BDX)",
+      "spinoffName": "BD MedSurg (NewCo)",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-05-20",
+          "title": "重大协议签订（2026-05-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "分拆进展公告（2026-05-12）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-25",
+          "title": "分拆进展公告（2026-02-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "分拆进展公告（2026-02-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "SEC 8-K: BECTON DICKINSON & CO  (BDX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=10795&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2024-05-16",
+          "title": "Becton Dickinson announces plan to spin off MedSurg segment"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "10795",
+      "parentMarketCap": 491.2,
+      "nameCN": "碧迪",
+      "lastUpdated": "2026-09-22T17:43:57Z",
+      "greenblattNote": {
+        "zh": "母公司市值约491亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $491B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
@@ -3190,6 +3360,58 @@
       "lastUpdated": "2026-03-09T00:00:00Z"
     },
     {
+      "ticker": "RNA",
+      "name": "Avidity Biosciences, Inc.  (RNA)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-02-27",
+          "title": "交割完成、股东权益变动（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-23",
+          "title": "分拆进展公告（2026-02-23）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "投资者关系公告、分拆进展公告（2026-02-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-18",
+          "title": "管理层变动、分拆进展公告（2025-12-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-27",
+          "title": "SEC 8-K: Avidity Biosciences, Inc.  (RNA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2025-10-14",
+          "title": "分拆进展公告（2025-10-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1599901&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1599901",
+      "parentMarketCap": 1.6,
+      "nameCN": "Avidity生物",
+      "lastUpdated": "2026-09-22T17:43:57Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
       "ticker": "PPL",
       "name": "PPL Corp  (PPL)",
       "spinoffName": "PPL Corp",
@@ -3386,42 +3608,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2025-11-18T00:00:00Z"
-    },
-    {
-      "ticker": "SMR",
-      "name": "NUSCALE POWER Corp  (SMR)",
-      "spinoffName": "NUSCALE POWER Corp",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2025-11-17",
-          "title": "SEC 8-K: NUSCALE POWER Corp  (SMR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 21.06,
-          "stockPriceDate": "2025-11-17"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1822966",
-      "nameCN": "纽斯凯尔动力",
-      "aiSummary": "纽斯凯尔动力推进纯分拆进程，旨在独立运营小型模块化反应堆业务。",
-      "parentMarketCap": 35.7,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2025-11-17",
-        "priceAtAnnouncement": 21.06,
-        "priceNow": 7.72,
-        "changePct": -63.3
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2025-11-17T00:00:00Z"
     },
     {
       "ticker": "GPRE",
