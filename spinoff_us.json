@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-23T17:53:42Z",
-  "dateFrom": "20250923",
-  "dateTo": "20260923",
+  "updatedAt": "2026-09-24T03:09:35Z",
+  "dateFrom": "20250924",
+  "dateTo": "20260924",
   "count": 68,
   "companies": [
     {
@@ -1505,7 +1505,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-09-23T17:54:47Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2028,7 +2027,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 535.7,
+      "marketCap": 530.3,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2036,17 +2035,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 212.53,
+          "parentPriceNow": 212.57,
           "parentChangePct": -6.4,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 162.48,
-          "spinoffChangePct": -26.2,
-          "updatedAt": "2026-09-23"
+          "spinoffPriceNow": 163.33,
+          "spinoffChangePct": -25.8,
+          "updatedAt": "2026-09-24"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.6%，规模不算典型的'机构抛售'目标，上市后表现为-26.2%。",
-        "en": "At roughly 73.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.2%."
+        "zh": "分拆标的市值约为母公司的72.8%，规模不算典型的'机构抛售'目标，上市后表现为-25.8%。",
+        "en": "At roughly 72.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.8%."
       }
     },
     {
@@ -2581,7 +2580,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-09-23T17:54:47Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
