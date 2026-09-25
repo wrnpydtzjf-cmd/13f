@@ -1,9 +1,61 @@
 {
-  "updatedAt": "2026-09-24T17:57:59Z",
-  "dateFrom": "20250924",
-  "dateTo": "20260924",
+  "updatedAt": "2026-09-25T03:27:14Z",
+  "dateFrom": "20250925",
+  "dateTo": "20260925",
   "count": 69,
   "companies": [
+    {
+      "ticker": "CTVA",
+      "name": "Corteva, Inc.  (CTVA)",
+      "spinoffName": "Corteva common stock will trade without an entitlement to receive the Vylor Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-24",
+          "title": "分拆进展公告（2026-09-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "SEC 8-K: Corteva, Inc.  (CTVA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "分拆进展公告（2026-09-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-31",
+          "title": "分拆进展公告（2026-08-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-20",
+          "title": "重大协议签订、股东权益变动（2026-08-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-06",
+          "title": "投资者关系公告、分拆进展公告（2026-08-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1755672",
+      "parentMarketCap": 559.8,
+      "nameCN": "",
+      "lastUpdated": "2026-09-25T03:28:09Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "HCWC",
       "name": "HEALTHY CHOICE WELLNESS CORP.  (HCWC)",
@@ -127,168 +179,6 @@
       }
     },
     {
-      "ticker": "KDP",
-      "name": "Keurig Dr Pepper Inc.  (KDP)",
-      "spinoffName": "Global Coffee Co.（Peet's + Keurig + Jacobs + L'OR）",
-      "spinoffTicker": "TBD",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-09-16",
-          "title": "分拆进展公告（2026-09-16）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-01",
-          "title": "分拆进展公告（2026-09-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-25",
-          "title": "KDP重申2026年展望，拆分预计2027年初完成"
-        },
-        {
-          "date": "2026-06-23",
-          "title": "投资者关系公告、分拆进展公告（2026-06-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-18",
-          "title": "分拆进展公告（2026-06-18）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-22",
-          "title": "分拆进展公告（2026-05-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-20",
-          "title": "分拆进展公告（2026-05-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-01",
-          "title": "SEC 8-K: Keurig Dr Pepper Inc.  (KDP) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-03-26",
-          "title": "重大协议签订（2026-03-26）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-12",
-          "title": "分拆进展公告（2026-03-12）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-10",
-          "title": "重大协议签订、投资者关系公告（2026-03-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-23",
-          "title": "重大协议签订、投资者关系公告（2026-02-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-12",
-          "title": "管理层变动、分拆进展公告（2026-02-12）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-04",
-          "title": "分拆进展公告（2026-02-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-12-19",
-          "title": "重大协议签订（2025-12-19）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-12-09",
-          "title": "分拆进展公告（2025-12-09）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-21",
-          "title": "分拆进展公告（2025-11-21）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-30",
-          "title": "重大协议签订（2025-10-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1418135&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-08-25",
-          "title": "KDP宣布以157亿欧元收购JDE Peet's，计划拆分为饮料公司与全球咖啡公司两家独立上市公司"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1418135",
-      "aiSummary": "科瑞格胡椒博士计划 2027 年初完成分拆，新公司将整合全球主要咖啡品牌。",
-      "parentMarketCap": 453.1,
-      "nameCN": "科瑞格胡椒博士",
-      "lastUpdated": "2026-09-24T17:58:44Z",
-      "greenblattNote": {
-        "zh": "母公司市值约453亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $453B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
-      }
-    },
-    {
-      "ticker": "CTVA",
-      "name": "Corteva, Inc.  (CTVA)",
-      "spinoffName": "Corteva common stock will trade without an entitlement to receive the Vylor Co",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-09-15",
-          "title": "SEC 8-K: Corteva, Inc.  (CTVA) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-09-10",
-          "title": "分拆进展公告（2026-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-31",
-          "title": "分拆进展公告（2026-08-31）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-20",
-          "title": "重大协议签订、股东权益变动（2026-08-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-06",
-          "title": "投资者关系公告、分拆进展公告（2026-08-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1755672",
-      "parentMarketCap": 559.8,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
       "ticker": "FDX",
       "name": "FEDEX CORP  (FDX)",
       "spinoffName": "",
@@ -368,7 +258,7 @@
     {
       "ticker": "THRM",
       "name": "Gentherm Inc  (THRM)",
-      "spinoffName": "",
+      "spinoffName": "Gentherm Co",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -406,16 +296,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=903129&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "903129",
       "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
       "parentMarketCap": 10.4,
       "nameCN": "根瑟姆",
-      "lastUpdated": "2026-09-24T17:58:44Z",
+      "lastUpdated": "2026-09-25T03:28:09Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -485,7 +375,7 @@
       "name": "X4 Pharmaceuticals, Inc  (XFOR)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "spinoff",
+      "type": "carveout",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -522,7 +412,7 @@
       "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
       "parentMarketCap": 3.7,
       "nameCN": "X4制药",
-      "lastUpdated": "2026-09-24T17:58:44Z",
+      "lastUpdated": "2026-09-25T03:28:09Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -713,7 +603,7 @@
       "name": "Vireo Growth Inc.  (VREOF)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "spinoff",
+      "type": "carveout",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -835,7 +725,7 @@
       "aiSummary": "维雷奥增长推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
       "parentMarketCap": 7.0,
       "nameCN": "维雷奥增长公司",
-      "lastUpdated": "2026-09-24T17:58:44Z",
+      "lastUpdated": "2026-09-25T03:28:09Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1244,48 +1134,6 @@
       }
     },
     {
-      "ticker": "NMRK",
-      "name": "NEWMARK GROUP, INC.  (NMRK)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-08-07",
-          "title": "SEC 8-K: NEWMARK GROUP, INC.  (NMRK) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-05-22",
-          "title": "投资者关系公告、分拆进展公告（2026-05-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-21",
-          "title": "重大协议签订、分拆进展公告（2026-04-21）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-30",
-          "title": "业绩公布、分拆进展公告（2025-10-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1690680",
-      "parentMarketCap": 24.0,
-      "nameCN": "",
-      "lastUpdated": "2026-09-24T17:58:44Z",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
       "ticker": "ALTS",
       "name": "ALT5 Sigma Corp  (ALTS)",
       "spinoffName": "",
@@ -1351,12 +1199,54 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=862861&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "862861",
       "aiSummary": "ALT5 西格玛公司推进纯分拆，旨在独立运营其半导体测试与封装业务。",
       "parentMarketCap": 1.1,
       "nameCN": "ALT5西格玛公司",
+      "lastUpdated": "2026-09-25T03:28:09Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "NMRK",
+      "name": "NEWMARK GROUP, INC.  (NMRK)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-08-07",
+          "title": "SEC 8-K: NEWMARK GROUP, INC.  (NMRK) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-22",
+          "title": "投资者关系公告、分拆进展公告（2026-05-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-21",
+          "title": "重大协议签订、分拆进展公告（2026-04-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-30",
+          "title": "业绩公布、分拆进展公告（2025-10-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1690680&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1690680",
+      "parentMarketCap": 24.0,
+      "nameCN": "",
       "lastUpdated": "2026-09-24T17:58:44Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
@@ -2187,7 +2077,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 530.3,
+      "marketCap": 517.7,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2195,17 +2085,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 211.9,
+          "parentPriceNow": 211.79,
           "parentChangePct": -6.7,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 160.87,
-          "spinoffChangePct": -26.9,
-          "updatedAt": "2026-09-24"
+          "spinoffPriceNow": 158.46,
+          "spinoffChangePct": -28.0,
+          "updatedAt": "2026-09-25"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的72.8%，规模不算典型的'机构抛售'目标，上市后表现为-26.9%。",
-        "en": "At roughly 72.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.9%."
+        "zh": "分拆标的市值约为母公司的71.1%，规模不算典型的'机构抛售'目标，上市后表现为-28.0%。",
+        "en": "At roughly 71.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.0%."
       }
     },
     {
@@ -2402,6 +2292,37 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2026-06-26T00:00:00Z"
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper",
+      "spinoffName": "Global Coffee Co.（Peet's + Keurig + Jacobs + L'OR）",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2025-08-25",
+          "title": "KDP宣布以157亿欧元收购JDE Peet's，计划拆分为饮料公司与全球咖啡公司两家独立上市公司"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "KDP重申2026年展望，拆分预计2027年初完成"
+        }
+      ],
+      "status": "in_progress",
+      "source": "manual",
+      "cik": "",
+      "aiSummary": "科瑞格胡椒博士计划 2027 年初完成分拆，新公司将整合全球主要咖啡品牌。",
+      "parentMarketCap": 453.1,
+      "nameCN": "科瑞格胡椒博士",
+      "lastUpdated": "2026-09-25T03:28:09Z",
+      "greenblattNote": {
+        "zh": "母公司市值约453亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $453B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
     },
     {
       "ticker": "QURE",
@@ -2834,16 +2755,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2083632&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "2083632",
       "aiSummary": "八度智能推进纯分拆，新公司将专注智能硬件业务，预计近期完成分拆。",
       "parentMarketCap": 46.7,
       "nameCN": "八度智能公司",
-      "lastUpdated": "2026-09-24T17:58:44Z",
+      "lastUpdated": "2026-09-25T03:28:09Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
