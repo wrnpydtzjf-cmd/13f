@@ -1,9 +1,122 @@
 {
-  "updatedAt": "2026-09-25T17:57:55Z",
-  "dateFrom": "20250925",
-  "dateTo": "20260925",
-  "count": 69,
+  "updatedAt": "2026-09-26T03:35:38Z",
+  "dateFrom": "20250926",
+  "dateTo": "20260926",
+  "count": 70,
   "companies": [
+    {
+      "ticker": "VYLR",
+      "name": "Vylor Inc.  (VYLR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-25",
+          "title": "SEC 8-K: Vylor Inc.  (VYLR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2128626",
+      "nameCN": "",
+      "lastUpdated": "2026-09-26T03:36:31Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "HCTI",
+      "name": "Healthcare Triangle, Inc.  (HCTI)",
+      "spinoffName": "Teyame from the Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-25",
+          "title": "重大协议签订（2026-09-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "SEC 8-K: Healthcare Triangle, Inc.  (HCTI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "重大协议签订（2026-06-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "重大协议签订、投资者关系公告（2026-06-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-10",
+          "title": "重大协议签订（2026-04-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-03-11",
+          "title": "分拆进展公告（2026-03-11）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-27",
+          "title": "重大协议签订、投资者关系公告（2026-02-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "股东权益变动、分拆进展公告（2026-02-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-28",
+          "title": "重大协议签订、交割完成（2026-01-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-10",
+          "title": "重大协议签订、投资者关系公告（2025-12-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-21",
+          "title": "重大协议签订（2025-11-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-19",
+          "title": "重大协议签订（2025-11-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-08",
+          "title": "重大协议签订、股东权益变动（2025-10-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1839285",
+      "parentMarketCap": 0.1,
+      "nameCN": "",
+      "lastUpdated": "2026-09-26T03:36:31Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "CTVA",
       "name": "Corteva, Inc.  (CTVA)",
@@ -55,7 +168,6 @@
       "cik": "1755672",
       "parentMarketCap": 559.8,
       "nameCN": "",
-      "lastUpdated": "2026-09-25T17:58:44Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -249,16 +361,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "1048911",
       "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
       "parentMarketCap": 746.8,
       "nameCN": "联邦快递",
-      "lastUpdated": "2026-09-25T17:58:44Z",
+      "lastUpdated": "2026-09-26T03:36:31Z",
       "greenblattNote": {
-        "zh": "母公司市值约747亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $747B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -420,87 +532,6 @@
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
-      "ticker": "HCTI",
-      "name": "Healthcare Triangle, Inc.  (HCTI)",
-      "spinoffName": "Teyame from the Co",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-09-08",
-          "title": "SEC 8-K: Healthcare Triangle, Inc.  (HCTI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-06-26",
-          "title": "重大协议签订（2026-06-26）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-15",
-          "title": "重大协议签订、投资者关系公告（2026-06-15）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-10",
-          "title": "重大协议签订（2026-04-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-11",
-          "title": "分拆进展公告（2026-03-11）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-27",
-          "title": "重大协议签订、投资者关系公告（2026-02-27）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-13",
-          "title": "股东权益变动、分拆进展公告（2026-02-13）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-28",
-          "title": "重大协议签订、交割完成（2026-01-28）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-12-10",
-          "title": "重大协议签订、投资者关系公告（2025-12-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-21",
-          "title": "重大协议签订（2025-11-21）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-19",
-          "title": "重大协议签订（2025-11-19）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-08",
-          "title": "重大协议签订、股东权益变动（2025-10-08）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1839285",
-      "parentMarketCap": 0.1,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1323,16 +1354,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2089271&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "2089271",
       "aiSummary": "霍尼韦尔签署分拆协议，将航空航天业务独立上市，预计 2026 年 6 月完成。",
       "parentMarketCap": 645.3,
       "nameCN": "霍尼韦尔航空航天",
-      "lastUpdated": "2026-09-25T17:58:44Z",
+      "lastUpdated": "2026-09-26T03:36:31Z",
       "greenblattNote": {
-        "zh": "母公司市值约645亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $645B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1723,7 +1754,7 @@
     {
       "ticker": "MIDD",
       "name": "MIDDLEBY Corp  (MIDD)",
-      "spinoffName": "",
+      "spinoffName": "Midera Food Processing, Inc",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1776,16 +1807,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "769520",
       "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 79.2,
       "nameCN": "Middleby集团",
-      "lastUpdated": "2026-09-25T17:58:44Z",
+      "lastUpdated": "2026-09-26T03:36:31Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1814,16 +1845,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2088281&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "2088281",
       "aiSummary": "Midera 食品加工推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 18.1,
       "nameCN": "Midera食品加工",
-      "lastUpdated": "2026-09-25T17:58:44Z",
+      "lastUpdated": "2026-09-26T03:36:31Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -2082,7 +2113,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 517.7,
+      "marketCap": 502.2,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2090,17 +2121,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 212.13,
-          "parentChangePct": -6.6,
+          "parentPriceNow": 212.55,
+          "parentChangePct": -6.4,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 158.775,
+          "spinoffPriceNow": 158.78,
           "spinoffChangePct": -27.9,
-          "updatedAt": "2026-09-25"
+          "updatedAt": "2026-09-26"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.1%，规模不算典型的'机构抛售'目标，上市后表现为-27.9%。",
-        "en": "At roughly 71.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.9%."
+        "zh": "分拆标的市值约为母公司的69.0%，规模不算典型的'机构抛售'目标，上市后表现为-27.9%。",
+        "en": "At roughly 69.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.9%."
       }
     },
     {
@@ -3152,16 +3183,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2078008&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "2078008",
       "aiSummary": "公司正推进纯分拆进程，将独立运营业务板块，预计近期完成相关 SEC  filings。",
       "parentMarketCap": 29.9,
       "nameCN": "Versigent",
-      "lastUpdated": "2026-09-25T17:58:44Z",
+      "lastUpdated": "2026-09-26T03:36:31Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
