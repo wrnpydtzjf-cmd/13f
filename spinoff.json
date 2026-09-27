@@ -1,9 +1,83 @@
 {
-  "updatedAt": "2026-09-27T03:37:22Z",
+  "updatedAt": "2026-09-27T17:37:54Z",
   "dateFrom": "20250927",
   "dateTo": "20260927",
-  "count": 36,
+  "count": 38,
   "companies": [
+    {
+      "stockCode": "00968",
+      "stockName": "信義光能",
+      "ticker": "00968.HK",
+      "lastPrice": 1.92,
+      "latestDate": "2026-09-27",
+      "firstDate": "2026-09-27",
+      "announcements": [
+        {
+          "date": "2026-09-27",
+          "title": "聯合自願公告 - 可能分拆及於深圳證券交易所進行信義能源新能源基金中國上市",
+          "docUrl": "/listedco/listconews/sehk/2026/0927/2026092700034_c.pdf"
+        }
+      ],
+      "spinTarget": "",
+      "spinType": {
+        "code": "ipo_a_sz",
+        "exchange_zh": "深交所",
+        "exchange_en": "SZSE",
+        "label_zh": "分拆·A股深交所",
+        "label_en": "Spinoff·A-Share SZSE",
+        "is_reit": false
+      },
+      "summary": "共 1 条相关公告（2026-09-27）",
+      "_status": "announced",
+      "marketCap": null,
+      "parentMarketCap": 22.4,
+      "lastUpdated": "2026-09-27T17:39:52Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
+        "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
+      }
+    },
+    {
+      "stockCode": "03868",
+      "stockName": "信義能源",
+      "ticker": "03868.HK",
+      "lastPrice": 0.785,
+      "latestDate": "2026-09-27",
+      "firstDate": "2026-09-27",
+      "announcements": [
+        {
+          "date": "2026-09-27",
+          "title": "聯合自願公告 - 可能分拆及於深圳證券交易所進行信義能源新能源基金中國上市",
+          "docUrl": "/listedco/listconews/sehk/2026/0927/2026092700032_c.pdf"
+        }
+      ],
+      "spinTarget": "",
+      "spinType": {
+        "code": "ipo_a_sz",
+        "exchange_zh": "深交所",
+        "exchange_en": "SZSE",
+        "label_zh": "分拆·A股深交所",
+        "label_en": "Spinoff·A-Share SZSE",
+        "is_reit": false
+      },
+      "summary": "共 1 条相关公告（2026-09-27）",
+      "_status": "announced",
+      "marketCap": null,
+      "parentMarketCap": 8.5,
+      "pricePerf": {
+        "priceAtAnnouncement": 0.785,
+        "priceNow": 0.785,
+        "changePct": 0.0,
+        "firstAnnouncementDate": "2026-09-27",
+        "currency": "HKD",
+        "updatedAt": "2026-09-27"
+      },
+      "lastUpdated": "2026-09-27T17:39:52Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
+        "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."
+      }
+    },
     {
       "stockCode": "00902",
       "stockName": "華能國際電力股份",
