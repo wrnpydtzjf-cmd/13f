@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:06:35.427970+00:00",
+  "generatedAt": "2026-09-29T04:07:47.574032+00:00",
   "candidates": [
     {
       "ticker": "KHC",
@@ -7,7 +7,7 @@
       "cnName": "卡夫亨氏",
       "sector": "消费",
       "mos": 52.1,
-      "price": 23.54,
+      "price": 23.56,
       "buy": 49.17,
       "atAvg": 49.17,
       "investors": [
@@ -67,7 +67,7 @@
       "cnName": "布鲁克菲尔德",
       "sector": "金融服务",
       "mos": 15.4,
-      "price": 36.28,
+      "price": 36.27,
       "buy": 42.88,
       "atAvg": 26.94,
       "investors": [
@@ -114,7 +114,7 @@
       "cnName": "惠而浦",
       "sector": "消费",
       "mos": 60.4,
-      "price": 31.38,
+      "price": 31.4,
       "buy": 79.27,
       "atAvg": 78.95,
       "investors": [
@@ -234,7 +234,7 @@
       "cnName": "百度",
       "sector": "互联网",
       "mos": 19.0,
-      "price": 86.98,
+      "price": 86.97,
       "buy": 107.42,
       "atAvg": 104.16,
       "investors": [
@@ -293,8 +293,8 @@
       "name": "NRG ENERGY INC",
       "cnName": "NRG能源",
       "sector": "能源",
-      "mos": 23.3,
-      "price": 97.17,
+      "mos": 23.5,
+      "price": 97,
       "buy": 126.76,
       "atAvg": 80.6,
       "investors": [
@@ -314,7 +314,7 @@
       "cnName": "公平信息公司",
       "sector": "科技",
       "mos": 23.0,
-      "price": 840.85,
+      "price": 840.89,
       "buy": 1091.53,
       "atAvg": 1312.13,
       "investors": [
@@ -374,7 +374,7 @@
       "cnName": "Fidelity 国家信息服务",
       "sector": "金融服务",
       "mos": 12.2,
-      "price": 34.3,
+      "price": 34.31,
       "buy": 39.08,
       "atAvg": 39.29,
       "investors": [
@@ -453,8 +453,8 @@
       "name": "AUTONATION INC",
       "cnName": "奥托纳森",
       "sector": "消费",
-      "mos": 16.6,
-      "price": 161.54,
+      "mos": 16.7,
+      "price": 161.36,
       "buy": 193.8,
       "atAvg": 153.6,
       "investors": [
@@ -573,8 +573,8 @@
       "name": "AON PLC",
       "cnName": "怡安",
       "sector": "金融服务",
-      "mos": 12.9,
-      "price": 271.95,
+      "mos": 12.8,
+      "price": 272.1,
       "buy": 312.14,
       "atAvg": 312.14,
       "investors": [
@@ -595,7 +595,7 @@
         "investor": "帕伯莱",
         "investorEn": "Pabrai",
         "id": "pabrai",
-        "mos": 1.1
+        "mos": 1.7
       }
     ],
     "TSLA": [
@@ -603,7 +603,7 @@
         "investor": "段永平",
         "investorEn": "Duan",
         "id": "duan",
-        "mos": 3.4
+        "mos": 3.5
       }
     ],
     "UBER": [
@@ -635,7 +635,7 @@
         "investor": "巴菲特",
         "investorEn": "Buffett",
         "id": "buffett",
-        "mos": 9.4
+        "mos": 9.5
       }
     ],
     "ORLY": [

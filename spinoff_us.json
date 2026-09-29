@@ -1,9 +1,41 @@
 {
-  "updatedAt": "2026-09-28T20:11:50Z",
-  "dateFrom": "20250928",
-  "dateTo": "20260928",
-  "count": 69,
+  "updatedAt": "2026-09-29T04:12:41Z",
+  "dateFrom": "20250929",
+  "dateTo": "20260929",
+  "count": 70,
   "companies": [
+    {
+      "ticker": "VKTX",
+      "name": "Viking Therapeutics, Inc.  (VKTX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-28",
+          "title": "SEC 8-K: Viking Therapeutics, Inc.  (VKTX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1607678&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-09-22",
+          "title": "分拆进展公告（2026-09-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1607678&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1607678",
+      "parentMarketCap": 40.1,
+      "nameCN": "",
+      "lastUpdated": "2026-09-29T04:13:45Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "VYLR",
       "name": "Vylor Inc.  (VYLR)",
@@ -2120,7 +2152,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 152.32,
           "spinoffChangePct": -30.8,
-          "updatedAt": "2026-09-28"
+          "updatedAt": "2026-09-29"
         }
       ],
       "greenblattNote": {
