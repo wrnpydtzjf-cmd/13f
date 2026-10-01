@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-30T18:28:45Z",
-  "dateFrom": "20250930",
-  "dateTo": "20260930",
-  "count": 70,
+  "updatedAt": "2026-10-01T04:07:25Z",
+  "dateFrom": "20251001",
+  "dateTo": "20261001",
+  "count": 69,
   "companies": [
     {
       "ticker": "VYLR",
@@ -29,7 +29,6 @@
       "source": "edgar",
       "cik": "2128626",
       "nameCN": "",
-      "lastUpdated": "2026-09-30T18:29:58Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -91,7 +90,6 @@
       "cik": "1755672",
       "parentMarketCap": 559.8,
       "nameCN": "",
-      "lastUpdated": "2026-09-30T18:29:58Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -154,7 +152,6 @@
       "aiSummary": "公司推进纯分拆进程，旨在独立运营以聚焦核心医疗业务，预计近期完成。",
       "parentMarketCap": 52.6,
       "nameCN": "Celcuity",
-      "lastUpdated": "2026-09-30T18:29:58Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2169,17 +2166,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 210.285,
-          "parentChangePct": -7.4,
+          "parentPriceNow": 210.94,
+          "parentChangePct": -7.1,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 154.289,
-          "spinoffChangePct": -29.9,
-          "updatedAt": "2026-09-30"
+          "spinoffPriceNow": 154.97,
+          "spinoffChangePct": -29.6,
+          "updatedAt": "2026-10-01"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的66.3%，规模不算典型的'机构抛售'目标，上市后表现为-29.9%。",
-        "en": "At roughly 66.3% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.9%."
+        "zh": "分拆标的市值约为母公司的66.3%，规模不算典型的'机构抛售'目标，上市后表现为-29.6%。",
+        "en": "At roughly 66.3% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.6%."
       }
     },
     {
@@ -3616,42 +3613,6 @@
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       },
       "lastUpdated": "2025-10-28T00:00:00Z"
-    },
-    {
-      "ticker": "WOLF",
-      "name": "WOLFSPEED, INC.  (WOLF)",
-      "spinoffName": "WOLFSPEED",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2025-09-30",
-          "title": "SEC 8-K: WOLFSPEED, INC.  (WOLF) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=895419&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 28.6,
-          "stockPriceDate": "2025-09-30"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "895419",
-      "nameCN": "沃尔夫斯皮德",
-      "aiSummary": "沃尔夫斯皮德推进纯分拆，旨在独立运营其高性能半导体设计与制造业务。",
-      "parentMarketCap": 21.6,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2025-09-30",
-        "priceAtAnnouncement": 28.6,
-        "priceNow": 29.89,
-        "changePct": 4.5
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2025-09-30T00:00:00Z"
     },
     {
       "ticker": "CMCSA",
