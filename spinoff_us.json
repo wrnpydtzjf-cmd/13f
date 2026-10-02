@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-01T18:53:33Z",
-  "dateFrom": "20251001",
-  "dateTo": "20261001",
-  "count": 69,
+  "updatedAt": "2026-10-02T04:03:42Z",
+  "dateFrom": "20251002",
+  "dateTo": "20261002",
+  "count": 70,
   "companies": [
     {
       "ticker": "VYLR",
@@ -2088,86 +2088,30 @@
     },
     {
       "ticker": "HON",
-      "name": "HONEYWELL INTERNATIONAL INC  (HON)",
+      "name": "Honeywell International",
       "spinoffName": "Honeywell Aerospace",
       "spinoffTicker": "HONA",
       "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
+      "exchange": "Nasdaq",
       "recordDate": "",
-      "distributionDate": "",
+      "distributionDate": "2026-06-29",
       "announcements": [
         {
-          "date": "2026-06-29",
-          "title": "重大协议签订、交割完成（2026-06-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-15",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-06-05",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-04-23",
-          "title": "分拆进展公告（2026-04-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-23",
-          "title": "分拆进展公告（2026-03-23）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-16",
-          "title": "分拆进展公告（2026-03-16）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-06",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-12-22",
-          "title": "业绩公布、分拆进展公告（2025-12-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-30",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-22",
-          "title": "分拆进展公告（2025-10-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-16",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-01",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
+          "date": "2024-10-08",
+          "title": "Honeywell announces plan to spin off Advanced Materials business"
         },
         {
           "date": "2025-02-05",
           "title": "Honeywell separates into three independent companies"
         },
         {
-          "date": "2024-10-08",
-          "title": "Honeywell announces plan to spin off Advanced Materials business"
+          "date": "2026-06-29",
+          "title": "Honeywell Aerospace (HONA) begins trading on Nasdaq"
         }
       ],
       "status": "completed",
-      "source": "edgar",
-      "cik": "773840",
+      "source": "manual",
+      "cik": "",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
       "marketCap": 491.2,
@@ -2178,17 +2122,18 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 214.11,
-          "parentChangePct": -5.7,
+          "parentPriceNow": 213.8,
+          "parentChangePct": -5.9,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 154.32,
-          "spinoffChangePct": -29.9,
-          "updatedAt": "2026-10-01"
+          "spinoffPriceNow": 154.07,
+          "spinoffChangePct": -30.0,
+          "updatedAt": "2026-10-02"
         }
       ],
+      "lastUpdated": "2026-10-02T04:04:27Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的67.4%，规模不算典型的'机构抛售'目标，上市后表现为-29.9%。",
-        "en": "At roughly 67.4% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.9%."
+        "zh": "分拆标的市值约为母公司的67.4%，规模不算典型的'机构抛售'目标，上市后表现为-30.0%。",
+        "en": "At roughly 67.4% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.0%."
       }
     },
     {
@@ -3654,6 +3599,32 @@
       "greenblattNote": {
         "zh": "母公司市值约850亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $850B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+      }
+    },
+    {
+      "ticker": "BDX",
+      "name": "Becton Dickinson",
+      "spinoffName": "BD MedSurg (NewCo)",
+      "spinoffTicker": "TBD",
+      "type": "spinoff",
+      "exchange": "NYSE",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2024-05-16",
+          "title": "Becton Dickinson announces plan to spin off MedSurg segment"
+        }
+      ],
+      "status": "in_progress",
+      "source": "manual",
+      "cik": "",
+      "parentMarketCap": 485.4,
+      "nameCN": "碧迪",
+      "lastUpdated": "2026-10-02T04:04:27Z",
+      "greenblattNote": {
+        "zh": "母公司市值约485亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $485B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
