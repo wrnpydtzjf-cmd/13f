@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:49:37Z",
+  "updatedAt": "2026-10-03T17:09:17Z",
   "dateFrom": "20251003",
   "dateTo": "20261003",
   "count": 68,
@@ -296,7 +296,6 @@
       "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
       "parentMarketCap": 746.8,
       "nameCN": "联邦快递",
-      "lastUpdated": "2026-10-03T03:50:27Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -547,7 +546,6 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
-      "lastUpdated": "2026-10-03T03:50:27Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
