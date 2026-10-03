@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T18:24:16Z",
-  "dateFrom": "20251002",
-  "dateTo": "20261002",
+  "updatedAt": "2026-10-03T03:49:37Z",
+  "dateFrom": "20251003",
+  "dateTo": "20261003",
   "count": 68,
   "companies": [
     {
@@ -91,7 +91,6 @@
       "aiSummary": "根瑟姆推进纯分拆进程，签署重大协议，预计 2026 年完成独立上市。",
       "parentMarketCap": 10.4,
       "nameCN": "根瑟姆",
-      "lastUpdated": "2026-10-02T18:25:21Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -289,11 +288,6 @@
           "date": "2025-11-06",
           "title": "重大协议签订（2025-11-06）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-02",
-          "title": "管理层变动、分拆进展公告（2025-10-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1048911&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "completed",
@@ -302,6 +296,7 @@
       "aiSummary": "联邦快递完成分拆交割，预计 2026 年 6 月 25 日公告进展并推进上市。",
       "parentMarketCap": 746.8,
       "nameCN": "联邦快递",
+      "lastUpdated": "2026-10-03T03:50:27Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -544,11 +539,6 @@
           "date": "2025-10-15",
           "title": "分拆进展公告（2025-10-15）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-02",
-          "title": "重大协议签订（2025-10-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -557,6 +547,7 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
+      "lastUpdated": "2026-10-03T03:50:27Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2123,7 +2114,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 491.2,
+      "marketCap": 488.3,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2131,18 +2122,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 213.66,
-          "parentChangePct": -5.9,
+          "parentPriceNow": 213.99,
+          "parentChangePct": -5.8,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 154.41,
-          "spinoffChangePct": -29.9,
-          "updatedAt": "2026-10-02"
+          "spinoffPriceNow": 154.63,
+          "spinoffChangePct": -29.8,
+          "updatedAt": "2026-10-03"
         }
       ],
-      "lastUpdated": "2026-10-02T18:25:21Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的67.4%，规模不算典型的'机构抛售'目标，上市后表现为-29.9%。",
-        "en": "At roughly 67.4% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.9%."
+        "zh": "分拆标的市值约为母公司的67.0%，规模不算典型的'机构抛售'目标，上市后表现为-29.8%。",
+        "en": "At roughly 67.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.8%."
       }
     },
     {
