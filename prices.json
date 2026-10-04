@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T16:57:31.362756Z",
+  "updated": "2026-10-04T04:07:02.965161Z",
   "quotes": {
     "GOOGL": {
       "c": 343.5,
@@ -190,19 +190,19 @@
       "exitPrice": 505.82,
       "changePct": 66.8
     },
-    "OXY": {
-      "entryQuarter": "2024 Q2",
-      "entryPrice": 57.97,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 61.61,
-      "changePct": 6.3
-    },
     "BAC": {
       "entryQuarter": "2020 Q1",
       "entryPrice": 22.44,
       "exitQuarter": "2026 Q1",
       "exitPrice": 55.2,
       "changePct": 146.0
+    },
+    "OXY": {
+      "entryQuarter": "2024 Q2",
+      "entryPrice": 57.97,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 61.61,
+      "changePct": 6.3
     }
   }
 }
