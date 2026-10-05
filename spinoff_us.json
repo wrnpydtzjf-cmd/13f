@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T17:28:35Z",
-  "dateFrom": "20251004",
-  "dateTo": "20261004",
+  "updatedAt": "2026-10-05T04:04:27Z",
+  "dateFrom": "20251005",
+  "dateTo": "20261005",
   "count": 68,
   "companies": [
     {
@@ -2125,7 +2125,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 154.63,
           "spinoffChangePct": -29.8,
-          "updatedAt": "2026-10-04"
+          "updatedAt": "2026-10-05"
         }
       ],
       "greenblattNote": {
