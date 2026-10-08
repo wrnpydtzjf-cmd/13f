@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-07T19:11:41.797985Z",
+  "updated": "2026-10-08T04:17:56.476550Z",
   "quotes": {
     "HCC": {
-      "c": 89.52,
+      "c": 89.57,
       "h": 91.06,
       "l": 87.93,
-      "o": 90.81,
+      "o": 90.8,
       "pc": 92.42,
-      "t": 1791400275
+      "t": 1791403200
     },
     "RIG": {
-      "c": 5.42,
+      "c": 5.39,
       "h": 5.5,
       "l": 5.32,
-      "o": 5.43,
+      "o": 5.42,
       "pc": 5.4,
-      "t": 1791400287
+      "t": 1791403200
     },
     "AMR": {
-      "c": 169.99,
+      "c": 170.21,
       "h": 174.43,
       "l": 168.2,
-      "o": 173.64,
+      "o": 173.63,
       "pc": 176.98,
-      "t": 1791400281
+      "t": 1791403200
     },
     "KSPI": {
-      "c": 91.82,
-      "h": 93.56,
+      "c": 91.87,
+      "h": 93.55,
       "l": 90.84,
-      "o": 92.71,
+      "o": 92.7,
       "pc": 93.16,
-      "t": 1791400287
+      "t": 1791403200
     }
   },
   "costBasis": {
@@ -99,19 +99,19 @@
     }
   },
   "exitPerf": {
+    "CHK": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 20.38,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 31.08,
+      "changePct": 52.5
+    },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
       "entryPrice": 131.47,
       "exitQuarter": "2016 Q3",
       "exitPrice": 146.28,
       "changePct": 11.3
-    },
-    "C": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 47.97,
-      "exitQuarter": "2015 Q1",
-      "exitPrice": 37.55,
-      "changePct": -21.7
     },
     "GOOG": {
       "entryQuarter": "2015 Q4",
@@ -120,12 +120,12 @@
       "exitPrice": 50.45,
       "changePct": -93.4
     },
-    "CHK": {
+    "C": {
       "entryQuarter": "2013 Q2",
-      "entryPrice": 20.38,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 31.08,
-      "changePct": 52.5
+      "entryPrice": 47.97,
+      "exitQuarter": "2015 Q1",
+      "exitPrice": 37.55,
+      "changePct": -21.7
     },
     "GS": {
       "entryQuarter": "2013 Q2",

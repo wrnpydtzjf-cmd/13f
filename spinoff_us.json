@@ -1,9 +1,214 @@
 {
-  "updatedAt": "2026-10-07T19:25:00Z",
-  "dateFrom": "20251007",
-  "dateTo": "20261007",
+  "updatedAt": "2026-10-08T04:30:07Z",
+  "dateFrom": "20251008",
+  "dateTo": "20261008",
   "count": 69,
   "companies": [
+    {
+      "ticker": "VYLR",
+      "name": "Vylor Inc.  (VYLR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-07",
+          "title": "重大协议签订（2026-10-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "重大协议签订、股东权益变动（2026-10-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "分拆进展公告（2026-10-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "分拆进展公告（2026-09-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-25",
+          "title": "SEC 8-K: Vylor Inc.  (VYLR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2128626",
+      "nameCN": "",
+      "lastUpdated": "2026-10-08T04:31:19Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "CTVA",
+      "name": "Corteva, Inc.  (CTVA)",
+      "spinoffName": "Corteva common stock will trade without an entitlement to receive the Vylor Co",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-07",
+          "title": "股东权益变动、分拆进展公告（2026-10-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "重大协议签订、交割完成（2026-10-05）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "分拆进展公告（2026-10-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "分拆进展公告（2026-09-30）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-25",
+          "title": "分拆进展公告（2026-09-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-24",
+          "title": "分拆进展公告（2026-09-24）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "SEC 8-K: Corteva, Inc.  (CTVA) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "分拆进展公告（2026-09-10）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-31",
+          "title": "分拆进展公告（2026-08-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-20",
+          "title": "重大协议签订、股东权益变动（2026-08-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-06",
+          "title": "投资者关系公告、分拆进展公告（2026-08-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "1755672",
+      "parentMarketCap": 559.8,
+      "nameCN": "",
+      "lastUpdated": "2026-10-08T04:31:19Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
+    {
+      "ticker": "HCWC",
+      "name": "HEALTHY CHOICE WELLNESS CORP.  (HCWC)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-07",
+          "title": "重大协议签订、管理层变动（2026-10-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-21",
+          "title": "重大协议签订、投资者关系公告（2026-09-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "SEC 8-K: HEALTHY CHOICE WELLNESS CORP.  (HCWC) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-08-31",
+          "title": "股东权益变动（2026-08-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-27",
+          "title": "分拆进展公告（2026-08-27）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-13",
+          "title": "分拆进展公告（2026-08-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-06",
+          "title": "重大协议签订、股东权益变动（2026-08-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-03",
+          "title": "重大协议签订（2026-06-03）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-29",
+          "title": "重大协议签订（2026-05-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-17",
+          "title": "重大协议签订（2026-02-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-14",
+          "title": "重大协议签订、股东权益变动（2025-11-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-10-31",
+          "title": "重大协议签订（2025-10-31）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1948864",
+      "parentMarketCap": 0.1,
+      "nameCN": "",
+      "lastUpdated": "2026-10-08T04:31:19Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery, Inc.  (WBD)",
@@ -126,117 +331,6 @@
       "source": "edgar",
       "cik": "866374",
       "parentMarketCap": 436.4,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
-      "ticker": "VYLR",
-      "name": "Vylor Inc.  (VYLR)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-05",
-          "title": "重大协议签订、股东权益变动（2026-10-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-10-01",
-          "title": "分拆进展公告（2026-10-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "分拆进展公告（2026-09-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "SEC 8-K: Vylor Inc.  (VYLR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2128626&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "2128626",
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
-      "ticker": "CTVA",
-      "name": "Corteva, Inc.  (CTVA)",
-      "spinoffName": "Corteva common stock will trade without an entitlement to receive the Vylor Co",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-05",
-          "title": "重大协议签订、交割完成（2026-10-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-10-01",
-          "title": "分拆进展公告（2026-10-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "分拆进展公告（2026-09-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "分拆进展公告（2026-09-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-24",
-          "title": "分拆进展公告（2026-09-24）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "SEC 8-K: Corteva, Inc.  (CTVA) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-09-10",
-          "title": "分拆进展公告（2026-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-31",
-          "title": "分拆进展公告（2026-08-31）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-20",
-          "title": "重大协议签订、股东权益变动（2026-08-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-06",
-          "title": "投资者关系公告、分拆进展公告（2026-08-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1755672",
-      "parentMarketCap": 559.8,
       "nameCN": "",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
@@ -554,82 +648,6 @@
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
-      "ticker": "HCWC",
-      "name": "HEALTHY CHOICE WELLNESS CORP.  (HCWC)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-09-21",
-          "title": "重大协议签订、投资者关系公告（2026-09-21）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-17",
-          "title": "SEC 8-K: HEALTHY CHOICE WELLNESS CORP.  (HCWC) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-08-31",
-          "title": "股东权益变动（2026-08-31）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-27",
-          "title": "分拆进展公告（2026-08-27）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-13",
-          "title": "分拆进展公告（2026-08-13）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-06",
-          "title": "重大协议签订、股东权益变动（2026-08-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-03",
-          "title": "重大协议签订（2026-06-03）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-29",
-          "title": "重大协议签订（2026-05-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-17",
-          "title": "重大协议签订（2026-02-17）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-14",
-          "title": "重大协议签订、股东权益变动（2025-11-14）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-31",
-          "title": "重大协议签订（2025-10-31）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1948864",
-      "parentMarketCap": 0.1,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -2245,7 +2263,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 498.9,
+      "marketCap": 485.2,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2253,17 +2271,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 208.33,
-          "parentChangePct": -8.3,
+          "parentPriceNow": 208.11,
+          "parentChangePct": -8.4,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 152.75,
-          "spinoffChangePct": -30.6,
-          "updatedAt": "2026-10-07"
+          "spinoffPriceNow": 153.07,
+          "spinoffChangePct": -30.5,
+          "updatedAt": "2026-10-08"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.5%，规模不算典型的'机构抛售'目标，上市后表现为-30.6%。",
-        "en": "At roughly 68.5% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.6%."
+        "zh": "分拆标的市值约为母公司的66.6%，规模不算典型的'机构抛售'目标，上市后表现为-30.5%。",
+        "en": "At roughly 66.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.5%."
       }
     },
     {
