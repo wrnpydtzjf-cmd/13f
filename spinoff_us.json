@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:30:07Z",
+  "updatedAt": "2026-10-08T19:20:49Z",
   "dateFrom": "20251008",
   "dateTo": "20261008",
   "count": 69,
@@ -44,7 +44,6 @@
       "source": "edgar",
       "cik": "2128626",
       "nameCN": "",
-      "lastUpdated": "2026-10-08T04:31:19Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -121,7 +120,6 @@
       "cik": "1755672",
       "parentMarketCap": 559.8,
       "nameCN": "",
-      "lastUpdated": "2026-10-08T04:31:19Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -203,7 +201,6 @@
       "cik": "1948864",
       "parentMarketCap": 0.1,
       "nameCN": "",
-      "lastUpdated": "2026-10-08T04:31:19Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2271,17 +2268,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 208.11,
-          "parentChangePct": -8.4,
+          "parentPriceNow": 206.93,
+          "parentChangePct": -8.9,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 153.07,
-          "spinoffChangePct": -30.5,
+          "spinoffPriceNow": 153.805,
+          "spinoffChangePct": -30.1,
           "updatedAt": "2026-10-08"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的66.6%，规模不算典型的'机构抛售'目标，上市后表现为-30.5%。",
-        "en": "At roughly 66.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.5%."
+        "zh": "分拆标的市值约为母公司的66.6%，规模不算典型的'机构抛售'目标，上市后表现为-30.1%。",
+        "en": "At roughly 66.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.1%."
       }
     },
     {
