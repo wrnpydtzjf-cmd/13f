@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-10T04:20:14Z",
+  "updatedAt": "2026-10-10T17:50:30Z",
   "dateFrom": "20251010",
   "dateTo": "20261010",
-  "count": 70,
+  "count": 69,
   "companies": [
     {
       "ticker": "VREOF",
@@ -393,7 +393,7 @@
     {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery, Inc.  (WBD)",
-      "spinoffName": "WBD Co",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -441,16 +441,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=8-K&dateb=&owner=include&count=10"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1437107",
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-10-10T04:20:58Z",
+      "lastUpdated": "2026-10-10T17:51:45Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
@@ -514,58 +514,6 @@
       "cik": "866374",
       "parentMarketCap": 436.4,
       "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
-      "ticker": "MOD",
-      "name": "MODINE MANUFACTURING CO  (MOD)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-01",
-          "title": "重大协议签订、交割完成（2026-10-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-17",
-          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-09-10",
-          "title": "分拆进展公告（2026-09-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-05",
-          "title": "重大协议签订（2026-05-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-29",
-          "title": "SEC 8-K: MODINE MANUFACTURING CO  (MOD) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-12-29",
-          "title": "重大协议签订（2025-12-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=67347&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "67347",
-      "parentMarketCap": 97.0,
-      "nameCN": "莫丁制造",
-      "lastUpdated": "2026-10-10T04:20:58Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -1747,7 +1695,7 @@
     {
       "ticker": "NFLX",
       "name": "NETFLIX INC  (NFLX)",
-      "spinoffName": "WBD Co",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1790,16 +1738,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "1065280",
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-10-10T04:20:58Z",
+      "lastUpdated": "2026-10-10T17:51:45Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
+        "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
       }
     },
     {
