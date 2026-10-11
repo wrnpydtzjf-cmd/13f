@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:56:41Z",
+  "updatedAt": "2026-10-11T18:06:15Z",
   "dateFrom": "20251011",
   "dateTo": "20261011",
   "count": 69,
@@ -1066,7 +1066,6 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
-      "lastUpdated": "2026-10-11T03:57:27Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
