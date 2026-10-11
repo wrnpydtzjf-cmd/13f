@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-10T17:50:30Z",
-  "dateFrom": "20251010",
-  "dateTo": "20261010",
+  "updatedAt": "2026-10-11T03:56:41Z",
+  "dateFrom": "20251011",
+  "dateTo": "20261011",
   "count": 69,
   "companies": [
     {
@@ -447,7 +447,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-10-10T17:51:45Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -1059,11 +1058,6 @@
           "date": "2025-11-03",
           "title": "重大协议签订、投资者关系公告（2025-11-03）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-10",
-          "title": "分拆进展公告（2025-10-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -1072,6 +1066,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
+      "lastUpdated": "2026-10-11T03:57:27Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1744,7 +1739,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-10-10T17:51:45Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2275,7 +2269,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 157.94,
           "spinoffChangePct": -28.3,
-          "updatedAt": "2026-10-10"
+          "updatedAt": "2026-10-11"
         }
       ],
       "greenblattNote": {
