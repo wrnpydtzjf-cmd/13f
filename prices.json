@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:32:32.997562Z",
+  "updated": "2026-10-13T05:16:55.301175Z",
   "quotes": {
     "GOOGL": {
       "c": 352.72,
@@ -176,19 +176,12 @@
     }
   },
   "exitPerf": {
-    "TME": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 10.63,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 9.92,
-      "changePct": -6.7
-    },
-    "BAC": {
-      "entryQuarter": "2020 Q1",
-      "entryPrice": 22.44,
+    "OXY": {
+      "entryQuarter": "2024 Q2",
+      "entryPrice": 57.97,
       "exitQuarter": "2026 Q1",
-      "exitPrice": 55.2,
-      "changePct": 146.0
+      "exitPrice": 61.61,
+      "changePct": 6.3
     },
     "BRK.B": {
       "entryQuarter": "2022 Q1",
@@ -197,12 +190,19 @@
       "exitPrice": 505.82,
       "changePct": 66.8
     },
-    "OXY": {
-      "entryQuarter": "2024 Q2",
-      "entryPrice": 57.97,
+    "BAC": {
+      "entryQuarter": "2020 Q1",
+      "entryPrice": 22.44,
       "exitQuarter": "2026 Q1",
-      "exitPrice": 61.61,
-      "changePct": 6.3
+      "exitPrice": 55.2,
+      "changePct": 146.0
+    },
+    "TME": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 10.63,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 9.92,
+      "changePct": -6.7
     }
   }
 }
