@@ -1,9 +1,81 @@
 {
-  "updatedAt": "2026-10-14T03:35:18Z",
+  "updatedAt": "2026-10-14T17:58:43Z",
   "dateFrom": "20251014",
   "dateTo": "20261014",
   "count": 69,
   "companies": [
+    {
+      "ticker": "FLEX",
+      "name": "FLEX LTD.  (FLEX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-14",
+          "title": "重大协议签订、交割完成（2026-10-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "SEC 8-K: FLEX LTD.  (FLEX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "重大协议签订（2026-10-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "管理层变动、分拆进展公告（2026-09-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-04",
+          "title": "重大协议签订、分拆进展公告（2026-09-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-07",
+          "title": "分拆进展公告（2026-08-07）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-29",
+          "title": "分拆进展公告（2026-07-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "重大协议签订（2026-06-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-04",
+          "title": "重大协议签订、投资者关系公告（2026-05-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-13",
+          "title": "重大协议签订、分拆进展公告（2025-11-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "866374",
+      "parentMarketCap": 436.4,
+      "nameCN": "",
+      "lastUpdated": "2026-10-14T18:00:00Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "TRAX",
       "name": "First Tracks Biotherapeutics, Inc.  (TRAX)",
@@ -502,72 +574,6 @@
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
-      }
-    },
-    {
-      "ticker": "FLEX",
-      "name": "FLEX LTD.  (FLEX)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-05",
-          "title": "SEC 8-K: FLEX LTD.  (FLEX) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "重大协议签订（2026-10-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "管理层变动、分拆进展公告（2026-09-15）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "重大协议签订、分拆进展公告（2026-09-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-08-07",
-          "title": "分拆进展公告（2026-08-07）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-07-29",
-          "title": "分拆进展公告（2026-07-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-02",
-          "title": "重大协议签订（2026-06-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-04",
-          "title": "重大协议签订、投资者关系公告（2026-05-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-13",
-          "title": "重大协议签订、分拆进展公告（2025-11-13）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=866374&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "866374",
-      "parentMarketCap": 436.4,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -2315,17 +2321,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 207.29,
-          "parentChangePct": -8.7,
+          "parentPriceNow": 207.95,
+          "parentChangePct": -8.4,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 158.18,
-          "spinoffChangePct": -28.2,
+          "spinoffPriceNow": 155.54,
+          "spinoffChangePct": -29.4,
           "updatedAt": "2026-10-14"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.8%，规模不算典型的'机构抛售'目标，上市后表现为-28.2%。",
-        "en": "At roughly 68.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.2%."
+        "zh": "分拆标的市值约为母公司的68.8%，规模不算典型的'机构抛售'目标，上市后表现为-29.4%。",
+        "en": "At roughly 68.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.4%."
       }
     },
     {
