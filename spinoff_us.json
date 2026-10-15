@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:12:11Z",
+  "updatedAt": "2026-10-15T17:49:01Z",
   "dateFrom": "20251015",
   "dateTo": "20261015",
   "count": 69,
@@ -370,7 +370,6 @@
       "aiSummary": "维雷奥增长推进分拆，子公司将独立运营，预计近期完成 SEC 分拆申报文件提交。",
       "parentMarketCap": 7.0,
       "nameCN": "维雷奥增长公司",
-      "lastUpdated": "2026-10-15T03:13:01Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2308,7 +2307,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 501.4,
+      "marketCap": 496.8,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2316,17 +2315,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 207.61,
-          "parentChangePct": -8.6,
+          "parentPriceNow": 208.36,
+          "parentChangePct": -8.3,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 156.73,
-          "spinoffChangePct": -28.8,
+          "spinoffPriceNow": 164.65,
+          "spinoffChangePct": -25.2,
           "updatedAt": "2026-10-15"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.8%，规模不算典型的'机构抛售'目标，上市后表现为-28.8%。",
-        "en": "At roughly 68.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.8%."
+        "zh": "分拆标的市值约为母公司的68.2%，规模不算典型的'机构抛售'目标，上市后表现为-25.2%。",
+        "en": "At roughly 68.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.2%."
       }
     },
     {
