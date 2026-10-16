@@ -1,6 +1,6 @@
 {
   "quarter": "2026 Q1",
-  "updatedAt": "2026-10-15T17:36:09Z",
+  "updatedAt": "2026-10-16T02:59:14Z",
   "currency": "HKD",
   "quotes": {
     "0709.HK": {
@@ -8,15 +8,15 @@
       "currency": "HKD"
     },
     "1382.HK": {
-      "c": 0.825,
+      "c": 0.835,
       "currency": "HKD"
     },
     "3828.HK": {
-      "c": 0.7,
+      "c": 0.69,
       "currency": "HKD"
     },
     "1977.HK": {
-      "c": 0.915,
+      "c": 0.92,
       "currency": "HKD"
     },
     "0057.HK": {
@@ -76,7 +76,7 @@
       "currency": "HKD"
     },
     "0518.HK": {
-      "c": 0.166,
+      "c": 0.155,
       "currency": "HKD"
     },
     "0125.HK": {
@@ -84,7 +84,7 @@
       "currency": "HKD"
     },
     "0333.HK": {
-      "c": 0.207,
+      "c": 0.185,
       "currency": "HKD"
     },
     "0483.HK": {

@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-10-15T17:49:01Z",
-  "dateFrom": "20251015",
-  "dateTo": "20261015",
+  "updatedAt": "2026-10-16T03:10:25Z",
+  "dateFrom": "20251016",
+  "dateTo": "20261016",
   "count": 69,
   "companies": [
+    {
+      "ticker": "TRAX",
+      "name": "First Tracks Biotherapeutics, Inc.  (TRAX)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-15",
+          "title": "重大协议签订、投资者关系公告（2026-10-15）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-13",
+          "title": "投资者关系公告、分拆进展公告（2026-10-13）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-22",
+          "title": "重大协议签订（2026-06-22）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-20",
+          "title": "重大协议签订、交割完成（2026-04-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-04-03",
+          "title": "SEC 8-K: First Tracks Biotherapeutics, Inc.  (TRAX) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "2091349",
+      "aiSummary": "First Tracks 生物完成分拆交割，预计 2026 年 6 月 22 日签署相关重大协议。",
+      "parentMarketCap": 6.7,
+      "nameCN": "First Tracks生物",
+      "lastUpdated": "2026-10-16T03:11:22Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "FLEX",
       "name": "FLEX LTD.  (FLEX)",
@@ -70,48 +118,6 @@
       "cik": "866374",
       "parentMarketCap": 436.4,
       "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
-      "ticker": "TRAX",
-      "name": "First Tracks Biotherapeutics, Inc.  (TRAX)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-13",
-          "title": "投资者关系公告、分拆进展公告（2026-10-13）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-22",
-          "title": "重大协议签订（2026-06-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-20",
-          "title": "重大协议签订、交割完成（2026-04-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-03",
-          "title": "SEC 8-K: First Tracks Biotherapeutics, Inc.  (TRAX) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091349&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "2091349",
-      "aiSummary": "First Tracks 生物完成分拆交割，预计 2026 年 6 月 22 日签署相关重大协议。",
-      "parentMarketCap": 6.7,
-      "nameCN": "First Tracks生物",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -798,6 +804,59 @@
       }
     },
     {
+      "ticker": "VOYG",
+      "name": "Voyager Technologies, Inc./DE  (VOYG)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-09-28",
+          "title": "重大协议签订、分拆进展公告（2026-09-28）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-08-14",
+          "title": "分拆进展公告（2026-08-14）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "重大协议签订（2026-07-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-18",
+          "title": "股东权益变动（2026-06-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-25",
+          "title": "重大协议签订、分拆进展公告（2025-11-25）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-13",
+          "title": "SEC 8-K: Voyager Technologies, Inc./DE  (VOYG) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1788060",
+      "aiSummary": "航海者技术公司启动纯分拆，将专注于提供先进网络安全解决方案服务。",
+      "parentMarketCap": 19.7,
+      "nameCN": "航海者技术公司",
+      "lastUpdated": "2026-10-16T03:11:22Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
       "ticker": "HCTI",
       "name": "Healthcare Triangle, Inc.  (HCTI)",
       "spinoffName": "Teyame from the Co",
@@ -917,11 +976,6 @@
           "date": "2025-11-03",
           "title": "SEC 8-K: DuPont de Nemours, Inc.  (DD) spin-off filing",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-15",
-          "title": "分拆进展公告（2025-10-15）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1666700&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -930,6 +984,7 @@
       "aiSummary": "杜邦推进换股分拆，子公司将独立运营，预计 2026 年 6 月完成权益变动。",
       "parentMarketCap": 190.5,
       "nameCN": "杜邦",
+      "lastUpdated": "2026-10-16T03:11:22Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1222,53 +1277,6 @@
       "aiSummary": "法斯特利推进分拆，旗下 Fastly 边缘计算服务业务将独立上市运营。",
       "parentMarketCap": 28.4,
       "nameCN": "法斯特利公司",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
-      "ticker": "VOYG",
-      "name": "Voyager Technologies, Inc./DE  (VOYG)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-08-14",
-          "title": "分拆进展公告（2026-08-14）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-07-08",
-          "title": "重大协议签订（2026-07-08）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-18",
-          "title": "股东权益变动（2026-06-18）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-25",
-          "title": "重大协议签订、分拆进展公告（2025-11-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-13",
-          "title": "SEC 8-K: Voyager Technologies, Inc./DE  (VOYG) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1788060",
-      "aiSummary": "航海者技术公司启动纯分拆，将专注于提供先进网络安全解决方案服务。",
-      "parentMarketCap": 19.7,
-      "nameCN": "航海者技术公司",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2307,7 +2315,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 496.8,
+      "marketCap": 517.0,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2315,17 +2323,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 208.36,
-          "parentChangePct": -8.3,
+          "parentPriceNow": 210.5,
+          "parentChangePct": -7.3,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 164.65,
-          "spinoffChangePct": -25.2,
-          "updatedAt": "2026-10-15"
+          "spinoffPriceNow": 163.11,
+          "spinoffChangePct": -25.9,
+          "updatedAt": "2026-10-16"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.2%，规模不算典型的'机构抛售'目标，上市后表现为-25.2%。",
-        "en": "At roughly 68.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.2%."
+        "zh": "分拆标的市值约为母公司的71.0%，规模不算典型的'机构抛售'目标，上市后表现为-25.9%。",
+        "en": "At roughly 71.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.9%."
       }
     },
     {
