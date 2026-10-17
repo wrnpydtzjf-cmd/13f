@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-16T17:22:49Z",
-  "dateFrom": "20251016",
-  "dateTo": "20261016",
+  "updatedAt": "2026-10-17T03:02:37Z",
+  "dateFrom": "20251017",
+  "dateTo": "20261017",
   "count": 69,
   "companies": [
     {
@@ -2210,16 +2210,6 @@
           "date": "2025-11-17",
           "title": "分拆进展公告（2025-11-17）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-22",
-          "title": "分拆进展公告（2025-09-22）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-05",
-          "title": "重大协议签订（2025-09-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -2228,6 +2218,7 @@
       "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
       "parentMarketCap": 85.2,
       "nameCN": "Hims & Hers健康",
+      "lastUpdated": "2026-10-17T03:03:48Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2294,11 +2285,6 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
         },
         {
-          "date": "2025-10-16",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
           "date": "2025-02-05",
           "title": "Honeywell separates into three independent companies"
         },
@@ -2320,17 +2306,18 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 211.795,
-          "parentChangePct": -6.7,
+          "parentPriceNow": 211.41,
+          "parentChangePct": -6.9,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 168.355,
-          "spinoffChangePct": -23.5,
-          "updatedAt": "2026-10-16"
+          "spinoffPriceNow": 168.09,
+          "spinoffChangePct": -23.7,
+          "updatedAt": "2026-10-17"
         }
       ],
+      "lastUpdated": "2026-10-17T03:03:48Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.0%，规模不算典型的'机构抛售'目标，上市后表现为-23.5%。",
-        "en": "At roughly 71.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.5%."
+        "zh": "分拆标的市值约为母公司的71.0%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
+        "en": "At roughly 71.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
       }
     },
     {
