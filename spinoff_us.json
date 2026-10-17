@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T03:02:37Z",
+  "updatedAt": "2026-10-17T16:19:46Z",
   "dateFrom": "20251017",
   "dateTo": "20261017",
   "count": 69,
@@ -2218,7 +2218,6 @@
       "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
       "parentMarketCap": 85.2,
       "nameCN": "Hims & Hers健康",
-      "lastUpdated": "2026-10-17T03:03:48Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2314,7 +2313,6 @@
           "updatedAt": "2026-10-17"
         }
       ],
-      "lastUpdated": "2026-10-17T03:03:48Z",
       "greenblattNote": {
         "zh": "分拆标的市值约为母公司的71.0%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
         "en": "At roughly 71.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
