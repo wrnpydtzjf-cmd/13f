@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T16:19:46Z",
-  "dateFrom": "20251017",
-  "dateTo": "20261017",
+  "updatedAt": "2026-10-18T03:03:52Z",
+  "dateFrom": "20251018",
+  "dateTo": "20261018",
   "count": 69,
   "companies": [
     {
@@ -1128,7 +1128,7 @@
       "name": "Sable Offshore Corp.  (SOC)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "carveout",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -1170,6 +1170,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
+      "lastUpdated": "2026-10-18T03:05:04Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2297,7 +2298,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 517.0,
+      "marketCap": 532.8,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2310,12 +2311,12 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 168.09,
           "spinoffChangePct": -23.7,
-          "updatedAt": "2026-10-17"
+          "updatedAt": "2026-10-18"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.0%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
-        "en": "At roughly 71.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
+        "zh": "分拆标的市值约为母公司的73.2%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
+        "en": "At roughly 73.2% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
       }
     },
     {
@@ -3080,7 +3081,6 @@
       "aiSummary": "ProPetro 推进纯分拆，子公司聚焦石油天然气服务，预计 2026 年 5 月完成。",
       "parentMarketCap": 13.3,
       "nameCN": "ProPetro控股",
-      "lastUpdated": "2026-05-07T00:00:00Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
