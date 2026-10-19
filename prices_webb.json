@@ -1,10 +1,10 @@
 {
   "quarter": "2026 Q1",
-  "updatedAt": "2026-10-18T16:21:54Z",
+  "updatedAt": "2026-10-19T03:05:34Z",
   "currency": "HKD",
   "quotes": {
     "0709.HK": {
-      "c": 1.305,
+      "c": 1.31,
       "currency": "HKD"
     },
     "1382.HK": {
@@ -52,7 +52,7 @@
       "currency": "HKD"
     },
     "1120.HK": {
-      "c": 0.56,
+      "c": 0.58,
       "currency": "HKD"
     },
     "1397.HK": {
