@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-19T18:58:32.492162Z",
+  "updated": "2026-10-20T03:13:43.478559Z",
   "quotes": {
     "HCC": {
-      "c": 85.46,
+      "c": 84.98,
       "h": 90.78,
-      "l": 84.75,
-      "o": 89.75,
+      "l": 84.42,
+      "o": 89.49,
       "pc": 89.94,
-      "t": 1792436287
+      "t": 1792440000
     },
     "RIG": {
-      "c": 5.95,
-      "h": 5.95,
+      "c": 5.89,
+      "h": 5.98,
       "l": 5.69,
       "o": 5.72,
       "pc": 5.62,
-      "t": 1792436284
+      "t": 1792440000
     },
     "AMR": {
-      "c": 160.02,
+      "c": 160.09,
       "h": 167.91,
       "l": 158.33,
-      "o": 167.65,
+      "o": 167.8,
       "pc": 166.73,
-      "t": 1792436208
+      "t": 1792440000
     },
     "KSPI": {
-      "c": 92.16,
-      "h": 93.32,
+      "c": 92.62,
+      "h": 93.01,
       "l": 91.17,
-      "o": 93.31,
+      "o": 93.01,
       "pc": 93.18,
-      "t": 1792436121
+      "t": 1792440000
     }
   },
   "costBasis": {
@@ -106,20 +106,6 @@
       "exitPrice": 37.55,
       "changePct": -21.7
     },
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
-    },
-    "GS": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 151.25,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 127.4,
-      "changePct": -15.8
-    },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
       "entryPrice": 131.47,
@@ -127,12 +113,26 @@
       "exitPrice": 146.28,
       "changePct": 11.3
     },
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
+    },
     "CHK": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 20.38,
       "exitQuarter": "2014 Q2",
       "exitPrice": 31.08,
       "changePct": 52.5
+    },
+    "GS": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 151.25,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 127.4,
+      "changePct": -15.8
     }
   }
 }
