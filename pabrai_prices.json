@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-22T03:07:40.602634Z",
+  "updated": "2026-10-22T17:51:03.732025Z",
   "quotes": {
     "HCC": {
-      "c": 84.21,
-      "h": 85.37,
-      "l": 83.1,
-      "o": 84.13,
-      "pc": 84.13,
-      "t": 1792612800
+      "c": 83.64,
+      "h": 84.87,
+      "l": 82.55,
+      "o": 83.46,
+      "pc": 84.21,
+      "t": 1792691313
     },
     "RIG": {
-      "c": 6.04,
-      "h": 6.05,
-      "l": 5.79,
-      "o": 5.83,
-      "pc": 5.82,
-      "t": 1792612800
+      "c": 6.05,
+      "h": 6.09,
+      "l": 5.75,
+      "o": 6.05,
+      "pc": 6.04,
+      "t": 1792691428
     },
     "AMR": {
-      "c": 159.87,
-      "h": 161.15,
-      "l": 158.84,
-      "o": 159.35,
-      "pc": 158.81,
-      "t": 1792612800
+      "c": 162.03,
+      "h": 164.13,
+      "l": 155.02,
+      "o": 159.5,
+      "pc": 159.87,
+      "t": 1792691286
     },
     "KSPI": {
-      "c": 93.51,
-      "h": 94.03,
-      "l": 91.66,
-      "o": 93.3,
-      "pc": 92.94,
-      "t": 1792612800
+      "c": 91.63,
+      "h": 93.31,
+      "l": 90.31,
+      "o": 92.81,
+      "pc": 93.51,
+      "t": 1792691402
     }
   },
   "costBasis": {
@@ -99,6 +99,13 @@
     }
   },
   "exitPerf": {
+    "C": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 47.97,
+      "exitQuarter": "2015 Q1",
+      "exitPrice": 37.55,
+      "changePct": -21.7
+    },
     "CHK": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 20.38,
@@ -106,19 +113,12 @@
       "exitPrice": 31.08,
       "changePct": 52.5
     },
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
-    },
-    "C": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 47.97,
-      "exitQuarter": "2015 Q1",
-      "exitPrice": 37.55,
-      "changePct": -21.7
+    "BRK.B": {
+      "entryQuarter": "2014 Q1",
+      "entryPrice": 131.47,
+      "exitQuarter": "2016 Q3",
+      "exitPrice": 146.28,
+      "changePct": 11.3
     },
     "GS": {
       "entryQuarter": "2013 Q2",
@@ -127,12 +127,12 @@
       "exitPrice": 127.4,
       "changePct": -15.8
     },
-    "BRK.B": {
-      "entryQuarter": "2014 Q1",
-      "entryPrice": 131.47,
-      "exitQuarter": "2016 Q3",
-      "exitPrice": 146.28,
-      "changePct": 11.3
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
     }
   }
 }
