@@ -1,9 +1,72 @@
 {
-  "updatedAt": "2026-10-23T03:24:13Z",
+  "updatedAt": "2026-10-23T17:52:52Z",
   "dateFrom": "20251023",
   "dateTo": "20261023",
   "count": 70,
   "companies": [
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc.  (SPGI)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-23",
+          "title": "SEC 8-K: S&P Global Inc.  (SPGI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "SEC 8-K: S&P Global Inc.  (SPGI) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "重大协议签订、交割完成（2026-07-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "分拆进展公告（2026-05-21）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "分拆进展公告（2026-05-20）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-18",
+          "title": "分拆进展公告（2026-05-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-04",
+          "title": "重大协议签订（2025-12-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-12-01",
+          "title": "分拆进展公告（2025-12-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "completed",
+      "source": "edgar",
+      "cik": "64040",
+      "aiSummary": "标普全球完成分拆，旗下 S&P Global Inc. 业务独立运营，预计 2026 年 7 月 2 日交割。",
+      "parentMarketCap": 1302.1,
+      "nameCN": "",
+      "lastUpdated": "2026-10-23T17:53:43Z",
+      "greenblattNote": {
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+      }
+    },
     {
       "ticker": "TRAX",
       "name": "First Tracks Biotherapeutics, Inc.  (TRAX)",
@@ -380,7 +443,6 @@
       "cik": "1649094",
       "parentMarketCap": 98.8,
       "nameCN": "",
-      "lastUpdated": "2026-10-23T03:25:06Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1175,7 +1237,7 @@
       "name": "Sable Offshore Corp.  (SOC)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "carveout",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -1217,7 +1279,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
-      "lastUpdated": "2026-10-23T03:25:06Z",
+      "lastUpdated": "2026-10-23T17:53:43Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1404,11 +1466,6 @@
           "date": "2025-11-07",
           "title": "重大协议签订（2025-11-07）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-09-24",
-          "title": "重大协议签订（2025-09-24）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -1417,6 +1474,7 @@
       "aiSummary": "纽斯凯尔动力推进纯分拆进程，旨在独立运营小型模块化反应堆业务。",
       "parentMarketCap": 35.7,
       "nameCN": "纽斯凯尔动力",
+      "lastUpdated": "2026-10-23T17:53:43Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2109,63 +2167,6 @@
       }
     },
     {
-      "ticker": "SPGI",
-      "name": "S&P Global Inc.  (SPGI)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-07-06",
-          "title": "SEC 8-K: S&P Global Inc.  (SPGI) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "重大协议签订、交割完成（2026-07-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-21",
-          "title": "分拆进展公告（2026-05-21）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-20",
-          "title": "分拆进展公告（2026-05-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-18",
-          "title": "分拆进展公告（2026-05-18）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-12-04",
-          "title": "重大协议签订（2025-12-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-12-01",
-          "title": "分拆进展公告（2025-12-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64040&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "64040",
-      "aiSummary": "标普全球完成分拆，旗下 S&P Global Inc. 业务独立运营，预计 2026 年 7 月 2 日交割。",
-      "parentMarketCap": 1302.1,
-      "nameCN": "",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
-      }
-    },
-    {
       "ticker": "ENTA",
       "name": "ENANTA PHARMACEUTICALS INC  (ENTA)",
       "spinoffName": "",
@@ -2329,7 +2330,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 514.9,
+      "marketCap": 516.7,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2337,18 +2338,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 218.31,
-          "parentChangePct": -3.9,
+          "parentPriceNow": 219.53,
+          "parentChangePct": -3.3,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 163.02,
-          "spinoffChangePct": -26.0,
+          "spinoffPriceNow": 166.73,
+          "spinoffChangePct": -24.3,
           "updatedAt": "2026-10-23"
         }
       ],
-      "lastUpdated": "2026-10-23T03:25:06Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的70.7%，规模不算典型的'机构抛售'目标，上市后表现为-26.0%。",
-        "en": "At roughly 70.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -26.0%."
+        "zh": "分拆标的市值约为母公司的70.9%，规模不算典型的'机构抛售'目标，上市后表现为-24.3%。",
+        "en": "At roughly 70.9% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.3%."
       }
     },
     {
