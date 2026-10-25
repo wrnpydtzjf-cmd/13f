@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:03:59.455814Z",
+  "updated": "2026-10-25T17:00:38.620266Z",
   "quotes": {
     "?ICON PUB LTD CO": {
       "error": true
@@ -846,12 +846,19 @@
       "exitPrice": 183.85,
       "changePct": 109.4
     },
-    "C": {
-      "entryQuarter": "2018 Q3",
-      "entryPrice": 49.99,
-      "exitQuarter": "2019 Q3",
-      "exitPrice": 56.21,
-      "changePct": 12.4
+    "SCHW": {
+      "entryQuarter": "2020 Q1",
+      "entryPrice": 51.06,
+      "exitQuarter": "2023 Q1",
+      "exitPrice": 78.67,
+      "changePct": 54.1
+    },
+    "ORCL": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 25.93,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 35.54,
+      "changePct": 37.1
     },
     "WFC": {
       "entryQuarter": "2023 Q2",
@@ -867,26 +874,19 @@
       "exitPrice": 57.32,
       "changePct": 88.4
     },
-    "FAF": {
+    "APO": {
       "entryQuarter": "2021 Q3",
-      "entryPrice": 57.96,
+      "entryPrice": 106.4,
       "exitQuarter": "2026 Q1",
-      "exitPrice": 68.16,
-      "changePct": 17.6
+      "exitPrice": 143.42,
+      "changePct": 34.8
     },
-    "SCHW": {
-      "entryQuarter": "2020 Q1",
-      "entryPrice": 51.06,
-      "exitQuarter": "2023 Q1",
-      "exitPrice": 78.67,
-      "changePct": 54.1
-    },
-    "DLTR": {
-      "entryQuarter": "2019 Q4",
-      "entryPrice": 70.03,
-      "exitQuarter": "2024 Q3",
-      "exitPrice": 104.01,
-      "changePct": 48.5
+    "C": {
+      "entryQuarter": "2018 Q3",
+      "entryPrice": 49.99,
+      "exitQuarter": "2019 Q3",
+      "exitPrice": 56.21,
+      "changePct": 12.4
     },
     "BRK.B": {
       "entryQuarter": "2019 Q2",
@@ -895,19 +895,19 @@
       "exitPrice": 297.02,
       "changePct": 54.5
     },
-    "ORCL": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 25.93,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 35.54,
-      "changePct": 37.1
+    "DLTR": {
+      "entryQuarter": "2019 Q4",
+      "entryPrice": 70.03,
+      "exitQuarter": "2024 Q3",
+      "exitPrice": 104.01,
+      "changePct": 48.5
     },
-    "APO": {
+    "FAF": {
       "entryQuarter": "2021 Q3",
-      "entryPrice": 106.4,
+      "entryPrice": 57.96,
       "exitQuarter": "2026 Q1",
-      "exitPrice": 143.42,
-      "changePct": 34.8
+      "exitPrice": 68.16,
+      "changePct": 17.6
     }
   }
 }
