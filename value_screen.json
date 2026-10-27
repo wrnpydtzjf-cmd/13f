@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T03:40:26.844670+00:00",
+  "generatedAt": "2026-10-27T18:39:41.724507+00:00",
   "candidates": [
     {
       "ticker": "KHC",
       "name": "KRAFT HEINZ CO",
       "cnName": "卡夫亨氏",
       "sector": "消费",
-      "mos": 49.7,
-      "price": 24.73,
+      "mos": 50.9,
+      "price": 24.14,
       "buy": 49.17,
       "atAvg": 49.17,
       "investors": [
@@ -26,8 +26,8 @@
       "name": "LENNAR CORP",
       "cnName": "莱纳建筑",
       "sector": "工业",
-      "mos": 21.3,
-      "price": 83.98,
+      "mos": 21.5,
+      "price": 83.8,
       "buy": 106.73,
       "atAvg": 116.76,
       "investors": [
@@ -46,8 +46,8 @@
       "name": "HERTZ GLOBAL HLDGS INC",
       "cnName": "赫兹全球控股",
       "sector": "消费",
-      "mos": 55.1,
-      "price": 1.94,
+      "mos": 53.2,
+      "price": 2.02,
       "buy": 4.32,
       "atAvg": 3.5,
       "investors": [
@@ -66,8 +66,8 @@
       "name": "NUVATION BIO INC",
       "cnName": "努瓦生科",
       "sector": "医药",
-      "mos": 51.8,
-      "price": 4.51,
+      "mos": 52.5,
+      "price": 4.44,
       "buy": 9.35,
       "atAvg": 9.35,
       "investors": [
@@ -86,8 +86,8 @@
       "name": "BROOKFIELD CORP",
       "cnName": "布鲁克菲尔德",
       "sector": "金融服务",
-      "mos": 11.5,
-      "price": 37.95,
+      "mos": 11.0,
+      "price": 38.16,
       "buy": 42.88,
       "atAvg": 26.94,
       "investors": [
@@ -113,8 +113,8 @@
       "name": "WHIRLPOOL CORP",
       "cnName": "惠而浦",
       "sector": "消费",
-      "mos": 66.6,
-      "price": 26.45,
+      "mos": 66.3,
+      "price": 26.75,
       "buy": 79.27,
       "atAvg": 78.95,
       "investors": [
@@ -133,8 +133,8 @@
       "name": "BUILDERS FIRSTSOURCE INC",
       "cnName": "建筑商FirstSource",
       "sector": "工业",
-      "mos": 43.7,
-      "price": 56.21,
+      "mos": 43.4,
+      "price": 56.51,
       "buy": 99.8,
       "atAvg": 116.72,
       "investors": [
@@ -153,8 +153,8 @@
       "name": "HDFC BANK LTD",
       "cnName": "印度住房金融",
       "sector": "金融/银行",
-      "mos": 37.7,
-      "price": 21.71,
+      "mos": 38.4,
+      "price": 21.45,
       "buy": 34.83,
       "atAvg": 28.29,
       "investors": [
@@ -169,12 +169,52 @@
       "totalHolders": 1
     },
     {
+      "ticker": "SHEN",
+      "name": "SHENANDOAH TELECOMMUNICATION",
+      "cnName": "谢南多厄电信",
+      "sector": "通讯",
+      "mos": 28.0,
+      "price": 9.99,
+      "buy": 13.87,
+      "atAvg": 13.86,
+      "investors": [
+        {
+          "id": "hawkins",
+          "name": "梅森·霍金斯",
+          "nameEn": "Mason Hawkins",
+          "weight": 2.1,
+          "chg": "added"
+        }
+      ],
+      "totalHolders": 1
+    },
+    {
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP",
+      "cnName": "公平信息公司",
+      "sector": "科技",
+      "mos": 35.9,
+      "price": 699.42,
+      "buy": 1091.53,
+      "atAvg": 1312.13,
+      "investors": [
+        {
+          "id": "akre",
+          "name": "查克·阿克瑞",
+          "nameEn": "Chuck Akre",
+          "weight": 8.4,
+          "chg": "hold"
+        }
+      ],
+      "totalHolders": 1
+    },
+    {
       "ticker": "GDS",
       "name": "GDS HLDGS LTD",
       "cnName": "万国数据",
       "sector": "科技",
-      "mos": 27.7,
-      "price": 22.81,
+      "mos": 27.8,
+      "price": 22.76,
       "buy": 31.54,
       "atAvg": 10.85,
       "investors": [
@@ -194,7 +234,7 @@
       "cnName": "百度",
       "sector": "互联网",
       "mos": 27.5,
-      "price": 77.85,
+      "price": 77.93,
       "buy": 107.42,
       "atAvg": 104.16,
       "investors": [
@@ -209,52 +249,12 @@
       "totalHolders": 1
     },
     {
-      "ticker": "FICO",
-      "name": "FAIR ISAAC CORP",
-      "cnName": "公平信息公司",
-      "sector": "科技",
-      "mos": 35.1,
-      "price": 708.07,
-      "buy": 1091.53,
-      "atAvg": 1312.13,
-      "investors": [
-        {
-          "id": "akre",
-          "name": "查克·阿克瑞",
-          "nameEn": "Chuck Akre",
-          "weight": 8.4,
-          "chg": "hold"
-        }
-      ],
-      "totalHolders": 1
-    },
-    {
-      "ticker": "SHEN",
-      "name": "SHENANDOAH TELECOMMUNICATION",
-      "cnName": "谢南多厄电信",
-      "sector": "通讯",
-      "mos": 26.9,
-      "price": 10.14,
-      "buy": 13.87,
-      "atAvg": 13.86,
-      "investors": [
-        {
-          "id": "hawkins",
-          "name": "梅森·霍金斯",
-          "nameEn": "Mason Hawkins",
-          "weight": 2.1,
-          "chg": "added"
-        }
-      ],
-      "totalHolders": 1
-    },
-    {
       "ticker": "MGM",
       "name": "MGM RESORTS INTERNATIONAL",
       "cnName": "米高梅国际度假",
       "sector": "娱乐",
-      "mos": 23.2,
-      "price": 28.54,
+      "mos": 24.7,
+      "price": 28,
       "buy": 37.16,
       "atAvg": 37.11,
       "investors": [
@@ -293,8 +293,8 @@
       "name": "NRG ENERGY INC",
       "cnName": "NRG能源",
       "sector": "能源",
-      "mos": 26.2,
-      "price": 93.61,
+      "mos": 24.8,
+      "price": 95.37,
       "buy": 126.76,
       "atAvg": 80.6,
       "investors": [
@@ -309,32 +309,12 @@
       "totalHolders": 1
     },
     {
-      "ticker": "ABG",
-      "name": "ASBURY AUTOMOTIVE GROUP INC",
-      "cnName": "阿萨比汽车集团",
-      "sector": "消费",
-      "mos": 22.1,
-      "price": 172.96,
-      "buy": 221.91,
-      "atAvg": 60.59,
-      "investors": [
-        {
-          "id": "abrams",
-          "name": "大卫·艾布拉姆斯",
-          "nameEn": "David Abrams",
-          "weight": 7.9,
-          "chg": "hold"
-        }
-      ],
-      "totalHolders": 1
-    },
-    {
       "ticker": "ENOV",
       "name": "ENOVIS CORPORATION",
       "cnName": "恩诺维斯",
       "sector": "医药",
-      "mos": 21.4,
-      "price": 21.16,
+      "mos": 18.5,
+      "price": 21.95,
       "buy": 26.92,
       "atAvg": 37.92,
       "investors": [
@@ -353,8 +333,8 @@
       "name": "AUTONATION INC",
       "cnName": "奥托纳森",
       "sector": "消费",
-      "mos": 17.3,
-      "price": 160.2,
+      "mos": 16.0,
+      "price": 162.85,
       "buy": 193.8,
       "atAvg": 153.6,
       "investors": [
@@ -369,32 +349,12 @@
       "totalHolders": 1
     },
     {
-      "ticker": "SEG",
-      "name": "SEAPORT ENTMT GROUP INC",
-      "cnName": "Seaport 娱乐集团",
-      "sector": "地产",
-      "mos": 15.1,
-      "price": 22.6,
-      "buy": 26.61,
-      "atAvg": 25.86,
-      "investors": [
-        {
-          "id": "ackman",
-          "name": "比尔·阿克曼",
-          "nameEn": "Bill Ackman",
-          "weight": 0.8,
-          "chg": "hold"
-        }
-      ],
-      "totalHolders": 1
-    },
-    {
       "ticker": "UHAL.B",
       "name": "U HAUL HOLDING COMPANY",
       "cnName": "U HAUL HOLDING COMPANY",
       "sector": "工业",
-      "mos": 14.6,
-      "price": 49.3,
+      "mos": 15.5,
+      "price": 48.78,
       "buy": 57.7,
       "atAvg": 54.98,
       "investors": [
@@ -409,20 +369,40 @@
       "totalHolders": 1
     },
     {
-      "ticker": "CPRT",
-      "name": "COPART INC",
-      "cnName": "Copart, Inc.",
-      "sector": "工业",
-      "mos": 13.8,
-      "price": 29.15,
-      "buy": 33.83,
-      "atAvg": 43.02,
+      "ticker": "ABG",
+      "name": "ASBURY AUTOMOTIVE GROUP INC",
+      "cnName": "阿萨比汽车集团",
+      "sector": "消费",
+      "mos": 15.3,
+      "price": 187.92,
+      "buy": 221.91,
+      "atAvg": 60.59,
       "investors": [
         {
-          "id": "akre",
-          "name": "查克·阿克瑞",
-          "nameEn": "Chuck Akre",
-          "weight": 4.4,
+          "id": "abrams",
+          "name": "大卫·艾布拉姆斯",
+          "nameEn": "David Abrams",
+          "weight": 7.9,
+          "chg": "hold"
+        }
+      ],
+      "totalHolders": 1
+    },
+    {
+      "ticker": "SEG",
+      "name": "SEAPORT ENTMT GROUP INC",
+      "cnName": "Seaport 娱乐集团",
+      "sector": "地产",
+      "mos": 14.8,
+      "price": 22.68,
+      "buy": 26.61,
+      "atAvg": 25.86,
+      "investors": [
+        {
+          "id": "ackman",
+          "name": "比尔·阿克曼",
+          "nameEn": "Bill Ackman",
+          "weight": 0.8,
           "chg": "hold"
         }
       ],
@@ -433,8 +413,8 @@
       "name": "COMCAST CORP NEW",
       "cnName": "康卡斯特",
       "sector": "娱乐",
-      "mos": 13.5,
-      "price": 22.05,
+      "mos": 14.5,
+      "price": 21.81,
       "buy": 25.5,
       "atAvg": 19.65,
       "investors": [
@@ -449,12 +429,32 @@
       "totalHolders": 1
     },
     {
+      "ticker": "CPRT",
+      "name": "COPART INC",
+      "cnName": "Copart, Inc.",
+      "sector": "工业",
+      "mos": 14.4,
+      "price": 28.96,
+      "buy": 33.83,
+      "atAvg": 43.02,
+      "investors": [
+        {
+          "id": "akre",
+          "name": "查克·阿克瑞",
+          "nameEn": "Chuck Akre",
+          "weight": 4.4,
+          "chg": "hold"
+        }
+      ],
+      "totalHolders": 1
+    },
+    {
       "ticker": "FNF",
       "name": "FIDELITY NATL FINL INC",
       "cnName": "fidelity 国家金融",
       "sector": "金融服务",
-      "mos": 11.1,
-      "price": 39.94,
+      "mos": 12.3,
+      "price": 39.37,
       "buy": 44.91,
       "atAvg": 44.91,
       "investors": [
@@ -473,8 +473,8 @@
       "name": "LIBERTY CAP CORP",
       "cnName": "自由资本",
       "sector": "通讯",
-      "mos": 31.0,
-      "price": 20.86,
+      "mos": 30.3,
+      "price": 21.08,
       "buy": 30.24,
       "atAvg": 30.24,
       "investors": [
@@ -493,8 +493,8 @@
       "name": "F&G ANNUITIES & LIFE INC",
       "cnName": "F&G 年金与寿险",
       "sector": "保险",
-      "mos": 28.3,
-      "price": 20.56,
+      "mos": 27.9,
+      "price": 20.69,
       "buy": 28.69,
       "atAvg": 12.26,
       "investors": [
@@ -513,8 +513,8 @@
       "name": "MELCO RESORTS AND ENTMNT LTD",
       "cnName": "美高梅",
       "sector": "娱乐",
-      "mos": 21.1,
-      "price": 3.88,
+      "mos": 22.8,
+      "price": 3.8,
       "buy": 4.92,
       "atAvg": 5.87,
       "investors": [
@@ -533,8 +533,8 @@
       "name": "EAGLE MATLS INC",
       "cnName": "鹰材料",
       "sector": "工业",
-      "mos": 14.8,
-      "price": 173.96,
+      "mos": 14.4,
+      "price": 174.7,
       "buy": 204.1,
       "atAvg": 213.46,
       "investors": [
@@ -553,8 +553,8 @@
       "name": "MILLROSE PPTYS INC",
       "cnName": "密罗斯地产",
       "sector": "金融服务",
-      "mos": 12.4,
-      "price": 23.91,
+      "mos": 10.4,
+      "price": 24.48,
       "buy": 27.31,
       "atAvg": 21.27,
       "investors": [
@@ -575,13 +575,13 @@
         "investor": "李录",
         "investorEn": "Li Lu",
         "id": "lilu",
-        "mos": 0.0
+        "mos": 0.3
       },
       {
         "investor": "段永平",
         "investorEn": "Duan",
         "id": "duan",
-        "mos": 0.0
+        "mos": 0.3
       }
     ],
     "AMR": [
@@ -589,7 +589,7 @@
         "investor": "帕伯莱",
         "investorEn": "Pabrai",
         "id": "pabrai",
-        "mos": 6.2
+        "mos": 0.9
       }
     ],
     "BABA": [
@@ -597,7 +597,7 @@
         "investor": "段永平",
         "investorEn": "Duan",
         "id": "duan",
-        "mos": 1.6
+        "mos": 2.1
       }
     ],
     "UBER": [
@@ -605,15 +605,7 @@
         "investor": "大卫·泰珀",
         "investorEn": "David Tepper",
         "id": "tepper",
-        "mos": 4.2
-      }
-    ],
-    "AVGO": [
-      {
-        "investor": "大卫·泰珀",
-        "investorEn": "David Tepper",
-        "id": "tepper",
-        "mos": 0.6
+        "mos": 4.6
       }
     ],
     "NYT": [
@@ -621,7 +613,15 @@
         "investor": "巴菲特",
         "investorEn": "Buffett",
         "id": "buffett",
-        "mos": 0.4
+        "mos": 1.5
+      }
+    ],
+    "SLM": [
+      {
+        "investor": "格伦·格林伯格",
+        "investorEn": "Glenn Greenberg",
+        "id": "greenberg",
+        "mos": 1.6
       }
     ],
     "RYAAY": [
@@ -629,7 +629,7 @@
         "investor": "格伦·格林伯格",
         "investorEn": "Glenn Greenberg",
         "id": "greenberg",
-        "mos": 3.4
+        "mos": 3.0
       }
     ],
     "COF": [
@@ -637,7 +637,7 @@
         "investor": "格伦·格林伯格",
         "investorEn": "Glenn Greenberg",
         "id": "greenberg",
-        "mos": 0.9
+        "mos": 0.1
       }
     ],
     "AON": [
@@ -645,15 +645,7 @@
         "investor": "塞斯·克拉曼",
         "investorEn": "Seth Klarman",
         "id": "klarman",
-        "mos": 3.2
-      }
-    ],
-    "NCLH": [
-      {
-        "investor": "塞斯·克拉曼",
-        "investorEn": "Seth Klarman",
-        "id": "klarman",
-        "mos": 3.2
+        "mos": 3.7
       }
     ],
     "LBTYA": [
@@ -661,15 +653,7 @@
         "investor": "塞斯·克拉曼",
         "investorEn": "Seth Klarman",
         "id": "klarman",
-        "mos": 4.8
-      }
-    ],
-    "AERO": [
-      {
-        "investor": "塞斯·克拉曼",
-        "investorEn": "Seth Klarman",
-        "id": "klarman",
-        "mos": 0.1
+        "mos": 1.3
       }
     ],
     "LAD": [
@@ -677,7 +661,7 @@
         "investor": "大卫·艾布拉姆斯",
         "investorEn": "David Abrams",
         "id": "abrams",
-        "mos": 2.1
+        "mos": 1.5
       }
     ],
     "CPNG": [
@@ -685,7 +669,7 @@
         "investor": "大卫·艾布拉姆斯",
         "investorEn": "David Abrams",
         "id": "abrams",
-        "mos": 9.3
+        "mos": 9.0
       }
     ],
     "RYN": [
@@ -693,7 +677,15 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 4.0
+        "mos": 2.8
+      }
+    ],
+    "ACI": [
+      {
+        "investor": "梅森·霍金斯",
+        "investorEn": "Mason Hawkins",
+        "id": "hawkins",
+        "mos": 2.0
       }
     ],
     "ESRT": [
@@ -701,7 +693,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 0.6
+        "mos": 1.4
       }
     ],
     "GLIBK": [
@@ -709,7 +701,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 3.6
+        "mos": 2.5
       }
     ],
     "TRIP": [
@@ -717,7 +709,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 4.8
+        "mos": 7.7
       }
     ],
     "FIS": [
@@ -725,7 +717,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 5.7
+        "mos": 9.1
       }
     ],
     "DOLE": [
@@ -741,7 +733,7 @@
         "investor": "梅森·霍金斯",
         "investorEn": "Mason Hawkins",
         "id": "hawkins",
-        "mos": 7.9
+        "mos": 6.7
       }
     ]
   }
