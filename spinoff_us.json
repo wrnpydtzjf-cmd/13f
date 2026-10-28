@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:00:52Z",
+  "updatedAt": "2026-10-28T18:51:44Z",
   "dateFrom": "20251028",
   "dateTo": "20261028",
   "count": 71,
@@ -85,7 +85,6 @@
       "cik": "1839285",
       "parentMarketCap": 0.1,
       "nameCN": "",
-      "lastUpdated": "2026-10-28T04:01:33Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -703,7 +702,6 @@
       "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
       "parentMarketCap": 3.7,
       "nameCN": "X4制药",
-      "lastUpdated": "2026-10-28T04:01:33Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1440,7 +1438,6 @@
       "cik": "1811210",
       "parentMarketCap": 13.0,
       "nameCN": "",
-      "lastUpdated": "2026-10-28T04:01:33Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2387,7 +2384,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 517.6,
+      "marketCap": 532.2,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2395,17 +2392,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 218.81,
-          "parentChangePct": -3.7,
+          "parentPriceNow": 218.42,
+          "parentChangePct": -3.8,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 167.9,
-          "spinoffChangePct": -23.7,
+          "spinoffPriceNow": 168.565,
+          "spinoffChangePct": -23.4,
           "updatedAt": "2026-10-28"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.1%，规模不算典型的'机构抛售'目标，上市后表现为-23.7%。",
-        "en": "At roughly 71.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.7%."
+        "zh": "分拆标的市值约为母公司的73.1%，规模不算典型的'机构抛售'目标，上市后表现为-23.4%。",
+        "en": "At roughly 73.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -23.4%."
       }
     },
     {
