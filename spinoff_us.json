@@ -1,9 +1,62 @@
 {
-  "updatedAt": "2026-10-29T04:23:08Z",
+  "updatedAt": "2026-10-29T18:59:47Z",
   "dateFrom": "20251029",
   "dateTo": "20261029",
   "count": 70,
   "companies": [
+    {
+      "ticker": "XFOR",
+      "name": "X4 Pharmaceuticals, Inc  (XFOR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "carveout",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-10-29",
+          "title": "分拆进展公告（2026-10-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "重大协议签订、投资者关系公告（2026-10-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-09",
+          "title": "分拆进展公告（2026-09-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "分拆进展公告（2026-09-08）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-13",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-12",
+          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1501697",
+      "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
+      "parentMarketCap": 3.7,
+      "nameCN": "X4制药",
+      "lastUpdated": "2026-10-29T19:00:47Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "HONA",
       "name": "Honeywell Aerospace Inc.  (HONA)",
@@ -41,7 +94,6 @@
       "aiSummary": "霍尼韦尔签署分拆协议，将航空航天业务独立上市，预计 2026 年 6 月完成。",
       "parentMarketCap": 645.3,
       "nameCN": "霍尼韦尔航空航天",
-      "lastUpdated": "2026-10-29T04:23:55Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -704,53 +756,6 @@
       }
     },
     {
-      "ticker": "XFOR",
-      "name": "X4 Pharmaceuticals, Inc  (XFOR)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "carveout",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-10-08",
-          "title": "重大协议签订、投资者关系公告（2026-10-08）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-09",
-          "title": "分拆进展公告（2026-09-09）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-09-08",
-          "title": "分拆进展公告（2026-09-08）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-13",
-          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-05-12",
-          "title": "SEC 8-K: X4 Pharmaceuticals, Inc  (XFOR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1501697&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1501697",
-      "aiSummary": "X4 制药推进纯分拆，新公司将专注罕见病药物研发，预计近期完成交割。",
-      "parentMarketCap": 3.7,
-      "nameCN": "X4制药",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery, Inc.  (WBD)",
       "spinoffName": "",
@@ -1321,7 +1326,6 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
-      "lastUpdated": "2026-10-29T04:23:55Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2391,7 +2395,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 532.2,
+      "marketCap": 561.1,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2399,17 +2403,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 219.26,
-          "parentChangePct": -3.5,
+          "parentPriceNow": 222.38,
+          "parentChangePct": -2.1,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 177.03,
-          "spinoffChangePct": -19.6,
+          "spinoffPriceNow": 159.31,
+          "spinoffChangePct": -27.6,
           "updatedAt": "2026-10-29"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.1%，规模不算典型的'机构抛售'目标，上市后表现为-19.6%。",
-        "en": "At roughly 73.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -19.6%."
+        "zh": "分拆标的市值约为母公司的77.0%，规模不算典型的'机构抛售'目标，上市后表现为-27.6%。",
+        "en": "At roughly 77.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -27.6%."
       }
     },
     {
