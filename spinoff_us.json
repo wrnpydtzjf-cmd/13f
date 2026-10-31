@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T18:36:20Z",
-  "dateFrom": "20251030",
-  "dateTo": "20261030",
+  "updatedAt": "2026-10-31T04:05:44Z",
+  "dateFrom": "20251031",
+  "dateTo": "20261031",
   "count": 70,
   "companies": [
     {
@@ -1283,7 +1283,7 @@
       "name": "Sable Offshore Corp.  (SOC)",
       "spinoffName": "",
       "spinoffTicker": "",
-      "type": "carveout",
+      "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
       "recordDate": "",
       "distributionDate": "",
@@ -1325,6 +1325,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
+      "lastUpdated": "2026-10-31T04:06:28Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1951,11 +1952,6 @@
           "date": "2025-12-05",
           "title": "SEC 8-K: NETFLIX INC  (NFLX) spin-off filing",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-30",
-          "title": "分拆进展公告（2025-10-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -1964,6 +1960,7 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
+      "lastUpdated": "2026-10-31T04:06:28Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2376,11 +2373,6 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=40"
         },
         {
-          "date": "2025-10-30",
-          "title": "SEC 8-K: HONEYWELL INTERNATIONAL INC  (HON) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=773840&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
           "date": "2025-02-05",
           "title": "Honeywell separates into three independent companies"
         },
@@ -2394,7 +2386,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 561.1,
+      "marketCap": 507.3,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2402,17 +2394,18 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 218.93,
-          "parentChangePct": -3.6,
+          "parentPriceNow": 218.33,
+          "parentChangePct": -3.9,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 151.645,
-          "spinoffChangePct": -31.1,
-          "updatedAt": "2026-10-30"
+          "spinoffPriceNow": 154.15,
+          "spinoffChangePct": -30.0,
+          "updatedAt": "2026-10-31"
         }
       ],
+      "lastUpdated": "2026-10-31T04:06:28Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的77.0%，规模不算典型的'机构抛售'目标，上市后表现为-31.1%。",
-        "en": "At roughly 77.0% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -31.1%."
+        "zh": "分拆标的市值约为母公司的69.7%，规模不算典型的'机构抛售'目标，上市后表现为-30.0%。",
+        "en": "At roughly 69.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.0%."
       }
     },
     {
@@ -3288,11 +3281,6 @@
           "date": "2025-11-04",
           "title": "SEC 8-K: Bloom Energy Corp  (BE) spin-off filing",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-10-30",
-          "title": "分拆进展公告（2025-10-30）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1664703&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -3301,6 +3289,7 @@
       "aiSummary": "博隆能源推进纯分拆计划，旨在独立运营其高效固体氧化物燃料电池业务。",
       "parentMarketCap": 770.5,
       "nameCN": "博隆能源",
+      "lastUpdated": "2026-10-31T04:06:28Z",
       "greenblattNote": {
         "zh": "母公司市值约770亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $770B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."

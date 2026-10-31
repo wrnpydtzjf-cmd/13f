@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-30T18:23:50.757052Z",
+  "updated": "2026-10-31T03:53:59.865834Z",
   "quotes": {
     "HCC": {
-      "c": 85.38,
-      "h": 86.19,
-      "l": 84.7,
-      "o": 86.19,
+      "c": 85.97,
+      "h": 86.09,
+      "l": 84.67,
+      "o": 85.7,
       "pc": 85.62,
-      "t": 1793384588
+      "t": 1793390400
     },
     "RIG": {
-      "c": 6.88,
+      "c": 6.94,
       "h": 7.04,
       "l": 6.71,
-      "o": 6.78,
+      "o": 6.76,
       "pc": 6.69,
-      "t": 1793384599
+      "t": 1793390400
     },
     "AMR": {
-      "c": 157.29,
+      "c": 159.19,
       "h": 161.37,
-      "l": 156.9,
-      "o": 159.95,
+      "l": 156.3,
+      "o": 158.4,
       "pc": 161.81,
-      "t": 1793384478
+      "t": 1793390400
     },
     "KSPI": {
-      "c": 91.01,
-      "h": 93.92,
-      "l": 90.79,
-      "o": 93.5,
+      "c": 91.27,
+      "h": 93.91,
+      "l": 90.43,
+      "o": 93.01,
       "pc": 94.66,
-      "t": 1793384585
+      "t": 1793390400
     }
   },
   "costBasis": {
@@ -99,19 +99,12 @@
     }
   },
   "exitPerf": {
-    "GOOG": {
-      "entryQuarter": "2015 Q4",
-      "entryPrice": 758.87,
-      "exitQuarter": "2017 Q4",
-      "exitPrice": 50.45,
-      "changePct": -93.4
-    },
-    "GS": {
+    "CHK": {
       "entryQuarter": "2013 Q2",
-      "entryPrice": 151.25,
+      "entryPrice": 20.38,
       "exitQuarter": "2014 Q2",
-      "exitPrice": 127.4,
-      "changePct": -15.8
+      "exitPrice": 31.08,
+      "changePct": 52.5
     },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
@@ -127,12 +120,19 @@
       "exitPrice": 37.55,
       "changePct": -21.7
     },
-    "CHK": {
+    "GS": {
       "entryQuarter": "2013 Q2",
-      "entryPrice": 20.38,
+      "entryPrice": 151.25,
       "exitQuarter": "2014 Q2",
-      "exitPrice": 31.08,
-      "changePct": 52.5
+      "exitPrice": 127.4,
+      "changePct": -15.8
+    },
+    "GOOG": {
+      "entryQuarter": "2015 Q4",
+      "entryPrice": 758.87,
+      "exitQuarter": "2017 Q4",
+      "exitPrice": 50.45,
+      "changePct": -93.4
     }
   }
 }
