@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:56:23.087226Z",
+  "updated": "2026-10-31T17:32:46.244622Z",
   "quotes": {
     "?ICON PUB LTD CO": {
       "error": true
@@ -249,12 +249,12 @@
       "error": true
     },
     "ET": {
-      "c": 20.88,
-      "h": 21.02,
-      "l": 20.72,
-      "o": 20.82,
-      "pc": 20.71,
-      "t": 1793232000
+      "c": 20.91,
+      "h": 21.07,
+      "l": 20.82,
+      "o": 21.07,
+      "pc": 20.88,
+      "t": 1793318400
     },
     "?ANALOG DEVICES INC": {
       "error": true
@@ -839,40 +839,12 @@
     }
   },
   "exitPerf": {
-    "BRK.B": {
-      "entryQuarter": "2019 Q2",
-      "entryPrice": 192.19,
-      "exitQuarter": "2021 Q4",
-      "exitPrice": 297.02,
-      "changePct": 54.5
-    },
-    "FAF": {
-      "entryQuarter": "2021 Q3",
-      "entryPrice": 57.96,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 68.16,
-      "changePct": 17.6
-    },
     "ORCL": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 25.93,
       "exitQuarter": "2014 Q2",
       "exitPrice": 35.54,
       "changePct": 37.1
-    },
-    "BAC": {
-      "entryQuarter": "2022 Q4",
-      "entryPrice": 30.42,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 57.32,
-      "changePct": 88.4
-    },
-    "WFC": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 34.54,
-      "exitQuarter": "2024 Q1",
-      "exitPrice": 53.75,
-      "changePct": 55.6
     },
     "DLTR": {
       "entryQuarter": "2019 Q4",
@@ -881,6 +853,13 @@
       "exitPrice": 104.01,
       "changePct": 48.5
     },
+    "BRK.B": {
+      "entryQuarter": "2019 Q2",
+      "entryPrice": 192.19,
+      "exitQuarter": "2021 Q4",
+      "exitPrice": 297.02,
+      "changePct": 54.5
+    },
     "SCHW": {
       "entryQuarter": "2020 Q1",
       "entryPrice": 51.06,
@@ -888,12 +867,26 @@
       "exitPrice": 78.67,
       "changePct": 54.1
     },
-    "ICLR": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 87.81,
+    "C": {
+      "entryQuarter": "2018 Q3",
+      "entryPrice": 49.99,
+      "exitQuarter": "2019 Q3",
+      "exitPrice": 56.21,
+      "changePct": 12.4
+    },
+    "FAF": {
+      "entryQuarter": "2021 Q3",
+      "entryPrice": 57.96,
       "exitQuarter": "2026 Q1",
-      "exitPrice": 183.85,
-      "changePct": 109.4
+      "exitPrice": 68.16,
+      "changePct": 17.6
+    },
+    "WFC": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 34.54,
+      "exitQuarter": "2024 Q1",
+      "exitPrice": 53.75,
+      "changePct": 55.6
     },
     "APO": {
       "entryQuarter": "2021 Q3",
@@ -902,12 +895,19 @@
       "exitPrice": 143.42,
       "changePct": 34.8
     },
-    "C": {
-      "entryQuarter": "2018 Q3",
-      "entryPrice": 49.99,
-      "exitQuarter": "2019 Q3",
-      "exitPrice": 56.21,
-      "changePct": 12.4
+    "ICLR": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 87.81,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 183.85,
+      "changePct": 109.4
+    },
+    "BAC": {
+      "entryQuarter": "2022 Q4",
+      "entryPrice": 30.42,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 57.32,
+      "changePct": 88.4
     }
   }
 }

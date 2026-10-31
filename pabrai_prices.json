@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:53:59.865834Z",
+  "updated": "2026-10-31T17:30:04.061123Z",
   "quotes": {
     "HCC": {
       "c": 85.97,
@@ -99,13 +99,6 @@
     }
   },
   "exitPerf": {
-    "CHK": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 20.38,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 31.08,
-      "changePct": 52.5
-    },
     "BRK.B": {
       "entryQuarter": "2014 Q1",
       "entryPrice": 131.47,
@@ -126,6 +119,13 @@
       "exitQuarter": "2014 Q2",
       "exitPrice": 127.4,
       "changePct": -15.8
+    },
+    "CHK": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 20.38,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 31.08,
+      "changePct": 52.5
     },
     "GOOG": {
       "entryQuarter": "2015 Q4",
