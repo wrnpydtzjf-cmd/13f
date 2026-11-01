@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:17:51Z",
+  "updatedAt": "2026-11-01T18:26:59Z",
   "dateFrom": "20251101",
   "dateTo": "20261101",
   "count": 69,
@@ -374,7 +374,6 @@
       "cik": "1948864",
       "parentMarketCap": 0.1,
       "nameCN": "",
-      "lastUpdated": "2026-11-01T04:18:37Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
