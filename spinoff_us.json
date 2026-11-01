@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T17:42:40Z",
-  "dateFrom": "20251031",
-  "dateTo": "20261031",
-  "count": 70,
+  "updatedAt": "2026-11-01T04:17:51Z",
+  "dateFrom": "20251101",
+  "dateTo": "20261101",
+  "count": 69,
   "companies": [
     {
       "ticker": "XFOR",
@@ -367,11 +367,6 @@
           "date": "2025-11-14",
           "title": "重大协议签订、股东权益变动（2025-11-14）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-10-31",
-          "title": "重大协议签订（2025-10-31）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1948864&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -379,6 +374,7 @@
       "cik": "1948864",
       "parentMarketCap": 0.1,
       "nameCN": "",
+      "lastUpdated": "2026-11-01T04:18:37Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2384,7 +2380,7 @@
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 507.3,
+      "marketCap": 488.7,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2397,12 +2393,12 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 154.15,
           "spinoffChangePct": -30.0,
-          "updatedAt": "2026-10-31"
+          "updatedAt": "2026-11-01"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的69.7%，规模不算典型的'机构抛售'目标，上市后表现为-30.0%。",
-        "en": "At roughly 69.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.0%."
+        "zh": "分拆标的市值约为母公司的67.1%，规模不算典型的'机构抛售'目标，上市后表现为-30.0%。",
+        "en": "At roughly 67.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.0%."
       }
     },
     {
@@ -3170,83 +3166,6 @@
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
-      "ticker": "APTV",
-      "name": "Aptiv PLC  (APTV)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-05-05",
-          "title": "业绩公布、分拆进展公告（2026-05-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-06",
-          "title": "分拆进展公告（2026-04-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-04-01",
-          "title": "SEC 8-K: Aptiv PLC  (APTV) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "分拆进展公告（2026-03-20）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-06",
-          "title": "分拆进展公告（2026-03-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-03-05",
-          "title": "SEC 8-K: Aptiv PLC  (APTV) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-03-04",
-          "title": "分拆进展公告（2026-03-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-24",
-          "title": "分拆进展公告（2026-02-24）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-17",
-          "title": "分拆进展公告（2026-02-17）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-11",
-          "title": "分拆进展公告（2026-02-11）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-14",
-          "title": "分拆进展公告（2025-11-14）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1521332&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "completed",
-      "source": "edgar",
-      "cik": "1521332",
-      "aiSummary": "安波福推进分拆进展，子公司将独立运营，预计 2026 年 4 月至 5 月间完成相关公告。",
-      "parentMarketCap": 124.6,
-      "nameCN": "安波福",
-      "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
