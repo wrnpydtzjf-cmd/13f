@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:14:39.847659Z",
+  "updated": "2026-11-02T04:10:33.013874Z",
   "quotes": {
     "GOOGL": {
       "c": 279.84,
@@ -183,6 +183,13 @@
       "exitPrice": 55.2,
       "changePct": 146.0
     },
+    "TME": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 10.63,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 9.92,
+      "changePct": -6.7
+    },
     "OXY": {
       "entryQuarter": "2024 Q2",
       "entryPrice": 57.97,
@@ -196,13 +203,6 @@
       "exitQuarter": "2026 Q1",
       "exitPrice": 505.82,
       "changePct": 66.8
-    },
-    "TME": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 10.63,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 9.92,
-      "changePct": -6.7
     }
   }
 }
