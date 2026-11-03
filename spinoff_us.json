@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T22:19:07Z",
-  "dateFrom": "20251102",
-  "dateTo": "20261102",
+  "updatedAt": "2026-11-03T05:22:30Z",
+  "dateFrom": "20251103",
+  "dateTo": "20261103",
   "count": 69,
   "companies": [
     {
@@ -2119,7 +2119,7 @@
     {
       "ticker": "MIDD",
       "name": "MIDDLEBY Corp  (MIDD)",
-      "spinoffName": "Midera Food Processing, Inc",
+      "spinoffName": "",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -2172,15 +2172,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "completed",
+      "status": "in_progress",
       "source": "edgar",
       "cik": "769520",
       "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 79.2,
       "nameCN": "Middleby集团",
+      "lastUpdated": "2026-11-03T05:23:21Z",
       "greenblattNote": {
-        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
-        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
     },
     {
@@ -2392,7 +2393,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 157.95,
           "spinoffChangePct": -28.3,
-          "updatedAt": "2026-11-02"
+          "updatedAt": "2026-11-03"
         }
       ],
       "greenblattNote": {
