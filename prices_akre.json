@@ -1,152 +1,152 @@
 {
-  "updated": "2026-11-05T20:29:49.327107Z",
+  "updated": "2026-11-06T04:57:32.922979Z",
   "quotes": {
     "MA": {
-      "c": 655.94,
+      "c": 655.92,
       "h": 681.99,
-      "l": 655.75,
-      "o": 677.68,
+      "l": 653.85,
+      "o": 680.01,
       "pc": 672.68,
-      "t": 1793910551
+      "t": 1793912400
     },
     "MCO": {
-      "c": 513.46,
+      "c": 515.34,
       "h": 533,
       "l": 509.18,
-      "o": 530.83,
+      "o": 531.86,
       "pc": 528.34,
-      "t": 1793910547
+      "t": 1793912400
     },
     "BN": {
-      "c": 41.68,
+      "c": 41.76,
       "h": 43.58,
       "l": 41.24,
       "o": 43.41,
       "pc": 43.1,
-      "t": 1793910560
+      "t": 1793912400
     },
     "KKR": {
-      "c": 97.8,
+      "c": 98.3,
       "h": 103.84,
       "l": 95.85,
-      "o": 102.89,
+      "o": 103,
       "pc": 101.34,
-      "t": 1793910560
+      "t": 1793912400
     },
     "FICO": {
-      "c": 703.5,
+      "c": 707.4,
       "h": 738.87,
-      "l": 652.55,
-      "o": 652.55,
+      "l": 653.4,
+      "o": 664.2,
       "pc": 701.03,
-      "t": 1793910555
+      "t": 1793912400
     },
     "ROP": {
-      "c": 493.29,
+      "c": 490.96,
       "h": 507.24,
-      "l": 491.04,
-      "o": 496.37,
+      "l": 490.88,
+      "o": 500,
       "pc": 492.22,
-      "t": 1793910560
+      "t": 1793912400
     },
     "V": {
-      "c": 424.48,
+      "c": 422.59,
       "h": 442.23,
-      "l": 423.79,
-      "o": 440.15,
+      "l": 421.93,
+      "o": 440.8,
       "pc": 436.57,
-      "t": 1793910560
+      "t": 1793912400
     },
     "CSGP": {
-      "c": 31.52,
-      "h": 33.22,
+      "c": 32.05,
+      "h": 33.21,
       "l": 31.01,
-      "o": 32.78,
+      "o": 33.11,
       "pc": 32.58,
-      "t": 1793910557
+      "t": 1793912400
     },
     "CPRT": {
-      "c": 32.2,
-      "h": 33.01,
+      "c": 32.48,
+      "h": 33,
       "l": 31.63,
-      "o": 32.94,
+      "o": 32.98,
       "pc": 32.62,
-      "t": 1793910553
+      "t": 1793912400
     },
     "ORLY": {
-      "c": 90.81,
-      "h": 93.76,
+      "c": 91.49,
+      "h": 93.75,
       "l": 90.43,
-      "o": 93.06,
+      "o": 93.26,
       "pc": 92.34,
-      "t": 1793910560
+      "t": 1793912400
     },
     "ABNB": {
-      "c": 170.11,
+      "c": 170.13,
       "h": 177.49,
       "l": 166.67,
-      "o": 177.1,
+      "o": 177.22,
       "pc": 176.37,
-      "t": 1793910557
+      "t": 1793912400
     },
     "CCCS": {
       "error": true
     },
     "NOW": {
-      "c": 102.06,
+      "c": 102.36,
       "h": 108.7,
-      "l": 101.82,
-      "o": 108.7,
+      "l": 101.8,
+      "o": 108.36,
       "pc": 108.81,
-      "t": 1793910560
+      "t": 1793912400
     },
     "CRM": {
-      "c": 220.75,
+      "c": 222.41,
       "h": 229.38,
       "l": 220.08,
-      "o": 228.1,
+      "o": 229.06,
       "pc": 227.11,
-      "t": 1793910558
+      "t": 1793912400
     },
     "GSHD": {
-      "c": 56.34,
-      "h": 59.78,
+      "c": 56.88,
+      "h": 59.77,
       "l": 55.78,
-      "o": 57.58,
+      "o": 57.2,
       "pc": 56.35,
-      "t": 1793910326
+      "t": 1793912400
     },
     "SOPH": {
-      "c": 6.63,
-      "h": 6.87,
+      "c": 6.62,
+      "h": 6.86,
       "l": 6.39,
-      "o": 6.76,
+      "o": 6.71,
       "pc": 6.97,
-      "t": 1793910545
+      "t": 1793912400
     },
     "PRM": {
-      "c": 28.01,
+      "c": 28.14,
       "h": 30.48,
       "l": 27.3,
-      "o": 29.21,
+      "o": 29.53,
       "pc": 28.1,
-      "t": 1793910560
+      "t": 1793912400
     },
     "AMT": {
-      "c": 193.71,
+      "c": 193.99,
       "h": 197.0,
-      "l": 193.18,
-      "o": 196.47,
+      "l": 193.13,
+      "o": 196.99,
       "pc": 194.86,
-      "t": 1793910548
+      "t": 1793912400
     },
     "BRK/B": {
-      "c": 572.83,
+      "c": 572.33,
       "h": 586.3,
-      "l": 572.63,
-      "o": 583.7,
+      "l": 571.1,
+      "o": 584.23,
       "pc": 579.09,
-      "t": 1793910561
+      "t": 1793912400
     }
   },
   "costBasis": {
@@ -456,26 +456,12 @@
     }
   },
   "exitPerf": {
-    "DHR": {
+    "SBAC": {
       "entryQuarter": "2020 Q3",
-      "entryPrice": 209.56,
-      "exitQuarter": "2025 Q4",
-      "exitPrice": 229.12,
-      "changePct": 9.3
-    },
-    "MAR": {
-      "entryQuarter": "2020 Q1",
-      "entryPrice": 67.29,
-      "exitQuarter": "2020 Q2",
-      "exitPrice": 104.66,
-      "changePct": 55.5
-    },
-    "DG": {
-      "entryQuarter": "2016 Q4",
-      "entryPrice": 59.97,
-      "exitQuarter": "2017 Q1",
-      "exitPrice": 68.14,
-      "changePct": 13.6
+      "entryPrice": 181.95,
+      "exitQuarter": "2024 Q2",
+      "exitPrice": 202.77,
+      "changePct": 11.4
     },
     "KMX": {
       "entryQuarter": "2013 Q4",
@@ -484,47 +470,12 @@
       "exitPrice": 45.21,
       "changePct": -19.0
     },
-    "GOOG": {
-      "entryQuarter": "2021 Q1",
-      "entryPrice": 100.55,
-      "exitQuarter": "2023 Q1",
-      "exitPrice": 104.19,
-      "changePct": 3.6
-    },
-    "BRK.B": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 144.89,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 505.82,
-      "changePct": 249.1
-    },
-    "FDS": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 78.46,
-      "exitQuarter": "2014 Q1",
-      "exitPrice": 97.99,
-      "changePct": 24.9
-    },
-    "VRSK": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 62.85,
-      "exitQuarter": "2025 Q3",
-      "exitPrice": 300.11,
-      "changePct": 377.5
-    },
-    "AAPL": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 16.07,
-      "exitQuarter": "2014 Q3",
-      "exitPrice": 22.47,
-      "changePct": 39.8
-    },
-    "TDG": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 68.23,
-      "exitQuarter": "2014 Q3",
-      "exitPrice": 117.56,
-      "changePct": 72.3
+    "DHR": {
+      "entryQuarter": "2020 Q3",
+      "entryPrice": 209.56,
+      "exitQuarter": "2025 Q4",
+      "exitPrice": 229.12,
+      "changePct": 9.3
     },
     "DLTR": {
       "entryQuarter": "2013 Q2",
@@ -533,6 +484,13 @@
       "exitPrice": 147.15,
       "changePct": 159.5
     },
+    "ADBE": {
+      "entryQuarter": "2020 Q1",
+      "entryPrice": 323.04,
+      "exitQuarter": "2022 Q1",
+      "exitPrice": 546.96,
+      "changePct": 69.3
+    },
     "ROST": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 27.2,
@@ -540,19 +498,61 @@
       "exitPrice": 32.76,
       "changePct": 20.4
     },
-    "SBAC": {
-      "entryQuarter": "2020 Q3",
-      "entryPrice": 181.95,
-      "exitQuarter": "2024 Q2",
-      "exitPrice": 202.77,
-      "changePct": 11.4
+    "BRK.B": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 144.89,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 505.82,
+      "changePct": 249.1
     },
-    "ADBE": {
+    "AAPL": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 16.07,
+      "exitQuarter": "2014 Q3",
+      "exitPrice": 22.47,
+      "changePct": 39.8
+    },
+    "GOOG": {
+      "entryQuarter": "2021 Q1",
+      "entryPrice": 100.55,
+      "exitQuarter": "2023 Q1",
+      "exitPrice": 104.19,
+      "changePct": 3.6
+    },
+    "FDS": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 78.46,
+      "exitQuarter": "2014 Q1",
+      "exitPrice": 97.99,
+      "changePct": 24.9
+    },
+    "DG": {
+      "entryQuarter": "2016 Q4",
+      "entryPrice": 59.97,
+      "exitQuarter": "2017 Q1",
+      "exitPrice": 68.14,
+      "changePct": 13.6
+    },
+    "TDG": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 68.23,
+      "exitQuarter": "2014 Q3",
+      "exitPrice": 117.56,
+      "changePct": 72.3
+    },
+    "VRSK": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 62.85,
+      "exitQuarter": "2025 Q3",
+      "exitPrice": 300.11,
+      "changePct": 377.5
+    },
+    "MAR": {
       "entryQuarter": "2020 Q1",
-      "entryPrice": 323.04,
-      "exitQuarter": "2022 Q1",
-      "exitPrice": 546.96,
-      "changePct": 69.3
+      "entryPrice": 67.29,
+      "exitQuarter": "2020 Q2",
+      "exitPrice": 104.66,
+      "changePct": 55.5
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T20:39:59Z",
-  "dateFrom": "20251105",
-  "dateTo": "20261105",
+  "updatedAt": "2026-11-06T05:08:20Z",
+  "dateFrom": "20251106",
+  "dateTo": "20261106",
   "count": 71,
   "companies": [
     {
@@ -1801,11 +1801,6 @@
           "date": "2025-11-12",
           "title": "分拆进展公告（2025-11-12）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1811210&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-05",
-          "title": "重大协议签订、业绩公布（2025-11-05）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1811210&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -1813,6 +1808,7 @@
       "cik": "1811210",
       "parentMarketCap": 13.0,
       "nameCN": "",
+      "lastUpdated": "2026-11-06T05:09:22Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2517,17 +2513,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 216.99,
-          "parentChangePct": -4.5,
+          "parentPriceNow": 215.78,
+          "parentChangePct": -5.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 149.07,
-          "spinoffChangePct": -32.3,
-          "updatedAt": "2026-11-05"
+          "spinoffPriceNow": 149.59,
+          "spinoffChangePct": -32.1,
+          "updatedAt": "2026-11-06"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.1%，规模不算典型的'机构抛售'目标，上市后表现为-32.3%。",
-        "en": "At roughly 68.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -32.3%."
+        "zh": "分拆标的市值约为母公司的68.1%，规模不算典型的'机构抛售'目标，上市后表现为-32.1%。",
+        "en": "At roughly 68.1% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -32.1%."
       }
     },
     {
