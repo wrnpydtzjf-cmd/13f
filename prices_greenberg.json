@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:30:59.845463Z",
+  "updated": "2026-11-07T17:59:01.393784Z",
   "quotes": {
     "?ICON PUB LTD CO": {
       "error": true
@@ -249,7 +249,7 @@
       "error": true
     },
     "ET": {
-      "c": 19.05,
+      "c": 18.92,
       "h": 19.11,
       "l": 18.8,
       "o": 18.95,
@@ -839,12 +839,40 @@
     }
   },
   "exitPerf": {
+    "ORCL": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 25.93,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 35.54,
+      "changePct": 37.1
+    },
     "FAF": {
       "entryQuarter": "2021 Q3",
       "entryPrice": 57.96,
       "exitQuarter": "2026 Q1",
       "exitPrice": 68.16,
       "changePct": 17.6
+    },
+    "BAC": {
+      "entryQuarter": "2022 Q4",
+      "entryPrice": 30.42,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 57.32,
+      "changePct": 88.4
+    },
+    "WFC": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 34.54,
+      "exitQuarter": "2024 Q1",
+      "exitPrice": 53.75,
+      "changePct": 55.6
+    },
+    "DLTR": {
+      "entryQuarter": "2019 Q4",
+      "entryPrice": 70.03,
+      "exitQuarter": "2024 Q3",
+      "exitPrice": 104.01,
+      "changePct": 48.5
     },
     "APO": {
       "entryQuarter": "2021 Q3",
@@ -867,27 +895,6 @@
       "exitPrice": 183.85,
       "changePct": 109.4
     },
-    "DLTR": {
-      "entryQuarter": "2019 Q4",
-      "entryPrice": 70.03,
-      "exitQuarter": "2024 Q3",
-      "exitPrice": 104.01,
-      "changePct": 48.5
-    },
-    "BRK.B": {
-      "entryQuarter": "2019 Q2",
-      "entryPrice": 192.19,
-      "exitQuarter": "2021 Q4",
-      "exitPrice": 297.02,
-      "changePct": 54.5
-    },
-    "BAC": {
-      "entryQuarter": "2022 Q4",
-      "entryPrice": 30.42,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 57.32,
-      "changePct": 88.4
-    },
     "SCHW": {
       "entryQuarter": "2020 Q1",
       "entryPrice": 51.06,
@@ -895,19 +902,12 @@
       "exitPrice": 78.67,
       "changePct": 54.1
     },
-    "WFC": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 34.54,
-      "exitQuarter": "2024 Q1",
-      "exitPrice": 53.75,
-      "changePct": 55.6
-    },
-    "ORCL": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 25.93,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 35.54,
-      "changePct": 37.1
+    "BRK.B": {
+      "entryQuarter": "2019 Q2",
+      "entryPrice": 192.19,
+      "exitQuarter": "2021 Q4",
+      "exitPrice": 297.02,
+      "changePct": 54.5
     }
   }
 }
