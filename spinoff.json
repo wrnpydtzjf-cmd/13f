@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T20:01:18Z",
-  "dateFrom": "20251106",
-  "dateTo": "20261106",
+  "updatedAt": "2026-11-07T04:38:01Z",
+  "dateFrom": "20251107",
+  "dateTo": "20261107",
   "count": 36,
   "companies": [
     {
@@ -43,11 +43,11 @@
       "parentMarketCap": 13.0,
       "pricePerf": {
         "priceAtAnnouncement": 2.22,
-        "priceNow": 1.5,
-        "changePct": -32.4,
+        "priceNow": 1.47,
+        "changePct": -33.8,
         "firstAnnouncementDate": "2026-03-09",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -183,11 +183,11 @@
       "parentMarketCap": 8.5,
       "pricePerf": {
         "priceAtAnnouncement": 0.785,
-        "priceNow": 0.8,
-        "changePct": 1.9,
+        "priceNow": 0.785,
+        "changePct": 0.0,
         "firstAnnouncementDate": "2026-09-27",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -334,11 +334,11 @@
       "parentMarketCap": 91.4,
       "pricePerf": {
         "priceAtAnnouncement": 31.46,
-        "priceNow": 33.68,
-        "changePct": 7.1,
+        "priceNow": 30.38,
+        "changePct": -3.4,
         "firstAnnouncementDate": "2026-09-04",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -421,11 +421,11 @@
       "parentMarketCap": 51.9,
       "pricePerf": {
         "priceAtAnnouncement": 16.07,
-        "priceNow": 17.18,
-        "changePct": 6.9,
+        "priceNow": 16.35,
+        "changePct": 1.7,
         "firstAnnouncementDate": "2026-08-24",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -518,11 +518,11 @@
       "parentMarketCap": 2.1,
       "pricePerf": {
         "priceAtAnnouncement": 1.903,
-        "priceNow": 1.65,
-        "changePct": -13.3,
+        "priceNow": 1.605,
+        "changePct": -15.7,
         "firstAnnouncementDate": "2026-07-17",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -568,11 +568,11 @@
       "parentMarketCap": 147.1,
       "pricePerf": {
         "priceAtAnnouncement": 12.771,
-        "priceNow": 10.76,
-        "changePct": -15.7,
+        "priceNow": 10.72,
+        "changePct": -16.1,
         "firstAnnouncementDate": "2026-02-13",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -608,11 +608,11 @@
       "parentMarketCap": 2.9,
       "pricePerf": {
         "priceAtAnnouncement": 0.83,
-        "priceNow": 0.74,
-        "changePct": -10.8,
+        "priceNow": 0.705,
+        "changePct": -15.1,
         "firstAnnouncementDate": "2026-06-30",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -770,11 +770,11 @@
       "parentMarketCap": 57.2,
       "pricePerf": {
         "priceAtAnnouncement": 19.704,
-        "priceNow": 17.23,
+        "priceNow": 17.22,
         "changePct": -12.6,
         "firstAnnouncementDate": "2026-01-22",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -815,11 +815,11 @@
       "parentMarketCap": 293.0,
       "pricePerf": {
         "priceAtAnnouncement": 29.788,
-        "priceNow": 32.44,
-        "changePct": 8.9,
+        "priceNow": 32.02,
+        "changePct": 7.5,
         "firstAnnouncementDate": "2026-04-28",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -855,11 +855,11 @@
       "parentMarketCap": 2.7,
       "pricePerf": {
         "priceAtAnnouncement": 2.778,
-        "priceNow": 1.52,
-        "changePct": -45.3,
+        "priceNow": 1.47,
+        "changePct": -47.1,
         "firstAnnouncementDate": "2026-05-14",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -895,11 +895,11 @@
       "parentMarketCap": 2341.7,
       "pricePerf": {
         "priceAtAnnouncement": 130.054,
-        "priceNow": 109.1,
-        "changePct": -16.1,
+        "priceNow": 104.9,
+        "changePct": -19.3,
         "firstAnnouncementDate": "2026-04-27",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "母公司市值约2342亿美元，规模较大，若分拆标的相对较小，未来上市后更可能出现格林布拉特所说的指数基金/机构被动卖压，值得持续关注上市后的价格走势。",
@@ -939,26 +939,26 @@
           "spinoffName": "紫金黃金國際",
           "spinoffDate": "2025-09-30",
           "spinoffPriceAtListing": 118.055,
-          "spinoffPriceNow": 140.1,
-          "spinoffChangePct": 18.7,
+          "spinoffPriceNow": 136.5,
+          "spinoffChangePct": 15.6,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-11-06"
+          "updatedAt": "2026-11-07"
         }
       ],
       "pricePerf": {
         "priceAtAnnouncement": 36.135,
-        "priceNow": 30.28,
-        "changePct": -16.2,
+        "priceNow": 28.9,
+        "changePct": -20.0,
         "firstAnnouncementDate": "2026-04-07",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的44.6%，机构强制抛售的特征不算典型，上市后表现为+18.7%，暂未看到明显的格林布拉特式错杀信号。",
-        "en": "At roughly 44.6% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is +18.7%, with no clear sign of the classic forced-selling mispricing yet."
+        "zh": "分拆标的市值约为母公司的44.6%，机构强制抛售的特征不算典型，上市后表现为+15.6%，暂未看到明显的格林布拉特式错杀信号。",
+        "en": "At roughly 44.6% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is +15.6%, with no clear sign of the classic forced-selling mispricing yet."
       }
     },
     {
@@ -1057,11 +1057,11 @@
       "parentMarketCap": 62.0,
       "pricePerf": {
         "priceAtAnnouncement": 31.929,
-        "priceNow": 15.34,
-        "changePct": -52.0,
+        "priceNow": 15.18,
+        "changePct": -52.5,
         "firstAnnouncementDate": "2025-11-20",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1129,11 +1129,11 @@
       "parentMarketCap": 10.8,
       "pricePerf": {
         "priceAtAnnouncement": 8.08,
-        "priceNow": 7.09,
-        "changePct": -12.3,
+        "priceNow": 6.785,
+        "changePct": -16.0,
         "firstAnnouncementDate": "2026-02-25",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1206,13 +1206,13 @@
           "spinoffName": "嵐圖汽車",
           "spinoffDate": "2026-02-12",
           "spinoffPriceAtListing": null,
-          "spinoffPriceNow": 1.63,
+          "spinoffPriceNow": 1.5,
           "spinoffChangePct": null,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-11-06",
+          "updatedAt": "2026-11-07",
           "note": "介紹上市，無發行價"
         }
       ],
@@ -1250,11 +1250,11 @@
       "parentMarketCap": 29.0,
       "pricePerf": {
         "priceAtAnnouncement": 23.645,
-        "priceNow": 11.36,
-        "changePct": -52.0,
+        "priceNow": 10.84,
+        "changePct": -54.2,
         "firstAnnouncementDate": "2026-01-27",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1295,11 +1295,11 @@
       "parentMarketCap": 76.7,
       "pricePerf": {
         "priceAtAnnouncement": 66.756,
-        "priceNow": 65.7,
-        "changePct": -1.6,
+        "priceNow": 64.05,
+        "changePct": -4.1,
         "firstAnnouncementDate": "2026-01-05",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1335,11 +1335,11 @@
       "parentMarketCap": 26.0,
       "pricePerf": {
         "priceAtAnnouncement": 7.865,
-        "priceNow": 4.335,
-        "changePct": -44.9,
+        "priceNow": 4.28,
+        "changePct": -45.6,
         "firstAnnouncementDate": "2026-01-26",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1375,11 +1375,11 @@
       "parentMarketCap": 39.3,
       "pricePerf": {
         "priceAtAnnouncement": 11.897,
-        "priceNow": 11.17,
-        "changePct": -6.1,
+        "priceNow": 11.09,
+        "changePct": -6.8,
         "firstAnnouncementDate": "2026-01-09",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1415,11 +1415,11 @@
       "parentMarketCap": 382.6,
       "pricePerf": {
         "priceAtAnnouncement": 143.8,
-        "priceNow": 80.65,
-        "changePct": -43.9,
+        "priceNow": 78.2,
+        "changePct": -45.6,
         "firstAnnouncementDate": "2026-01-02",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "母公司市值约383亿美元，规模较大，若分拆标的相对较小，未来上市后更可能出现格林布拉特所说的指数基金/机构被动卖压，值得持续关注上市后的价格走势。",
@@ -1505,11 +1505,11 @@
       "parentMarketCap": 168.6,
       "pricePerf": {
         "priceAtAnnouncement": 5.846,
-        "priceNow": 5.49,
-        "changePct": -6.1,
+        "priceNow": 5.47,
+        "changePct": -6.4,
         "firstAnnouncementDate": "2025-11-27",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
@@ -1549,26 +1549,26 @@
           "spinoffName": "京東工業",
           "spinoffDate": "2025-12-11",
           "spinoffPriceAtListing": 14.1,
-          "spinoffPriceNow": 12.8,
-          "spinoffChangePct": -9.2,
+          "spinoffPriceNow": 12.58,
+          "spinoffChangePct": -10.8,
           "currency": "HKD",
           "confidence": 100,
           "autoMatched": false,
           "source": "known_db",
-          "updatedAt": "2026-11-06"
+          "updatedAt": "2026-11-07"
         }
       ],
       "pricePerf": {
         "priceAtAnnouncement": 113.789,
-        "priceNow": 113.9,
-        "changePct": 0.1,
+        "priceNow": 113.3,
+        "changePct": -0.4,
         "firstAnnouncementDate": "2025-12-11",
         "currency": "HKD",
-        "updatedAt": "2026-11-06"
+        "updatedAt": "2026-11-07"
       },
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的11.9%，机构强制抛售的特征不算典型，上市后表现为-9.2%，暂未看到明显的格林布拉特式错杀信号。",
-        "en": "At roughly 11.9% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is -9.2%, with no clear sign of the classic forced-selling mispricing yet."
+        "zh": "分拆标的市值约为母公司的11.9%，机构强制抛售的特征不算典型，上市后表现为-10.8%，暂未看到明显的格林布拉特式错杀信号。",
+        "en": "At roughly 11.9% of parent market cap, this doesn't strongly fit Greenblatt's 'unwanted small spinoff' profile. Post-listing performance is -10.8%, with no clear sign of the classic forced-selling mispricing yet."
       }
     },
     {
