@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T18:24:35Z",
-  "dateFrom": "20251108",
-  "dateTo": "20261108",
+  "updatedAt": "2026-11-09T04:39:06Z",
+  "dateFrom": "20251109",
+  "dateTo": "20261109",
   "count": 71,
   "companies": [
     {
@@ -765,6 +765,7 @@
       "status": "completed",
       "source": "edgar",
       "cik": "2128626",
+      "parentMarketCap": 468.0,
       "nameCN": "",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
@@ -2502,7 +2503,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 152.92,
           "spinoffChangePct": -30.6,
-          "updatedAt": "2026-11-08"
+          "updatedAt": "2026-11-09"
         }
       ],
       "greenblattNote": {
