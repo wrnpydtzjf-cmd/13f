@@ -1,9 +1,110 @@
 {
-  "updatedAt": "2026-11-09T04:39:06Z",
+  "updatedAt": "2026-11-09T23:03:40Z",
   "dateFrom": "20251109",
   "dateTo": "20261109",
   "count": 71,
   "companies": [
+    {
+      "ticker": "VRDN",
+      "name": "Viridian Therapeutics, Inc.\\DE  (VRDN)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-11-09",
+          "title": "投资者关系公告、分拆进展公告（2026-11-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "投资者关系公告、分拆进展公告（2026-06-29）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-26",
+          "title": "重大协议签订（2026-05-26）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-11",
+          "title": "SEC 8-K: Viridian Therapeutics, Inc.\\DE  (VRDN) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=10"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1590750",
+      "aiSummary": "维瑞迪安治疗公司推进纯分拆，将独立运营治疗业务，预计近期完成 SEC  filings。",
+      "parentMarketCap": 20.4,
+      "nameCN": "维瑞迪安治疗公司",
+      "lastUpdated": "2026-11-09T23:04:29Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health, Inc.  (HIMS)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-11-09",
+          "title": "业绩公布、分拆进展公告（2026-11-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "重大协议签订（2026-07-01）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-06-02",
+          "title": "重大协议签订、分拆进展公告（2026-06-02）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "SEC 8-K: Hims & Hers Health, Inc.  (HIMS) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-05-19",
+          "title": "分拆进展公告（2026-05-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-02-19",
+          "title": "重大协议签订、投资者关系公告（2026-02-19）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-17",
+          "title": "分拆进展公告（2025-11-17）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "1773751",
+      "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
+      "parentMarketCap": 85.2,
+      "nameCN": "Hims & Hers健康",
+      "lastUpdated": "2026-11-09T23:04:29Z",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
     {
       "ticker": "MIDD",
       "name": "MIDDLEBY Corp  (MIDD)",
@@ -2375,58 +2476,6 @@
       }
     },
     {
-      "ticker": "HIMS",
-      "name": "Hims & Hers Health, Inc.  (HIMS)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-07-01",
-          "title": "重大协议签订（2026-07-01）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-06-02",
-          "title": "重大协议签订、分拆进展公告（2026-06-02）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-21",
-          "title": "SEC 8-K: Hims & Hers Health, Inc.  (HIMS) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-05-19",
-          "title": "分拆进展公告（2026-05-19）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-02-19",
-          "title": "重大协议签订、投资者关系公告（2026-02-19）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-17",
-          "title": "分拆进展公告（2025-11-17）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1773751&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1773751",
-      "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
-      "parentMarketCap": 85.2,
-      "nameCN": "Hims & Hers健康",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
       "ticker": "HON",
       "name": "HONEYWELL INTERNATIONAL INC  (HON)",
       "spinoffName": "Honeywell Aerospace",
@@ -2498,54 +2547,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 220.05,
-          "parentChangePct": -3.1,
+          "parentPriceNow": 229.0,
+          "parentChangePct": 0.8,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 152.92,
-          "spinoffChangePct": -30.6,
+          "spinoffPriceNow": 164.77,
+          "spinoffChangePct": -25.2,
           "updatedAt": "2026-11-09"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的66.6%，规模不算典型的'机构抛售'目标，上市后表现为-30.6%。",
-        "en": "At roughly 66.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -30.6%."
-      }
-    },
-    {
-      "ticker": "VRDN",
-      "name": "Viridian Therapeutics, Inc.\\DE  (VRDN)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-06-29",
-          "title": "投资者关系公告、分拆进展公告（2026-06-29）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-26",
-          "title": "重大协议签订（2026-05-26）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-05-11",
-          "title": "SEC 8-K: Viridian Therapeutics, Inc.\\DE  (VRDN) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1590750&type=8-K&dateb=&owner=include&count=10"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "1590750",
-      "aiSummary": "维瑞迪安治疗公司推进纯分拆，将独立运营治疗业务，预计近期完成 SEC  filings。",
-      "parentMarketCap": 20.4,
-      "nameCN": "维瑞迪安治疗公司",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "分拆标的市值约为母公司的66.6%，规模不算典型的'机构抛售'目标，上市后表现为-25.2%。",
+        "en": "At roughly 66.6% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.2%."
       }
     },
     {
