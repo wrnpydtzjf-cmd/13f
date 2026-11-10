@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:51:57.712967Z",
+  "updated": "2026-11-10T05:49:25.671328Z",
   "quotes": {
     "AAPL": {
       "c": 350.69,
@@ -437,19 +437,19 @@
     }
   },
   "exitPerf": {
-    "YY": {
-      "entryQuarter": "2020 Q4",
-      "entryPrice": 62.33,
-      "exitQuarter": "2023 Q4",
-      "exitPrice": 39.7,
-      "changePct": -36.3
-    },
     "BRK.B": {
       "entryQuarter": "2018 Q4",
       "entryPrice": 364.77,
       "exitQuarter": "2026 Q1",
       "exitPrice": 505.82,
       "changePct": 38.7
+    },
+    "YY": {
+      "entryQuarter": "2020 Q4",
+      "entryPrice": 62.33,
+      "exitQuarter": "2023 Q4",
+      "exitPrice": 39.7,
+      "changePct": -36.3
     }
   }
 }

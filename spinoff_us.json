@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T23:03:40Z",
-  "dateFrom": "20251109",
-  "dateTo": "20261109",
+  "updatedAt": "2026-11-10T06:01:05Z",
+  "dateFrom": "20251110",
+  "dateTo": "20261110",
   "count": 71,
   "companies": [
     {
@@ -41,7 +41,6 @@
       "aiSummary": "维瑞迪安治疗公司推进纯分拆，将独立运营治疗业务，预计近期完成 SEC  filings。",
       "parentMarketCap": 20.4,
       "nameCN": "维瑞迪安治疗公司",
-      "lastUpdated": "2026-11-09T23:04:29Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -99,7 +98,6 @@
       "aiSummary": "Hims 推进纯分拆，新公司将专注女性健康领域，预计近期完成分拆上市。",
       "parentMarketCap": 85.2,
       "nameCN": "Hims & Hers健康",
-      "lastUpdated": "2026-11-09T23:04:29Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2552,7 +2550,7 @@
           "spinoffPriceAtSpin": 220.19,
           "spinoffPriceNow": 164.77,
           "spinoffChangePct": -25.2,
-          "updatedAt": "2026-11-09"
+          "updatedAt": "2026-11-10"
         }
       ],
       "greenblattNote": {
