@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T20:24:50Z",
-  "dateFrom": "20251110",
-  "dateTo": "20261110",
+  "updatedAt": "2026-11-11T04:43:31Z",
+  "dateFrom": "20251111",
+  "dateTo": "20261111",
   "count": 71,
   "companies": [
     {
@@ -1406,8 +1406,8 @@
       "announcements": [
         {
           "date": "2026-09-28",
-          "title": "重大协议签订、分拆进展公告（2026-09-28）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
+          "title": "SEC 8-K: Voyager Technologies, Inc./TX  (VOYG) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=10"
         },
         {
           "date": "2026-08-14",
@@ -1441,6 +1441,7 @@
       "aiSummary": "航海者技术公司启动纯分拆，将专注于提供先进网络安全解决方案服务。",
       "parentMarketCap": 19.7,
       "nameCN": "航海者技术公司",
+      "lastUpdated": "2026-11-11T04:44:43Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2545,17 +2546,17 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 227.94,
-          "parentChangePct": 0.4,
+          "parentPriceNow": 228.22,
+          "parentChangePct": 0.5,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 165.655,
-          "spinoffChangePct": -24.8,
-          "updatedAt": "2026-11-10"
+          "spinoffPriceNow": 166.47,
+          "spinoffChangePct": -24.4,
+          "updatedAt": "2026-11-11"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的71.7%，规模不算典型的'机构抛售'目标，上市后表现为-24.8%。",
-        "en": "At roughly 71.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.8%."
+        "zh": "分拆标的市值约为母公司的71.7%，规模不算典型的'机构抛售'目标，上市后表现为-24.4%。",
+        "en": "At roughly 71.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.4%."
       }
     },
     {
@@ -2857,11 +2858,6 @@
           "date": "2025-11-21",
           "title": "分拆进展公告（2025-11-21）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-10",
-          "title": "投资者关系公告、分拆进展公告（2025-11-10）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1370053&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "completed",
@@ -2870,6 +2866,7 @@
       "aiSummary": "AnaptysBio 完成子公司 IPO 交割，预计 2026 年 6 月 22 日签署重大协议。",
       "parentMarketCap": 18.8,
       "nameCN": "AnaptysBio",
+      "lastUpdated": "2026-11-11T04:44:43Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
