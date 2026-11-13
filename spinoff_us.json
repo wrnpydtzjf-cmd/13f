@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:06:20Z",
+  "updatedAt": "2026-11-13T20:31:58Z",
   "dateFrom": "20251113",
   "dateTo": "20261113",
   "count": 71,
@@ -106,7 +106,7 @@
     {
       "ticker": "MIDD",
       "name": "MIDDLEBY Corp  (MIDD)",
-      "spinoffName": "",
+      "spinoffName": "Midera Food Processing, Inc",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -164,64 +164,16 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=769520&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "769520",
       "aiSummary": "Middleby 集团推进纯分拆，签署协议并公告进展，预计 2026 年完成。",
       "parentMarketCap": 79.2,
       "nameCN": "Middleby集团",
-      "lastUpdated": "2026-11-13T05:07:18Z",
+      "lastUpdated": "2026-11-13T20:32:39Z",
       "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      }
-    },
-    {
-      "ticker": "ARWR",
-      "name": "ARROWHEAD PHARMACEUTICALS, INC.  (ARWR)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2026-11-04",
-          "title": "重大协议签订（2026-11-04）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-12",
-          "title": "SEC 8-K: ARROWHEAD PHARMACEUTICALS, INC.  (ARWR) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2026-01-09",
-          "title": "重大协议签订、分拆进展公告（2026-01-09）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2026-01-06",
-          "title": "投资者关系公告、分拆进展公告（2026-01-06）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-18",
-          "title": "分拆进展公告（2025-11-18）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "879407",
-      "aiSummary": "箭头制药推进分拆，旗下 Arrowhead 生物制药业务将独立开展研发。",
-      "parentMarketCap": 118.3,
-      "nameCN": "箭头制药公司",
-      "lastUpdated": "2026-11-13T05:07:18Z",
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -291,6 +243,54 @@
       "aiSummary": "皮博迪能源推进纯分拆，将剥离资产以优化能源组合，预计近期完成交割。",
       "parentMarketCap": 27.2,
       "nameCN": "皮博迪能源",
+      "greenblattNote": {
+        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
+        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
+      }
+    },
+    {
+      "ticker": "ARWR",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC.  (ARWR)",
+      "spinoffName": "",
+      "spinoffTicker": "",
+      "type": "spinoff",
+      "exchange": "NYSE/Nasdaq",
+      "recordDate": "",
+      "distributionDate": "",
+      "announcements": [
+        {
+          "date": "2026-11-04",
+          "title": "重大协议签订（2026-11-04）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-12",
+          "title": "SEC 8-K: ARROWHEAD PHARMACEUTICALS, INC.  (ARWR) spin-off filing",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=10"
+        },
+        {
+          "date": "2026-01-09",
+          "title": "重大协议签订、分拆进展公告（2026-01-09）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2026-01-06",
+          "title": "投资者关系公告、分拆进展公告（2026-01-06）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        },
+        {
+          "date": "2025-11-18",
+          "title": "分拆进展公告（2025-11-18）",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=879407&type=8-K&dateb=&owner=include&count=40"
+        }
+      ],
+      "status": "in_progress",
+      "source": "edgar",
+      "cik": "879407",
+      "aiSummary": "箭头制药推进分拆，旗下 Arrowhead 生物制药业务将独立开展研发。",
+      "parentMarketCap": 118.3,
+      "nameCN": "箭头制药公司",
+      "lastUpdated": "2026-11-13T05:07:18Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -928,7 +928,6 @@
       "aiSummary": "公司推进纯分拆计划，子公司将独立运营能源业务，预计近期完成相关 SEC 分拆 filings。",
       "parentMarketCap": 30.8,
       "nameCN": "新月能源",
-      "lastUpdated": "2026-11-13T05:07:18Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -1059,7 +1058,7 @@
     {
       "ticker": "CTVA",
       "name": "Corteva, Inc.  (CTVA)",
-      "spinoffName": "",
+      "spinoffName": "Corteva common stock will trade without an entitlement to receive the Vylor Co",
       "spinoffTicker": "",
       "type": "spinoff",
       "exchange": "NYSE/Nasdaq",
@@ -1127,15 +1126,15 @@
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1755672&type=8-K&dateb=&owner=include&count=40"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "1755672",
       "parentMarketCap": 559.8,
       "nameCN": "",
-      "lastUpdated": "2026-11-13T05:07:18Z",
+      "lastUpdated": "2026-11-13T20:32:39Z",
       "greenblattNote": {
-        "zh": "母公司市值约560亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
-        "en": "Parent market cap is around $560B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
+        "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
+        "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
       }
     },
     {
@@ -1918,7 +1917,6 @@
       "aiSummary": "公司启动纯分拆程序，子公司将独立运营能源业务，预计近期完成相关 SEC 分拆 filings。",
       "parentMarketCap": 277.5,
       "nameCN": "PPL能源",
-      "lastUpdated": "2026-11-13T05:07:18Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2220,7 +2218,6 @@
       "cik": "1811210",
       "parentMarketCap": 13.0,
       "nameCN": "",
-      "lastUpdated": "2026-11-13T05:07:18Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2298,11 +2295,6 @@
           "date": "2025-11-17",
           "title": "SEC 8-K: NUSCALE POWER Corp  (SMR) spin-off filing",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=10"
-        },
-        {
-          "date": "2025-11-07",
-          "title": "重大协议签订（2025-11-07）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -2311,7 +2303,7 @@
       "aiSummary": "纽斯凯尔动力推进纯分拆进程，旨在独立运营小型模块化反应堆业务。",
       "parentMarketCap": 35.7,
       "nameCN": "纽斯凯尔动力",
-      "lastUpdated": "2026-10-23T17:53:43Z",
+      "lastUpdated": "2026-11-13T20:32:39Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2787,12 +2779,12 @@
           "title": "Honeywell announces plan to spin off Advanced Materials business"
         }
       ],
-      "status": "in_progress",
+      "status": "completed",
       "source": "edgar",
       "cik": "773840",
       "aiSummary": "霍尼韦尔推进纯分拆，签署协议并完成交割，子公司将独立运营上市。",
       "parentMarketCap": 728.3,
-      "marketCap": 537.5,
+      "marketCap": 527.0,
       "nameCN": "霍尼韦尔",
       "spinoffPricePerf": [
         {
@@ -2800,18 +2792,18 @@
           "spinoff": "HONA",
           "spinoffDate": "2026-06-29",
           "parentPriceAtSpin": 227.119,
-          "parentPriceNow": 223.45,
-          "parentChangePct": -1.6,
+          "parentPriceNow": 222.49,
+          "parentChangePct": -2.0,
           "spinoffPriceAtSpin": 220.19,
-          "spinoffPriceNow": 166.23,
-          "spinoffChangePct": -24.5,
+          "spinoffPriceNow": 164.87,
+          "spinoffChangePct": -25.1,
           "updatedAt": "2026-11-13"
         }
       ],
-      "lastUpdated": "2026-11-13T05:07:18Z",
+      "lastUpdated": "2026-11-13T20:32:39Z",
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的73.8%，规模不算典型的'机构抛售'目标，上市后表现为-24.5%。",
-        "en": "At roughly 73.8% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -24.5%."
+        "zh": "分拆标的市值约为母公司的72.4%，规模不算典型的'机构抛售'目标，上市后表现为-25.1%。",
+        "en": "At roughly 72.4% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -25.1%."
       }
     },
     {
