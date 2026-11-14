@@ -1,68 +1,69 @@
 {
-  "updated": "2026-11-13T20:17:39.167257Z",
+  "updated": "2026-11-14T04:47:06.025362Z",
   "quotes": {
     "HCC": {
-      "c": 83.39,
+      "c": 83.35,
       "h": 84.65,
       "l": 82.16,
-      "o": 83.58,
+      "o": 84.05,
       "pc": 84.25,
-      "t": 1794600967
+      "t": 1794603600
     },
     "RIG": {
-      "c": 5.5,
-      "h": 5.51,
+      "c": 5.54,
+      "h": 5.54,
       "l": 5.31,
-      "o": 5.37,
+      "o": 5.35,
       "pc": 5.32,
-      "t": 1794601051
+      "t": 1794603600
     },
     "AMR": {
-      "c": 154.73,
+      "c": 153.86,
       "h": 156.22,
       "l": 151.56,
-      "o": 155.06,
+      "o": 154.71,
       "pc": 155.41,
-      "t": 1794601037
+      "t": 1794603600
     },
     "KSPI": {
-      "c": 89.52,
-      "h": 89.93,
+      "c": 89.91,
+      "h": 89.92,
       "l": 88.38,
-      "o": 89.06,
+      "o": 89,
       "pc": 88.64,
-      "t": 1794601006
+      "t": 1794603600
     }
   },
   "costBasis": {
     "HCC": {
       "recent": {
-        "buy": 79.96,
-        "low": 75.71,
-        "high": 105.15,
-        "quarter": "2026 Q1",
+        "buy": 78.52,
+        "low": 74.06,
+        "high": 108.66,
+        "quarter": "2026 Q3",
         "source": "yahoo"
       },
       "allTime": {
-        "avg": 52.14,
-        "quarters": 8,
+        "avg": 53.12,
+        "buy_quarters": 9,
         "first": "2023 Q4",
-        "last": "2026 Q1"
+        "last": "2026 Q3",
+        "method": "avco"
       }
     },
     "RIG": {
       "recent": {
-        "buy": 5.37,
-        "low": 4.99,
-        "high": 7.66,
-        "quarter": "2026 Q2",
+        "buy": 5.0,
+        "low": 4.8,
+        "high": 6.27,
+        "quarter": "2026 Q3",
         "source": "yahoo"
       },
       "allTime": {
-        "avg": 2.72,
-        "buy_quarters": 3,
+        "avg": 3.37,
+        "buy_quarters": 4,
         "first": "2025 Q3",
-        "last": "2026 Q2",
+        "last": "2026 Q3",
         "method": "avco"
       }
     },
@@ -83,29 +84,22 @@
     },
     "KSPI": {
       "recent": {
-        "buy": 73.3,
-        "low": 69.13,
-        "high": 95.2,
-        "quarter": "2026 Q2",
+        "buy": 86.04,
+        "low": 82.64,
+        "high": 107.58,
+        "quarter": "2026 Q3",
         "source": "yahoo"
       },
       "allTime": {
-        "avg": 73.3,
-        "buy_quarters": 1,
+        "avg": 85.93,
+        "buy_quarters": 2,
         "first": "2026 Q2",
-        "last": "2026 Q2",
+        "last": "2026 Q3",
         "method": "avco"
       }
     }
   },
   "exitPerf": {
-    "CHK": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 20.38,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 31.08,
-      "changePct": 52.5
-    },
     "GOOG": {
       "entryQuarter": "2015 Q4",
       "entryPrice": 758.87,
@@ -120,6 +114,13 @@
       "exitPrice": 37.55,
       "changePct": -21.7
     },
+    "BRK.B": {
+      "entryQuarter": "2014 Q1",
+      "entryPrice": 131.47,
+      "exitQuarter": "2016 Q3",
+      "exitPrice": 146.28,
+      "changePct": 11.3
+    },
     "GS": {
       "entryQuarter": "2013 Q2",
       "entryPrice": 151.25,
@@ -127,12 +128,12 @@
       "exitPrice": 127.4,
       "changePct": -15.8
     },
-    "BRK.B": {
-      "entryQuarter": "2014 Q1",
-      "entryPrice": 131.47,
-      "exitQuarter": "2016 Q3",
-      "exitPrice": 146.28,
-      "changePct": 11.3
+    "CHK": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 20.38,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 31.08,
+      "changePct": 52.5
     }
   }
 }

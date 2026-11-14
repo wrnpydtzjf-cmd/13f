@@ -1762,5 +1762,21 @@
   "CPB": {
     "cnName": "汤普森食品",
     "sector": "消费"
+  },
+  "ROL": {
+    "cnName": "Rollins, Inc.",
+    "sector": "消费"
+  },
+  "HONA": {
+    "cnName": "Honeywell Aerospace Inc.",
+    "sector": "工业"
+  },
+  "SITE": {
+    "cnName": "SiteOne Landscape Supply, Inc.",
+    "sector": "工业"
+  },
+  "GFL": {
+    "cnName": "GFL Environmental Inc.",
+    "sector": "工业"
   }
 }

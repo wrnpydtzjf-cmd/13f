@@ -2,26 +2,26 @@
   "meta": {
     "name": "Mohnish Pabrai",
     "cik": "1549575",
-    "lastUpdated": "2026-11-13T20:17:10Z",
+    "lastUpdated": "2026-11-14T04:46:20Z",
     "aiSummary": "帕伯莱在 2026 Q2 新建 Kaspi.kz 仓位并减持阿尔法金属，显示其继续聚焦高增长潜力标的并优化组合结构。",
     "aiSummaryQuarter": "2026 Q2"
   },
   "current": {
-    "quarter": "2026 Q2",
-    "filingDate": "2026-08-13",
-    "periodEnd": "2026-06-30",
-    "totalValue": 326749980,
+    "quarter": "2026 Q3",
+    "filingDate": "2026-11-13",
+    "periodEnd": "2026-09-30",
+    "totalValue": 362064212,
     "holdings": [
       {
         "ticker": "HCC",
         "name": "WARRIOR MET COAL INC",
         "cls": "COM",
         "cusip": "93627C101",
-        "shares": 1744050,
-        "value": 141547098,
+        "shares": 1867295,
+        "value": 164452671,
         "sector": "煤炭",
-        "prevShares": 1810831,
-        "prevValue": 168678908,
+        "prevShares": 1744050,
+        "prevValue": 141547098,
         "cnName": "冶金煤业"
       },
       {
@@ -29,11 +29,11 @@
         "name": "TRANSOCEAN LTD",
         "cls": "REGISTERED SHS",
         "cusip": "H8817H100",
-        "shares": 20398659,
-        "value": 99749443,
+        "shares": 28475305,
+        "value": 149210598,
         "sector": "油气钻探",
-        "prevShares": 20392672,
-        "prevValue": 135203415,
+        "prevShares": 20398659,
+        "prevValue": 99749443,
         "cnName": "越洋钻探"
       },
       {
@@ -41,11 +41,11 @@
         "name": "ALPHA METALLURGICAL RESOUR I",
         "cls": "COM",
         "cusip": "020764106",
-        "shares": 517194,
-        "value": 85305978,
+        "shares": 170744,
+        "value": 28722556,
         "sector": "冶金/煤炭",
-        "prevShares": 579738,
-        "prevValue": 119002819,
+        "prevShares": 517194,
+        "prevValue": 85305978,
         "cnName": "阿尔法金属"
       },
       {
@@ -53,16 +53,16 @@
         "name": "KASPI KZ JSC",
         "cls": "SPONSORED ADS",
         "cusip": "48581R205",
-        "shares": 1702,
-        "value": 147461,
+        "shares": 209211,
+        "value": 19678387,
         "sector": "金融服务",
-        "prevShares": 0,
-        "prevValue": 0,
+        "prevShares": 1702,
+        "prevValue": 147461,
         "cnName": "Joint Stock Company Kaspi.kz"
       }
     ],
-    "prevQuarter": "2026 Q1",
-    "prevTotalValue": 422885142
+    "prevQuarter": "2026 Q2",
+    "prevTotalValue": 326749980
   },
   "history": {
     "quarters": [
@@ -118,7 +118,8 @@
       "2025 Q3",
       "2025 Q4",
       "2026 Q1",
-      "2026 Q2"
+      "2026 Q2",
+      "2026 Q3"
     ],
     "values": [
       421,
@@ -173,7 +174,8 @@
       337,
       402,
       423,
-      327
+      327,
+      362
     ],
     "holdings": {
       "2013 Q2": [
@@ -2772,6 +2774,56 @@
           "sector": "金融服务",
           "prevShares": 0,
           "prevValue": 0,
+          "cnName": "Joint Stock Company Kaspi.kz"
+        }
+      ],
+      "2026 Q3": [
+        {
+          "ticker": "HCC",
+          "name": "WARRIOR MET COAL INC",
+          "cls": "COM",
+          "cusip": "93627C101",
+          "shares": 1867295,
+          "value": 164452671,
+          "sector": "煤炭",
+          "prevShares": 1744050,
+          "prevValue": 141547098,
+          "cnName": "冶金煤业"
+        },
+        {
+          "ticker": "RIG",
+          "name": "TRANSOCEAN LTD",
+          "cls": "REGISTERED SHS",
+          "cusip": "H8817H100",
+          "shares": 28475305,
+          "value": 149210598,
+          "sector": "油气钻探",
+          "prevShares": 20398659,
+          "prevValue": 99749443,
+          "cnName": "越洋钻探"
+        },
+        {
+          "ticker": "AMR",
+          "name": "ALPHA METALLURGICAL RESOUR I",
+          "cls": "COM",
+          "cusip": "020764106",
+          "shares": 170744,
+          "value": 28722556,
+          "sector": "冶金/煤炭",
+          "prevShares": 517194,
+          "prevValue": 85305978,
+          "cnName": "阿尔法金属"
+        },
+        {
+          "ticker": "KSPI",
+          "name": "KASPI KZ JSC",
+          "cls": "SPONSORED ADS",
+          "cusip": "48581R205",
+          "shares": 209211,
+          "value": 19678387,
+          "sector": "金融服务",
+          "prevShares": 1702,
+          "prevValue": 147461,
           "cnName": "Joint Stock Company Kaspi.kz"
         }
       ]

@@ -1,93 +1,93 @@
 {
-  "updated": "2026-11-13T20:20:56.552833Z",
+  "updated": "2026-11-14T04:51:11.649849Z",
   "quotes": {
     "BN": {
-      "c": 40.92,
+      "c": 40.97,
       "h": 41.69,
       "l": 40.75,
-      "o": 41.66,
+      "o": 41.63,
       "pc": 41.64,
-      "t": 1794601225
+      "t": 1794603600
     },
     "AMZN": {
-      "c": 265.48,
+      "c": 266.66,
       "h": 270.05,
       "l": 263.91,
-      "o": 268.85,
+      "o": 269.56,
       "pc": 267.44,
-      "t": 1794601231
+      "t": 1794603600
     },
     "UBER": {
-      "c": 69.41,
+      "c": 69.69,
       "h": 70.5,
       "l": 69.03,
-      "o": 69.22,
+      "o": 69.32,
       "pc": 69.12,
-      "t": 1794601228
+      "t": 1794603600
     },
     "MSFT": {
-      "c": 524.76,
-      "h": 526.08,
+      "c": 523.88,
+      "h": 526.42,
       "l": 513.82,
-      "o": 516.25,
+      "o": 519.75,
       "pc": 523,
-      "t": 1794601230
+      "t": 1794603600
     },
     "QSR": {
-      "c": 75.83,
+      "c": 75.41,
       "h": 76.59,
-      "l": 75.64,
-      "o": 75.88,
+      "l": 75.19,
+      "o": 75.77,
       "pc": 75.48,
-      "t": 1794601206
+      "t": 1794603600
     },
     "META": {
-      "c": 640.84,
-      "h": 642.64,
+      "c": 641.69,
+      "h": 643.91,
       "l": 624.79,
-      "o": 625.41,
+      "o": 627.21,
       "pc": 623.61,
-      "t": 1794601231
+      "t": 1794603600
     },
     "HHH": {
-      "c": 83.17,
+      "c": 83.02,
       "h": 83.73,
       "l": 82.29,
-      "o": 83.07,
+      "o": 83.42,
       "pc": 82.76,
-      "t": 1794601228
+      "t": 1794603600
     },
     "SEG": {
-      "c": 20.46,
+      "c": 20.5,
       "h": 20.59,
       "l": 20.17,
-      "o": 20.48,
+      "o": 20.47,
       "pc": 20.5,
-      "t": 1794600978
+      "t": 1794603600
     },
     "GOOG": {
-      "c": 292.17,
+      "c": 292.52,
       "h": 301.62,
       "l": 290.34,
-      "o": 298.27,
+      "o": 299.89,
       "pc": 295.35,
-      "t": 1794601232
+      "t": 1794603600
     },
     "HTZ": {
-      "c": 1.53,
+      "c": 1.5,
       "h": 1.56,
       "l": 1.48,
-      "o": 1.55,
+      "o": 1.56,
       "pc": 1.54,
-      "t": 1794601231
+      "t": 1794603600
     },
     "GOOGL": {
-      "c": 295.24,
+      "c": 295.77,
       "h": 304.97,
       "l": 293.44,
-      "o": 301.49,
+      "o": 302.98,
       "pc": 298.7,
-      "t": 1794601232
+      "t": 1794603600
     }
   },
   "costBasis": {
@@ -269,40 +269,12 @@
     }
   },
   "exitPerf": {
-    "MDLZ": {
-      "entryQuarter": "2015 Q3",
-      "entryPrice": 31.63,
-      "exitQuarter": "2018 Q2",
-      "exitPrice": 34.08,
-      "changePct": 7.7
-    },
-    "APD": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 69.21,
-      "exitQuarter": "2017 Q1",
-      "exitPrice": 116.45,
-      "changePct": 68.3
-    },
-    "CP": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 74.53,
-      "exitQuarter": "2025 Q1",
-      "exitPrice": 79.79,
-      "changePct": 7.1
-    },
-    "CMG": {
-      "entryQuarter": "2016 Q3",
-      "entryPrice": 57.18,
-      "exitQuarter": "2025 Q3",
-      "exitPrice": 54.43,
-      "changePct": -4.8
-    },
-    "ADP": {
-      "entryQuarter": "2017 Q2",
-      "entryPrice": 83.61,
-      "exitQuarter": "2019 Q2",
-      "exitPrice": 143.92,
-      "changePct": 72.1
+    "LOW": {
+      "entryQuarter": "2018 Q2",
+      "entryPrice": 73.97,
+      "exitQuarter": "2023 Q4",
+      "exitPrice": 208.05,
+      "changePct": 181.3
     },
     "SBUX": {
       "entryQuarter": "2018 Q4",
@@ -311,33 +283,33 @@
       "exitPrice": 91.06,
       "changePct": 83.0
     },
-    "PG": {
+    "MDLZ": {
+      "entryQuarter": "2015 Q3",
+      "entryPrice": 31.63,
+      "exitQuarter": "2018 Q2",
+      "exitPrice": 34.08,
+      "changePct": 7.7
+    },
+    "ADP": {
+      "entryQuarter": "2017 Q2",
+      "entryPrice": 83.61,
+      "exitQuarter": "2019 Q2",
+      "exitPrice": 143.92,
+      "changePct": 72.1
+    },
+    "CP": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 74.53,
+      "exitQuarter": "2025 Q1",
+      "exitPrice": 79.79,
+      "changePct": 7.1
+    },
+    "APD": {
       "entryQuarter": "2013 Q2",
-      "entryPrice": 52.2,
-      "exitQuarter": "2013 Q4",
-      "exitPrice": 58.92,
-      "changePct": 12.9
-    },
-    "LOW": {
-      "entryQuarter": "2018 Q2",
-      "entryPrice": 73.97,
-      "exitQuarter": "2023 Q4",
-      "exitPrice": 208.05,
-      "changePct": 181.3
-    },
-    "ZTS": {
-      "entryQuarter": "2014 Q3",
-      "entryPrice": 32.14,
-      "exitQuarter": "2016 Q3",
-      "exitPrice": 47.66,
-      "changePct": 48.3
-    },
-    "HLT": {
-      "entryQuarter": "2018 Q4",
-      "entryPrice": 73.72,
-      "exitQuarter": "2025 Q4",
-      "exitPrice": 287.76,
-      "changePct": 290.3
+      "entryPrice": 69.21,
+      "exitQuarter": "2017 Q1",
+      "exitPrice": 116.45,
+      "changePct": 68.3
     },
     "A": {
       "entryQuarter": "2019 Q4",
@@ -346,12 +318,12 @@
       "exitPrice": 139.81,
       "changePct": 113.3
     },
-    "BRK.B": {
-      "entryQuarter": "2019 Q2",
-      "entryPrice": 193.36,
-      "exitQuarter": "2020 Q1",
-      "exitPrice": 226.04,
-      "changePct": 16.9
+    "CMG": {
+      "entryQuarter": "2016 Q3",
+      "entryPrice": 57.18,
+      "exitQuarter": "2025 Q3",
+      "exitPrice": 54.43,
+      "changePct": -4.8
     },
     "NKE": {
       "entryQuarter": "2017 Q4",
@@ -360,12 +332,40 @@
       "exitPrice": 82.66,
       "changePct": 16.6
     },
+    "ZTS": {
+      "entryQuarter": "2014 Q3",
+      "entryPrice": 32.14,
+      "exitQuarter": "2016 Q3",
+      "exitPrice": 47.66,
+      "changePct": 48.3
+    },
+    "PG": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 52.2,
+      "exitQuarter": "2013 Q4",
+      "exitPrice": 58.92,
+      "changePct": 12.9
+    },
+    "BRK.B": {
+      "entryQuarter": "2019 Q2",
+      "entryPrice": 193.36,
+      "exitQuarter": "2020 Q1",
+      "exitPrice": 226.04,
+      "changePct": 16.9
+    },
     "DPZ": {
       "entryQuarter": "2021 Q1",
       "entryPrice": 313.98,
       "exitQuarter": "2022 Q2",
       "exitPrice": 370.72,
       "changePct": 18.1
+    },
+    "HLT": {
+      "entryQuarter": "2018 Q4",
+      "entryPrice": 73.72,
+      "exitQuarter": "2025 Q4",
+      "exitPrice": 287.76,
+      "changePct": 290.3
     }
   }
 }
