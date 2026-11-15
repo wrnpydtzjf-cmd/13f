@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:41:01.831779Z",
+  "updated": "2026-11-15T04:41:20.096480Z",
   "quotes": {
     "?ICON PUB LTD CO": {
       "error": true
@@ -839,12 +839,12 @@
     }
   },
   "exitPerf": {
-    "C": {
-      "entryQuarter": "2018 Q3",
-      "entryPrice": 49.99,
-      "exitQuarter": "2019 Q3",
-      "exitPrice": 56.21,
-      "changePct": 12.4
+    "ORCL": {
+      "entryQuarter": "2013 Q2",
+      "entryPrice": 25.93,
+      "exitQuarter": "2014 Q2",
+      "exitPrice": 35.54,
+      "changePct": 37.1
     },
     "BRK.B": {
       "entryQuarter": "2019 Q2",
@@ -853,12 +853,19 @@
       "exitPrice": 297.02,
       "changePct": 54.5
     },
-    "DLTR": {
-      "entryQuarter": "2019 Q4",
-      "entryPrice": 70.03,
-      "exitQuarter": "2024 Q3",
-      "exitPrice": 104.01,
-      "changePct": 48.5
+    "ICLR": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 87.81,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 183.85,
+      "changePct": 109.4
+    },
+    "WFC": {
+      "entryQuarter": "2023 Q2",
+      "entryPrice": 34.54,
+      "exitQuarter": "2024 Q1",
+      "exitPrice": 53.75,
+      "changePct": 55.6
     },
     "SCHW": {
       "entryQuarter": "2020 Q1",
@@ -888,26 +895,19 @@
       "exitPrice": 57.32,
       "changePct": 88.4
     },
-    "ORCL": {
-      "entryQuarter": "2013 Q2",
-      "entryPrice": 25.93,
-      "exitQuarter": "2014 Q2",
-      "exitPrice": 35.54,
-      "changePct": 37.1
+    "C": {
+      "entryQuarter": "2018 Q3",
+      "entryPrice": 49.99,
+      "exitQuarter": "2019 Q3",
+      "exitPrice": 56.21,
+      "changePct": 12.4
     },
-    "WFC": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 34.54,
-      "exitQuarter": "2024 Q1",
-      "exitPrice": 53.75,
-      "changePct": 55.6
-    },
-    "ICLR": {
-      "entryQuarter": "2023 Q2",
-      "entryPrice": 87.81,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 183.85,
-      "changePct": 109.4
+    "DLTR": {
+      "entryQuarter": "2019 Q4",
+      "entryPrice": 70.03,
+      "exitQuarter": "2024 Q3",
+      "exitPrice": 104.01,
+      "changePct": 48.5
     }
   }
 }
