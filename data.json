@@ -6,26 +6,38 @@
       "Li Lu"
     ],
     "location": "Seattle, WA",
-    "lastUpdated": "2026-11-16T04:34:18Z",
+    "lastUpdated": "2026-11-16T22:43:04Z",
     "aiSummary": "李录二季度大幅增持拼多多与伯克希尔，并新建仓腾讯音乐，显示其对互联网及消费板块的持续看好。",
     "aiSummaryQuarter": "2026 Q2"
   },
   "current": {
-    "quarter": "2026 Q2",
-    "filingDate": "2026-08-14",
-    "periodEnd": "2026-06-30",
-    "totalValue": 3702921099,
+    "quarter": "2026 Q3",
+    "filingDate": "2026-11-16",
+    "periodEnd": "2026-09-30",
+    "totalValue": 3781431260,
     "holdings": [
+      {
+        "ticker": "PDD",
+        "name": "PDD HOLDINGS INC",
+        "cls": "SPON ADS",
+        "cusip": "722304102",
+        "shares": 11761119,
+        "value": 916661615,
+        "sector": "电商",
+        "prevShares": 10761119,
+        "prevValue": 820858157,
+        "cnName": "拼多多"
+      },
       {
         "ticker": "GOOGL",
         "name": "ALPHABET INC",
         "cls": "CAP STK CL A",
         "cusip": "02079K305",
         "shares": 2543300,
-        "value": 908899121,
+        "value": 875098664,
         "sector": "互联网",
         "prevShares": 2543300,
-        "prevValue": 731351348,
+        "prevValue": 908899121,
         "cnName": "谷歌A"
       },
       {
@@ -34,23 +46,11 @@
         "cls": "CAP STK CL C",
         "cusip": "02079K107",
         "shares": 2451300,
-        "value": 866117829,
+        "value": 835255962,
         "sector": "互联网",
         "prevShares": 2451300,
-        "prevValue": 703179918,
+        "prevValue": 866117829,
         "cnName": "谷歌C"
-      },
-      {
-        "ticker": "PDD",
-        "name": "PDD HOLDINGS INC",
-        "cls": "SPON ADS",
-        "cusip": "722304102",
-        "shares": 10761119,
-        "value": 820858157,
-        "sector": "电商",
-        "prevShares": 4608000,
-        "prevValue": 470845440,
-        "cnName": "拼多多"
       },
       {
         "ticker": "BRK/B",
@@ -58,10 +58,10 @@
         "cls": "CL B NEW",
         "cusip": "084670702",
         "shares": 1108318,
-        "value": 554591244,
+        "value": 551886948,
         "sector": "其他",
-        "prevShares": 897749,
-        "prevValue": 430201321,
+        "prevShares": 1108318,
+        "prevValue": 554591244,
         "cnName": "伯克希尔哈撒韦 B 类"
       },
       {
@@ -70,11 +70,23 @@
         "cls": "COM",
         "cusip": "27579R104",
         "shares": 2776351,
-        "value": 358399151,
+        "value": 344073179,
         "sector": "金融/银行",
         "prevShares": 2776351,
-        "prevValue": 296403233,
+        "prevValue": 358399151,
         "cnName": "华美银行"
+      },
+      {
+        "ticker": "TME",
+        "name": "TENCENT MUSIC ENTERTAINM",
+        "cls": "SPON ADS",
+        "cusip": "88034P109",
+        "shares": 14824464,
+        "value": 117558000,
+        "sector": "娱乐",
+        "prevShares": 6590836,
+        "prevValue": 55033481,
+        "cnName": "腾讯音乐"
       },
       {
         "ticker": "CROX",
@@ -82,23 +94,11 @@
         "cls": "COM",
         "cusip": "227046109",
         "shares": 887093,
-        "value": 107018900,
+        "value": 104064880,
         "sector": "消费",
         "prevShares": 887093,
-        "prevValue": 73646461,
+        "prevValue": 107018900,
         "cnName": "卡骆驰"
-      },
-      {
-        "ticker": "TME",
-        "name": "TENCENT MUSIC ENTERTAINM",
-        "cls": "SPON ADS",
-        "cusip": "88034P109",
-        "shares": 6590836,
-        "value": 55033481,
-        "sector": "娱乐",
-        "prevShares": 0,
-        "prevValue": 0,
-        "cnName": "腾讯音乐"
       },
       {
         "ticker": "AAPL",
@@ -106,15 +106,15 @@
         "cls": "COM",
         "cusip": "037833100",
         "shares": 110600,
-        "value": 32003216,
+        "value": 36832012,
         "sector": "科技",
         "prevShares": 110600,
-        "prevValue": 28069174,
+        "prevValue": 32003216,
         "cnName": "苹果"
       }
     ],
-    "prevQuarter": "2026 Q1",
-    "prevTotalValue": 3201226867
+    "prevQuarter": "2026 Q2",
+    "prevTotalValue": 3702921099
   },
   "history": {
     "quarters": [
@@ -152,7 +152,8 @@
       "2025 Q3",
       "2025 Q4",
       "2026 Q1",
-      "2026 Q2"
+      "2026 Q2",
+      "2026 Q3"
     ],
     "values": [
       112,
@@ -189,7 +190,8 @@
       3230,
       3569,
       3201,
-      3703
+      3703,
+      3781
     ],
     "holdings": {
       "2016 Q4": [
@@ -2405,6 +2407,104 @@
           "sector": "科技",
           "prevShares": 110600,
           "prevValue": 28069174,
+          "cnName": "苹果"
+        }
+      ],
+      "2026 Q3": [
+        {
+          "ticker": "PDD",
+          "name": "PDD HOLDINGS INC",
+          "cls": "SPON ADS",
+          "cusip": "722304102",
+          "shares": 11761119,
+          "value": 916661615,
+          "sector": "电商",
+          "prevShares": 10761119,
+          "prevValue": 820858157,
+          "cnName": "拼多多"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "ALPHABET INC",
+          "cls": "CAP STK CL A",
+          "cusip": "02079K305",
+          "shares": 2543300,
+          "value": 875098664,
+          "sector": "互联网",
+          "prevShares": 2543300,
+          "prevValue": 908899121,
+          "cnName": "谷歌A"
+        },
+        {
+          "ticker": "GOOG",
+          "name": "ALPHABET INC",
+          "cls": "CAP STK CL C",
+          "cusip": "02079K107",
+          "shares": 2451300,
+          "value": 835255962,
+          "sector": "互联网",
+          "prevShares": 2451300,
+          "prevValue": 866117829,
+          "cnName": "谷歌C"
+        },
+        {
+          "ticker": "BRK/B",
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "cls": "CL B NEW",
+          "cusip": "084670702",
+          "shares": 1108318,
+          "value": 551886948,
+          "sector": "其他",
+          "prevShares": 1108318,
+          "prevValue": 554591244,
+          "cnName": "伯克希尔哈撒韦 B 类"
+        },
+        {
+          "ticker": "EWBC",
+          "name": "EAST WEST BANCORP INC",
+          "cls": "COM",
+          "cusip": "27579R104",
+          "shares": 2776351,
+          "value": 344073179,
+          "sector": "金融/银行",
+          "prevShares": 2776351,
+          "prevValue": 358399151,
+          "cnName": "华美银行"
+        },
+        {
+          "ticker": "TME",
+          "name": "TENCENT MUSIC ENTERTAINM",
+          "cls": "SPON ADS",
+          "cusip": "88034P109",
+          "shares": 14824464,
+          "value": 117558000,
+          "sector": "娱乐",
+          "prevShares": 6590836,
+          "prevValue": 55033481,
+          "cnName": "腾讯音乐"
+        },
+        {
+          "ticker": "CROX",
+          "name": "CROCS INC",
+          "cls": "COM",
+          "cusip": "227046109",
+          "shares": 887093,
+          "value": 104064880,
+          "sector": "消费",
+          "prevShares": 887093,
+          "prevValue": 107018900,
+          "cnName": "卡骆驰"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "APPLE INC",
+          "cls": "COM",
+          "cusip": "037833100",
+          "shares": 110600,
+          "value": 36832012,
+          "sector": "科技",
+          "prevShares": 110600,
+          "prevValue": 32003216,
           "cnName": "苹果"
         }
       ]

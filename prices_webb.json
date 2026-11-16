@@ -1,6 +1,6 @@
 {
   "quarter": "2026 Q1",
-  "updatedAt": "2026-11-16T04:35:38Z",
+  "updatedAt": "2026-11-16T22:45:47Z",
   "currency": "HKD",
   "quotes": {
     "0709.HK": {
@@ -8,11 +8,11 @@
       "currency": "HKD"
     },
     "1382.HK": {
-      "c": 0.71,
+      "c": 0.7,
       "currency": "HKD"
     },
     "3828.HK": {
-      "c": 0.645,
+      "c": 0.64,
       "currency": "HKD"
     },
     "1977.HK": {
@@ -20,19 +20,19 @@
       "currency": "HKD"
     },
     "0057.HK": {
-      "c": 1.48,
+      "c": 1.475,
       "currency": "HKD"
     },
     "1127.HK": {
-      "c": 1.195,
+      "c": 1.2,
       "currency": "HKD"
     },
     "0255.HK": {
-      "c": 1.39,
+      "c": 1.38,
       "currency": "HKD"
     },
     "1373.HK": {
-      "c": 0.64,
+      "c": 0.63,
       "currency": "HKD"
     },
     "0229.HK": {
@@ -44,7 +44,7 @@
       "currency": "HKD"
     },
     "0927.HK": {
-      "c": 0.38,
+      "c": 0.36,
       "currency": "HKD"
     },
     "0423.HK": {
@@ -76,7 +76,7 @@
       "currency": "HKD"
     },
     "0518.HK": {
-      "c": 0.144,
+      "c": 0.14,
       "currency": "HKD"
     },
     "0125.HK": {
@@ -84,7 +84,7 @@
       "currency": "HKD"
     },
     "0333.HK": {
-      "c": 0.161,
+      "c": 0.164,
       "currency": "HKD"
     },
     "0483.HK": {

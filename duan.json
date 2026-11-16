@@ -5,26 +5,26 @@
     "notablePeople": [
       "Duan Yongping"
     ],
-    "lastUpdated": "2026-11-16T04:34:20Z",
+    "lastUpdated": "2026-11-16T22:43:22Z",
     "aiSummary": "段永平 2026 年二季度新增阿里巴巴并大幅减持英伟达等科技股，同时增持拼多多与迪士尼，显示其持仓结构发生显著调整。",
     "aiSummaryQuarter": "2026 Q2"
   },
   "current": {
-    "quarter": "2026 Q2",
-    "filingDate": "2026-08-14",
-    "periodEnd": "2026-06-30",
-    "totalValue": 19100584155,
+    "quarter": "2026 Q3",
+    "filingDate": "2026-11-16",
+    "periodEnd": "2026-09-30",
+    "totalValue": 17190742843,
     "holdings": [
       {
         "ticker": "AAPL",
         "name": "APPLE INC",
         "cls": "COM",
         "cusip": "037833100",
-        "shares": 27098707,
-        "value": 7841281858,
+        "shares": 21202403,
+        "value": 7060824247,
         "sector": "科技",
-        "prevShares": 28945607,
-        "prevValue": 7346105601,
+        "prevShares": 27098707,
+        "prevValue": 7841281858,
         "cnName": "苹果"
       },
       {
@@ -32,11 +32,11 @@
         "name": "BERKSHIRE HATHAWAY INC DEL",
         "cls": "CL B NEW",
         "cusip": "084670702",
-        "shares": 9229696,
-        "value": 4618447581,
+        "shares": 8356796,
+        "value": 4161266568,
         "sector": "其他",
-        "prevShares": 9147796,
-        "prevValue": 4383623843,
+        "prevShares": 9229696,
+        "prevValue": 4618447581,
         "cnName": "伯克希尔哈撒韦 B 类"
       },
       {
@@ -44,11 +44,11 @@
         "name": "PDD HOLDINGS INC",
         "cls": "SPONSORED ADS",
         "cusip": "722304102",
-        "shares": 25022094,
-        "value": 1908685330,
+        "shares": 27990859,
+        "value": 2181607550,
         "sector": "电商",
-        "prevShares": 19748294,
-        "prevValue": 2017880681,
+        "prevShares": 25022094,
+        "prevValue": 1908685330,
         "cnName": "拼多多"
       },
       {
@@ -56,36 +56,12 @@
         "name": "TESLA INC",
         "cls": "COM",
         "cusip": "88160R101",
-        "shares": 3380400,
-        "value": 1421796240,
+        "shares": 4080000,
+        "value": 1447624800,
         "sector": "汽车/新能源",
-        "prevShares": 3408900,
-        "prevValue": 1267258575,
+        "prevShares": 3380400,
+        "prevValue": 1421796240,
         "cnName": "特斯拉"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "NVIDIA CORPORATION",
-        "cls": "COM",
-        "cusip": "67066G104",
-        "shares": 6280675,
-        "value": 1256700261,
-        "sector": "半导体",
-        "prevShares": 13843775,
-        "prevValue": 2414354360,
-        "cnName": "英伟达"
-      },
-      {
-        "ticker": "GOOG",
-        "name": "ALPHABET INC",
-        "cls": "CAP STK CL C",
-        "cusip": "02079K107",
-        "shares": 1968600,
-        "value": 695565438,
-        "sector": "互联网",
-        "prevShares": 3706000,
-        "prevValue": 1063103160,
-        "cnName": "谷歌C"
       },
       {
         "ticker": "OXY",
@@ -93,47 +69,47 @@
         "cls": "COM",
         "cusip": "674599105",
         "shares": 10261500,
-        "value": 498401055,
+        "value": 567666180,
         "sector": "能源",
         "prevShares": 10261500,
-        "prevValue": 666997500,
+        "prevValue": 498401055,
         "cnName": "西方石油"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA CORPORATION",
+        "cls": "COM",
+        "cusip": "67066G104",
+        "shares": 2319475,
+        "value": 529721701,
+        "sector": "半导体",
+        "prevShares": 6280675,
+        "prevValue": 1256700261,
+        "cnName": "英伟达"
+      },
+      {
+        "ticker": "GOOG",
+        "name": "ALPHABET INC",
+        "cls": "CAP STK CL C",
+        "cusip": "02079K107",
+        "shares": 1151700,
+        "value": 392430258,
+        "sector": "互联网",
+        "prevShares": 1968600,
+        "prevValue": 695565438,
+        "cnName": "谷歌C"
       },
       {
         "ticker": "MSFT",
         "name": "MICROSOFT CORP",
         "cls": "COM",
         "cusip": "594918104",
-        "shares": 754100,
-        "value": 281294382,
+        "shares": 694100,
+        "value": 356003890,
         "sector": "科技",
-        "prevShares": 1016000,
-        "prevValue": 376092720,
+        "prevShares": 754100,
+        "prevValue": 281294382,
         "cnName": "微软"
-      },
-      {
-        "ticker": "CRDO",
-        "name": "CREDO TECHNOLOGY GROUP HOLDI",
-        "cls": "ORDINARY SHARES",
-        "cusip": "G25457105",
-        "shares": 701200,
-        "value": 190691340,
-        "sector": "半导体",
-        "prevShares": 751200,
-        "prevValue": 70515144,
-        "cnName": "思瑞光电"
-      },
-      {
-        "ticker": "UNH",
-        "name": "UNITEDHEALTH GROUP INC",
-        "cls": "COM",
-        "cusip": "91324P102",
-        "shares": 399600,
-        "value": 166085748,
-        "sector": "保险",
-        "prevShares": 601400,
-        "prevValue": 162732826,
-        "cnName": "联合健康"
       },
       {
         "ticker": "DIS",
@@ -141,35 +117,47 @@
         "cls": "COM",
         "cusip": "254687106",
         "shares": 1706600,
-        "value": 164260250,
+        "value": 179022340,
         "sector": "娱乐",
-        "prevShares": 1511800,
-        "prevValue": 145707284,
+        "prevShares": 1706600,
+        "prevValue": 164260250,
         "cnName": "迪士尼"
       },
       {
-        "ticker": "BABA",
-        "name": "ALIBABA GROUP HLDG LTD",
-        "cls": "SPONSORED ADS",
-        "cusip": "01609W102",
-        "shares": 301400,
-        "value": 28928372,
-        "sector": "电商",
-        "prevShares": 0,
-        "prevValue": 0,
-        "cnName": "阿里巴巴"
+        "ticker": "UNH",
+        "name": "UNITEDHEALTH GROUP INC",
+        "cls": "COM",
+        "cusip": "91324P102",
+        "shares": 399600,
+        "value": 146685168,
+        "sector": "保险",
+        "prevShares": 399600,
+        "prevValue": 166085748,
+        "cnName": "联合健康"
       },
       {
-        "ticker": "CRCL",
-        "name": "CIRCLE INTERNET GROUP INC",
-        "cls": "COM CL A",
-        "cusip": "172573107",
-        "shares": 200000,
-        "value": 12526000,
-        "sector": "金融服务",
-        "prevShares": 200000,
-        "prevValue": 19082000,
-        "cnName": "圈网集团"
+        "ticker": "CRDO",
+        "name": "CREDO TECHNOLOGY GROUP HOLDI",
+        "cls": "ORDINARY SHARES",
+        "cusip": "G25457105",
+        "shares": 601300,
+        "value": 117127227,
+        "sector": "半导体",
+        "prevShares": 701200,
+        "prevValue": 190691340,
+        "cnName": "思瑞光电"
+      },
+      {
+        "ticker": "SPCX",
+        "name": "SPACE EXPLORATION TECHN CORP",
+        "cls": "CLASS A COM STK",
+        "cusip": "84615Q103",
+        "shares": 199900,
+        "value": 30156914,
+        "sector": "工业",
+        "prevShares": 0,
+        "prevValue": 0,
+        "cnName": "Space Exploration Technologies Corp."
       },
       {
         "ticker": "PLTR",
@@ -177,10 +165,10 @@
         "cls": "CL A",
         "cusip": "69608A108",
         "shares": 60000,
-        "value": 7000200,
+        "value": 11223000,
         "sector": "科技",
         "prevShares": 60000,
-        "prevValue": 8776800,
+        "prevValue": 7000200,
         "cnName": "Palantir Technologies Inc."
       },
       {
@@ -189,10 +177,10 @@
         "cls": "COM",
         "cusip": "871607107",
         "shares": 10000,
-        "value": 4460700,
+        "value": 4349400,
         "sector": "半导体",
         "prevShares": 10000,
-        "prevValue": 3964800,
+        "prevValue": 4460700,
         "cnName": "新思科技"
       },
       {
@@ -201,10 +189,10 @@
         "cls": "COM SHS",
         "cusip": "833445109",
         "shares": 10000,
-        "value": 2545000,
+        "value": 3395600,
         "sector": "科技",
         "prevShares": 10000,
-        "prevValue": 1508200,
+        "prevValue": 2545000,
         "cnName": "Snowflake Inc."
       },
       {
@@ -213,27 +201,15 @@
         "cls": "CL A",
         "cusip": "88023B103",
         "shares": 20000,
-        "value": 1158600,
+        "value": 1638000,
         "sector": "医药",
         "prevShares": 20000,
-        "prevValue": 904400,
+        "prevValue": 1158600,
         "cnName": "泰普斯 AI"
-      },
-      {
-        "ticker": "INOD",
-        "name": "INNODATA INC",
-        "cls": "COM NEW",
-        "cusip": "457642205",
-        "shares": 10000,
-        "value": 755800,
-        "sector": "科技",
-        "prevShares": 10000,
-        "prevValue": 386200,
-        "cnName": "Innodata Inc."
       }
     ],
-    "prevQuarter": "2026 Q1",
-    "prevTotalValue": 20003996234
+    "prevQuarter": "2026 Q2",
+    "prevTotalValue": 19100584155
   },
   "history": {
     "quarters": [
@@ -267,7 +243,8 @@
       "2025 Q3",
       "2025 Q4",
       "2026 Q1",
-      "2026 Q2"
+      "2026 Q2",
+      "2026 Q3"
     ],
     "values": [
       836,
@@ -300,7 +277,8 @@
       14679,
       17489,
       20004,
-      19101
+      19101,
+      17191
     ],
     "holdings": {
       "2018 Q4": [
@@ -3949,6 +3927,200 @@
           "prevShares": 10000,
           "prevValue": 386200,
           "cnName": "Innodata Inc."
+        }
+      ],
+      "2026 Q3": [
+        {
+          "ticker": "AAPL",
+          "name": "APPLE INC",
+          "cls": "COM",
+          "cusip": "037833100",
+          "shares": 21202403,
+          "value": 7060824247,
+          "sector": "科技",
+          "prevShares": 27098707,
+          "prevValue": 7841281858,
+          "cnName": "苹果"
+        },
+        {
+          "ticker": "BRK/B",
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "cls": "CL B NEW",
+          "cusip": "084670702",
+          "shares": 8356796,
+          "value": 4161266568,
+          "sector": "其他",
+          "prevShares": 9229696,
+          "prevValue": 4618447581,
+          "cnName": "伯克希尔哈撒韦 B 类"
+        },
+        {
+          "ticker": "PDD",
+          "name": "PDD HOLDINGS INC",
+          "cls": "SPONSORED ADS",
+          "cusip": "722304102",
+          "shares": 27990859,
+          "value": 2181607550,
+          "sector": "电商",
+          "prevShares": 25022094,
+          "prevValue": 1908685330,
+          "cnName": "拼多多"
+        },
+        {
+          "ticker": "TSLA",
+          "name": "TESLA INC",
+          "cls": "COM",
+          "cusip": "88160R101",
+          "shares": 4080000,
+          "value": 1447624800,
+          "sector": "汽车/新能源",
+          "prevShares": 3380400,
+          "prevValue": 1421796240,
+          "cnName": "特斯拉"
+        },
+        {
+          "ticker": "OXY",
+          "name": "OCCIDENTAL PETE CORP",
+          "cls": "COM",
+          "cusip": "674599105",
+          "shares": 10261500,
+          "value": 567666180,
+          "sector": "能源",
+          "prevShares": 10261500,
+          "prevValue": 498401055,
+          "cnName": "西方石油"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA CORPORATION",
+          "cls": "COM",
+          "cusip": "67066G104",
+          "shares": 2319475,
+          "value": 529721701,
+          "sector": "半导体",
+          "prevShares": 6280675,
+          "prevValue": 1256700261,
+          "cnName": "英伟达"
+        },
+        {
+          "ticker": "GOOG",
+          "name": "ALPHABET INC",
+          "cls": "CAP STK CL C",
+          "cusip": "02079K107",
+          "shares": 1151700,
+          "value": 392430258,
+          "sector": "互联网",
+          "prevShares": 1968600,
+          "prevValue": 695565438,
+          "cnName": "谷歌C"
+        },
+        {
+          "ticker": "MSFT",
+          "name": "MICROSOFT CORP",
+          "cls": "COM",
+          "cusip": "594918104",
+          "shares": 694100,
+          "value": 356003890,
+          "sector": "科技",
+          "prevShares": 754100,
+          "prevValue": 281294382,
+          "cnName": "微软"
+        },
+        {
+          "ticker": "DIS",
+          "name": "DISNEY WALT CO",
+          "cls": "COM",
+          "cusip": "254687106",
+          "shares": 1706600,
+          "value": 179022340,
+          "sector": "娱乐",
+          "prevShares": 1706600,
+          "prevValue": 164260250,
+          "cnName": "迪士尼"
+        },
+        {
+          "ticker": "UNH",
+          "name": "UNITEDHEALTH GROUP INC",
+          "cls": "COM",
+          "cusip": "91324P102",
+          "shares": 399600,
+          "value": 146685168,
+          "sector": "保险",
+          "prevShares": 399600,
+          "prevValue": 166085748,
+          "cnName": "联合健康"
+        },
+        {
+          "ticker": "CRDO",
+          "name": "CREDO TECHNOLOGY GROUP HOLDI",
+          "cls": "ORDINARY SHARES",
+          "cusip": "G25457105",
+          "shares": 601300,
+          "value": 117127227,
+          "sector": "半导体",
+          "prevShares": 701200,
+          "prevValue": 190691340,
+          "cnName": "思瑞光电"
+        },
+        {
+          "ticker": "SPCX",
+          "name": "SPACE EXPLORATION TECHN CORP",
+          "cls": "CLASS A COM STK",
+          "cusip": "84615Q103",
+          "shares": 199900,
+          "value": 30156914,
+          "sector": "工业",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "Space Exploration Technologies Corp."
+        },
+        {
+          "ticker": "PLTR",
+          "name": "PALANTIR TECHNOLOGIES INC",
+          "cls": "CL A",
+          "cusip": "69608A108",
+          "shares": 60000,
+          "value": 11223000,
+          "sector": "科技",
+          "prevShares": 60000,
+          "prevValue": 7000200,
+          "cnName": "Palantir Technologies Inc."
+        },
+        {
+          "ticker": "SNPS",
+          "name": "SYNOPSYS INC",
+          "cls": "COM",
+          "cusip": "871607107",
+          "shares": 10000,
+          "value": 4349400,
+          "sector": "半导体",
+          "prevShares": 10000,
+          "prevValue": 4460700,
+          "cnName": "新思科技"
+        },
+        {
+          "ticker": "SNOW",
+          "name": "SNOWFLAKE INC",
+          "cls": "COM SHS",
+          "cusip": "833445109",
+          "shares": 10000,
+          "value": 3395600,
+          "sector": "科技",
+          "prevShares": 10000,
+          "prevValue": 2545000,
+          "cnName": "Snowflake Inc."
+        },
+        {
+          "ticker": "TEM",
+          "name": "TEMPUS AI INC",
+          "cls": "CL A",
+          "cusip": "88023B103",
+          "shares": 20000,
+          "value": 1638000,
+          "sector": "医药",
+          "prevShares": 20000,
+          "prevValue": 1158600,
+          "cnName": "泰普斯 AI"
         }
       ]
     }

@@ -5,15 +5,15 @@
     "notablePeople": [
       "Bruce Berkowitz"
     ],
-    "lastUpdated": "2026-11-16T04:34:31Z",
+    "lastUpdated": "2026-11-16T22:43:33Z",
     "aiSummary": "伯科威茨大举增持伯克希尔股票并新增辉瑞等仓位，显示其看好价值股及消费医疗板块的长期配置逻辑。",
     "aiSummaryQuarter": "2026 Q2"
   },
   "current": {
-    "quarter": "2026 Q2",
-    "filingDate": "2026-08-14",
-    "periodEnd": "2026-06-30",
-    "totalValue": 1489888626,
+    "quarter": "2026 Q3",
+    "filingDate": "2026-11-16",
+    "periodEnd": "2026-09-30",
+    "totalValue": 1549866942,
     "holdings": [
       {
         "ticker": "JOE",
@@ -21,10 +21,10 @@
         "cls": "COM",
         "cusip": "790148100",
         "shares": 18182367,
-        "value": 1138761645,
+        "value": 1196036101,
         "sector": "地产",
-        "prevShares": 19210167,
-        "prevValue": 1206398488,
+        "prevShares": 18182367,
+        "prevValue": 1138761645,
         "cnName": "圣乔公司"
       },
       {
@@ -32,48 +32,60 @@
         "name": "ENTERPRISE PRODS PARTNERS L",
         "cls": "COM",
         "cusip": "293792107",
-        "shares": 5455800,
-        "value": 200555208,
+        "shares": 5458600,
+        "value": 194380746,
         "sector": "能源",
         "prevShares": 5455800,
-        "prevValue": 206447472,
+        "prevValue": 200555208,
         "cnName": "企业产品合作伙伴"
-      },
-      {
-        "ticker": "OZK",
-        "name": "BANK OZK",
-        "cls": "COM",
-        "cusip": "06417N103",
-        "shares": 921252,
-        "value": 47988026,
-        "sector": "金融/银行",
-        "prevShares": 921252,
-        "prevValue": 42276263,
-        "cnName": "奥兹克银行"
       },
       {
         "ticker": "BRK/B",
         "name": "BERKSHIRE HATHAWAY INC DEL",
         "cls": "CL B NEW",
         "cusip": "084670702",
-        "shares": 87852,
-        "value": 43960262,
+        "shares": 100372,
+        "value": 49980237,
         "sector": "其他",
-        "prevShares": 50452,
-        "prevValue": 24176598,
+        "prevShares": 87852,
+        "prevValue": 43960262,
         "cnName": "伯克希尔哈撒韦 B 类"
       },
       {
+        "ticker": "OZK",
+        "name": "BANK OZK",
+        "cls": "COM",
+        "cusip": "06417N103",
+        "shares": 921452,
+        "value": 42349943,
+        "sector": "金融/银行",
+        "prevShares": 921252,
+        "prevValue": 47988026,
+        "cnName": "奥兹克银行"
+      },
+      {
         "ticker": "WRB",
-        "name": "WR Berkley Corp",
+        "name": "WR BERKLEY CORP",
         "cls": "COM",
         "cusip": "084423102",
         "shares": 256350,
-        "value": 18080365,
+        "value": 17313879,
         "sector": "保险",
         "prevShares": 256350,
-        "prevValue": 16990878,
+        "prevValue": 18080365,
         "cnName": "伯克利风险"
+      },
+      {
+        "ticker": "BRK/A",
+        "name": "BERKSHIRE HATHAWAY INC DEL",
+        "cls": "CL A",
+        "cusip": "084670108",
+        "shares": 21,
+        "value": 15687105,
+        "sector": "其他",
+        "prevShares": 11,
+        "prevValue": 8237350,
+        "cnName": "伯克希尔哈撒韦 A 类"
       },
       {
         "ticker": "PGR",
@@ -81,23 +93,11 @@
         "cls": "COM",
         "cusip": "743315103",
         "shares": 72200,
-        "value": 15772090,
+        "value": 14967782,
         "sector": "保险",
-        "prevShares": 66400,
-        "prevValue": 13163136,
+        "prevShares": 72200,
+        "prevValue": 15772090,
         "cnName": "进步集团"
-      },
-      {
-        "ticker": "BRK/A",
-        "name": "BERKSHIRE HATHAWAY INC DEL",
-        "cls": "CL A",
-        "cusip": "084670108",
-        "shares": 11,
-        "value": 8237350,
-        "sector": "其他",
-        "prevShares": 2,
-        "prevValue": 1436280,
-        "cnName": "伯克希尔哈撒韦 A 类"
       },
       {
         "ticker": "PFE",
@@ -105,10 +105,10 @@
         "cls": "COM",
         "cusip": "717081103",
         "shares": 231000,
-        "value": 5562480,
+        "value": 6588120,
         "sector": "医药",
-        "prevShares": 0,
-        "prevValue": 0,
+        "prevShares": 231000,
+        "prevValue": 5562480,
         "cnName": "辉瑞"
       },
       {
@@ -117,10 +117,10 @@
         "cls": "COM",
         "cusip": "500754106",
         "shares": 202300,
-        "value": 4778326,
+        "value": 4596256,
         "sector": "消费",
-        "prevShares": 105300,
-        "prevValue": 2368197,
+        "prevShares": 202300,
+        "prevValue": 4778326,
         "cnName": "卡夫亨氏"
       },
       {
@@ -129,11 +129,23 @@
         "cls": "COM",
         "cusip": "134429109",
         "shares": 116500,
-        "value": 2594455,
+        "value": 2310195,
         "sector": "消费",
+        "prevShares": 116500,
+        "prevValue": 2594455,
+        "cnName": "汤普森食品"
+      },
+      {
+        "ticker": "CF",
+        "name": "CF INDUSTRIES HOLD",
+        "cls": "COM",
+        "cusip": "125269100",
+        "shares": 19900,
+        "value": 2292480,
+        "sector": "材料",
         "prevShares": 0,
         "prevValue": 0,
-        "cnName": "汤普森食品"
+        "cnName": "CF 工业控股"
       },
       {
         "ticker": "UPS",
@@ -141,10 +153,10 @@
         "cls": "CL B",
         "cusip": "911312106",
         "shares": 23800,
-        "value": 2558500,
+        "value": 2223872,
         "sector": "工业",
-        "prevShares": 0,
-        "prevValue": 0,
+        "prevShares": 23800,
+        "prevValue": 2558500,
         "cnName": "联合包裹服务"
       },
       {
@@ -153,10 +165,10 @@
         "cls": "COM",
         "cusip": "037833100",
         "shares": 2400,
-        "value": 694464,
+        "value": 799248,
         "sector": "科技",
         "prevShares": 2400,
-        "prevValue": 609096,
+        "prevValue": 694464,
         "cnName": "苹果"
       },
       {
@@ -165,15 +177,15 @@
         "cls": "COM",
         "cusip": "436893200",
         "shares": 12100,
-        "value": 345455,
+        "value": 340978,
         "sector": "金融/银行",
         "prevShares": 12100,
-        "prevValue": 325853,
+        "prevValue": 345455,
         "cnName": "Home BancShares, Inc."
       }
     ],
-    "prevQuarter": "2026 Q1",
-    "prevTotalValue": 1514192261
+    "prevQuarter": "2026 Q2",
+    "prevTotalValue": 1489888626
   },
   "history": {
     "quarters": [
@@ -228,7 +240,8 @@
       "2025 Q3",
       "2025 Q4",
       "2026 Q1",
-      "2026 Q2"
+      "2026 Q2",
+      "2026 Q3"
     ],
     "values": [
       8,
@@ -282,7 +295,8 @@
       1239,
       1434,
       1514,
-      1490
+      1490,
+      1550
     ],
     "holdings": {
       "2013 Q3": [
@@ -8671,6 +8685,176 @@
           "sector": "金融/银行",
           "prevShares": 12100,
           "prevValue": 325853,
+          "cnName": "Home BancShares, Inc."
+        }
+      ],
+      "2026 Q3": [
+        {
+          "ticker": "JOE",
+          "name": "ST JOE CO",
+          "cls": "COM",
+          "cusip": "790148100",
+          "shares": 18182367,
+          "value": 1196036101,
+          "sector": "地产",
+          "prevShares": 18182367,
+          "prevValue": 1138761645,
+          "cnName": "圣乔公司"
+        },
+        {
+          "ticker": "EPD",
+          "name": "ENTERPRISE PRODS PARTNERS L",
+          "cls": "COM",
+          "cusip": "293792107",
+          "shares": 5458600,
+          "value": 194380746,
+          "sector": "能源",
+          "prevShares": 5455800,
+          "prevValue": 200555208,
+          "cnName": "企业产品合作伙伴"
+        },
+        {
+          "ticker": "BRK/B",
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "cls": "CL B NEW",
+          "cusip": "084670702",
+          "shares": 100372,
+          "value": 49980237,
+          "sector": "其他",
+          "prevShares": 87852,
+          "prevValue": 43960262,
+          "cnName": "伯克希尔哈撒韦 B 类"
+        },
+        {
+          "ticker": "OZK",
+          "name": "BANK OZK",
+          "cls": "COM",
+          "cusip": "06417N103",
+          "shares": 921452,
+          "value": 42349943,
+          "sector": "金融/银行",
+          "prevShares": 921252,
+          "prevValue": 47988026,
+          "cnName": "奥兹克银行"
+        },
+        {
+          "ticker": "WRB",
+          "name": "WR BERKLEY CORP",
+          "cls": "COM",
+          "cusip": "084423102",
+          "shares": 256350,
+          "value": 17313879,
+          "sector": "保险",
+          "prevShares": 256350,
+          "prevValue": 18080365,
+          "cnName": "伯克利风险"
+        },
+        {
+          "ticker": "BRK/A",
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "cls": "CL A",
+          "cusip": "084670108",
+          "shares": 21,
+          "value": 15687105,
+          "sector": "其他",
+          "prevShares": 11,
+          "prevValue": 8237350,
+          "cnName": "伯克希尔哈撒韦 A 类"
+        },
+        {
+          "ticker": "PGR",
+          "name": "PROGRESSIVE CORP",
+          "cls": "COM",
+          "cusip": "743315103",
+          "shares": 72200,
+          "value": 14967782,
+          "sector": "保险",
+          "prevShares": 72200,
+          "prevValue": 15772090,
+          "cnName": "进步集团"
+        },
+        {
+          "ticker": "PFE",
+          "name": "PFIZER INC",
+          "cls": "COM",
+          "cusip": "717081103",
+          "shares": 231000,
+          "value": 6588120,
+          "sector": "医药",
+          "prevShares": 231000,
+          "prevValue": 5562480,
+          "cnName": "辉瑞"
+        },
+        {
+          "ticker": "KHC",
+          "name": "KRAFT HEINZ CO",
+          "cls": "COM",
+          "cusip": "500754106",
+          "shares": 202300,
+          "value": 4596256,
+          "sector": "消费",
+          "prevShares": 202300,
+          "prevValue": 4778326,
+          "cnName": "卡夫亨氏"
+        },
+        {
+          "ticker": "CPB",
+          "name": "THE CAMPBELLS COMPANY",
+          "cls": "COM",
+          "cusip": "134429109",
+          "shares": 116500,
+          "value": 2310195,
+          "sector": "消费",
+          "prevShares": 116500,
+          "prevValue": 2594455,
+          "cnName": "汤普森食品"
+        },
+        {
+          "ticker": "CF",
+          "name": "CF INDUSTRIES HOLD",
+          "cls": "COM",
+          "cusip": "125269100",
+          "shares": 19900,
+          "value": 2292480,
+          "sector": "材料",
+          "prevShares": 0,
+          "prevValue": 0,
+          "cnName": "CF 工业控股"
+        },
+        {
+          "ticker": "UPS",
+          "name": "UNITED PARCEL SVCS INC",
+          "cls": "CL B",
+          "cusip": "911312106",
+          "shares": 23800,
+          "value": 2223872,
+          "sector": "工业",
+          "prevShares": 23800,
+          "prevValue": 2558500,
+          "cnName": "联合包裹服务"
+        },
+        {
+          "ticker": "AAPL",
+          "name": "APPLE INC",
+          "cls": "COM",
+          "cusip": "037833100",
+          "shares": 2400,
+          "value": 799248,
+          "sector": "科技",
+          "prevShares": 2400,
+          "prevValue": 694464,
+          "cnName": "苹果"
+        },
+        {
+          "ticker": "HOMB",
+          "name": "HOME BANCSHARES INC",
+          "cls": "COM",
+          "cusip": "436893200",
+          "shares": 12100,
+          "value": 340978,
+          "sector": "金融/银行",
+          "prevShares": 12100,
+          "prevValue": 345455,
           "cnName": "Home BancShares, Inc."
         }
       ]

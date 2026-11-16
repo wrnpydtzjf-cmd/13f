@@ -1778,5 +1778,29 @@
   "GFL": {
     "cnName": "GFL Environmental Inc.",
     "sector": "工业"
+  },
+  "MOD": {
+    "cnName": "Modine Manufacturing Company",
+    "sector": "工业"
+  },
+  "INTU": {
+    "cnName": "Intuit Inc.",
+    "sector": "科技"
+  },
+  "COO": {
+    "cnName": "The Cooper Companies, Inc.",
+    "sector": "医药"
+  },
+  "FIGR": {
+    "cnName": "Figure Technology Solutions, Inc.",
+    "sector": "金融"
+  },
+  "SHW": {
+    "cnName": "The Sherwin-Williams Company",
+    "sector": "材料"
+  },
+  "HD": {
+    "cnName": "The Home Depot, Inc.",
+    "sector": "消费"
   }
 }
