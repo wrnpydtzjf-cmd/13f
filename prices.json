@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:04:33.745439Z",
+  "updated": "2026-11-19T05:45:14.948400Z",
   "quotes": {
     "PDD": {
       "c": 77.45,
@@ -183,6 +183,13 @@
       "exitPrice": 61.61,
       "changePct": 6.3
     },
+    "BRK.B": {
+      "entryQuarter": "2022 Q1",
+      "entryPrice": 303.26,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 505.82,
+      "changePct": 66.8
+    },
     "BAC": {
       "entryQuarter": "2020 Q1",
       "entryPrice": 22.44,
@@ -196,13 +203,6 @@
       "exitQuarter": "2026 Q3",
       "exitPrice": 9.57,
       "changePct": 4.4
-    },
-    "BRK.B": {
-      "entryQuarter": "2022 Q1",
-      "entryPrice": 303.26,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 505.82,
-      "changePct": 66.8
     }
   }
 }
