@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-19T21:22:16Z",
-  "dateFrom": "20251119",
-  "dateTo": "20261119",
+  "updatedAt": "2026-11-20T05:45:54Z",
+  "dateFrom": "20251120",
+  "dateTo": "20261120",
   "count": 74,
   "companies": [
     {
@@ -939,11 +939,6 @@
           "date": "2025-11-21",
           "title": "重大协议签订（2025-11-21）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-19",
-          "title": "重大协议签订（2025-11-19）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839285&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "completed",
@@ -951,6 +946,7 @@
       "cik": "1839285",
       "parentMarketCap": 0.1,
       "nameCN": "",
+      "lastUpdated": "2026-11-20T05:46:37Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -2931,14 +2927,14 @@
           "parentPriceNow": 217.84,
           "parentChangePct": -3.8,
           "spinoffPriceAtSpin": 219.66,
-          "spinoffPriceNow": 155.84,
-          "spinoffChangePct": -29.1,
-          "updatedAt": "2026-11-19"
+          "spinoffPriceNow": 157.85,
+          "spinoffChangePct": -28.1,
+          "updatedAt": "2026-11-20"
         }
       ],
       "greenblattNote": {
-        "zh": "分拆标的市值约为母公司的68.7%，规模不算典型的'机构抛售'目标，上市后表现为-29.1%。",
-        "en": "At roughly 68.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -29.1%."
+        "zh": "分拆标的市值约为母公司的68.7%，规模不算典型的'机构抛售'目标，上市后表现为-28.1%。",
+        "en": "At roughly 68.7% of parent market cap, this isn't the classic small-orphan target for institutional dumping. Post-listing performance is -28.1%."
       }
     },
     {
