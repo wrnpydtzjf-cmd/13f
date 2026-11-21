@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T05:37:40Z",
+  "updatedAt": "2026-11-21T20:05:59Z",
   "dateFrom": "20251121",
   "dateTo": "20261121",
   "count": 38,
@@ -1180,7 +1180,6 @@
         "currency": "HKD",
         "updatedAt": "2026-11-21"
       },
-      "lastUpdated": "2026-11-21T05:39:29Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无分拆标的市值和上市后价格数据，暂不构成可判断的格林布拉特信号，建议等待上市后再评估。",
         "en": "The spinoff is still in progress — no market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals. Best to revisit once the listing completes."

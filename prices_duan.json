@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:28:27.237848Z",
+  "updated": "2026-11-21T19:55:51.206918Z",
   "quotes": {
     "AAPL": {
       "c": 342.56,
@@ -368,19 +368,19 @@
     }
   },
   "exitPerf": {
-    "CRCL": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 60.31,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 127.37,
-      "changePct": 111.2
-    },
     "BABA": {
       "entryQuarter": "2021 Q2",
       "entryPrice": 103.63,
       "exitQuarter": "2026 Q2",
       "exitPrice": 139.31,
       "changePct": 34.4
+    },
+    "CRCL": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 60.31,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 127.37,
+      "changePct": 111.2
     },
     "INOD": {
       "entryQuarter": "2026 Q1",
