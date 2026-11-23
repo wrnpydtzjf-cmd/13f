@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:07:55.449937Z",
+  "updated": "2026-11-23T05:33:45.778207Z",
   "quotes": {
     "AAPL": {
       "c": 342.56,
@@ -368,12 +368,12 @@
     }
   },
   "exitPerf": {
-    "BRK.B": {
-      "entryQuarter": "2018 Q4",
-      "entryPrice": 364.77,
-      "exitQuarter": "2026 Q1",
-      "exitPrice": 505.82,
-      "changePct": 38.7
+    "CRCL": {
+      "entryQuarter": "2026 Q1",
+      "entryPrice": 60.31,
+      "exitQuarter": "2026 Q2",
+      "exitPrice": 127.37,
+      "changePct": 111.2
     },
     "YY": {
       "entryQuarter": "2020 Q4",
@@ -389,19 +389,19 @@
       "exitPrice": 139.31,
       "changePct": 34.4
     },
+    "BRK.B": {
+      "entryQuarter": "2018 Q4",
+      "entryPrice": 364.77,
+      "exitQuarter": "2026 Q1",
+      "exitPrice": 505.82,
+      "changePct": 38.7
+    },
     "INOD": {
       "entryQuarter": "2026 Q1",
       "entryPrice": 38.98,
       "exitQuarter": "2026 Q2",
       "exitPrice": 109.61,
       "changePct": 181.2
-    },
-    "CRCL": {
-      "entryQuarter": "2026 Q1",
-      "entryPrice": 60.31,
-      "exitQuarter": "2026 Q2",
-      "exitPrice": 127.37,
-      "changePct": 111.2
     }
   }
 }
