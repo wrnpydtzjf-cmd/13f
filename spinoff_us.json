@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T22:20:23Z",
-  "dateFrom": "20251125",
-  "dateTo": "20261125",
-  "count": 73,
+  "updatedAt": "2026-11-26T06:53:02Z",
+  "dateFrom": "20251126",
+  "dateTo": "20261126",
+  "count": 72,
   "companies": [
     {
       "ticker": "DAN",
@@ -118,7 +118,6 @@
       "aiSummary": "标普全球完成分拆，旗下 S&P Global Inc. 业务独立运营，预计 2026 年 7 月 2 日交割。",
       "parentMarketCap": 1302.1,
       "nameCN": "",
-      "lastUpdated": "2026-11-25T22:21:18Z",
       "greenblattNote": {
         "zh": "数据尚不足以判断是否符合格林布拉特分拆筛选特征，建议关注后续市值和价格数据。",
         "en": "Not enough data yet to assess this against Greenblatt's spinoff criteria — worth watching for market-cap and price data as it becomes available."
@@ -1542,7 +1541,6 @@
       "aiSummary": "华纳兄弟探索推进分拆，旗下华纳兄弟探照灯等娱乐业务将独立运营。",
       "parentMarketCap": 654.3,
       "nameCN": "华纳兄弟探索",
-      "lastUpdated": "2026-11-25T22:21:18Z",
       "greenblattNote": {
         "zh": "母公司市值约654亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $654B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -1832,11 +1830,6 @@
           "date": "2026-06-18",
           "title": "股东权益变动（2026-06-18）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-25",
-          "title": "重大协议签订、分拆进展公告（2025-11-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1788060&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -1845,6 +1838,7 @@
       "aiSummary": "航海者技术公司启动纯分拆，将专注于提供先进网络安全解决方案服务。",
       "parentMarketCap": 19.7,
       "nameCN": "航海者技术公司",
+      "lastUpdated": "2026-11-26T06:53:48Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2269,11 +2263,6 @@
           "date": "2026-02-03",
           "title": "重大协议签订、投资者关系公告（2026-02-03）",
           "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
-        },
-        {
-          "date": "2025-11-25",
-          "title": "重大协议签订（2025-11-25）",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1831481&type=8-K&dateb=&owner=include&count=40"
         }
       ],
       "status": "in_progress",
@@ -2282,6 +2271,7 @@
       "aiSummary": "萨布尔离岸公司推进纯分拆，完成 SEC 备案，子公司将独立运营。",
       "parentMarketCap": 6.6,
       "nameCN": "",
+      "lastUpdated": "2026-11-26T06:53:48Z",
       "greenblattNote": {
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
@@ -2754,7 +2744,6 @@
       "aiSummary": "奈飞推进分拆，旗下 Netflix 流媒体服务业务将独立上市运营。",
       "parentMarketCap": 3269.7,
       "nameCN": "奈飞",
-      "lastUpdated": "2026-11-25T22:21:18Z",
       "greenblattNote": {
         "zh": "母公司市值约3270亿美元，规模较大，是标普型指数成分股分拆时常见的'机构强制卖压'候选，建议关注分拆完成、独立上市后的股价表现。",
         "en": "Parent market cap is around $3270B — the kind of larger, index-eligible parent where Greenblatt's institutional forced-selling dynamic often plays out post-spinoff. Worth watching price action once the spinoff lists independently."
@@ -2969,7 +2958,7 @@
           "spinoffPriceAtSpin": 219.66,
           "spinoffPriceNow": 157.84,
           "spinoffChangePct": -28.1,
-          "updatedAt": "2026-11-25"
+          "updatedAt": "2026-11-26"
         }
       ],
       "greenblattNote": {
@@ -3878,42 +3867,6 @@
         "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
         "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
       }
-    },
-    {
-      "ticker": "CPSS",
-      "name": "CONSUMER PORTFOLIO SERVICES, INC.  (CPSS)",
-      "spinoffName": "",
-      "spinoffTicker": "",
-      "type": "spinoff",
-      "exchange": "NYSE/Nasdaq",
-      "recordDate": "",
-      "distributionDate": "",
-      "announcements": [
-        {
-          "date": "2025-11-25",
-          "title": "SEC 8-K: CONSUMER PORTFOLIO SERVICES, INC.  (CPSS) spin-off filing",
-          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=889609&type=8-K&dateb=&owner=include&count=10",
-          "stockPrice": 8.38,
-          "stockPriceDate": "2025-11-25"
-        }
-      ],
-      "status": "in_progress",
-      "source": "edgar",
-      "cik": "889609",
-      "nameCN": "消费者投资组合服务公司",
-      "aiSummary": "消费者投资组合推进分拆，旗下客户服务业务将独立开展债务管理服务。",
-      "parentMarketCap": 2.1,
-      "parentPricePerf": {
-        "firstAnnouncementDate": "2025-11-25",
-        "priceAtAnnouncement": 8.38,
-        "priceNow": 9.09,
-        "changePct": 8.5
-      },
-      "greenblattNote": {
-        "zh": "分拆尚在进行中，暂无独立市值和上市后价格数据，暂不构成可判断的格林布拉特信号。",
-        "en": "The spinoff is still in progress — no independent market-cap or post-listing price data yet, so it's too early to apply Greenblatt's screening signals."
-      },
-      "lastUpdated": "2025-11-25T00:00:00Z"
     },
     {
       "ticker": "CMCSA",
